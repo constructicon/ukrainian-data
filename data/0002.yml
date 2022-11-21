@@ -1,0 +1,41 @@
+---
+record: 2
+name: 'як та/те NP'
+illustration: 'як та купина'
+cefr_level: 
+definitions:
+  - ukrainian: |
+       Конструкція використовується у [порівнянні]Comparison, щоб конкретизувати, унаочнити певне поняття.
+  - english: |
+       This construction is used in [comparison]Comparison to concretize, clearly demonstrate a certain notion.
+  - russian: |
+       Конструкция используется в [сравнениях]Comparison  для того, чтобы конкретизировать, наглядно продемонстрировать определенное понятие.
+examples:
+  - |
+       Усе розвіялось, як та [роса.]Сomparison
+  - |
+       На річах такий був гострий, як та [бритва] Сomparison
+  - |
+       Так людей жене, як тих [волів] Сomparison
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+intonation:
+  - NA
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity

@@ -1,0 +1,58 @@
+---
+record: 1
+name: 'чого доброго VP-Pfv.Fut'
+illustration: 'Чого доброго, буде дощ.'
+cefr_level: пока можно не заполнять
+definitions:
+  - ukrainian: |
+       Конструкція означає, що промовець вважає за можливе або ймовірне, що станеться якась неприємна/небажана [дія] Action або [ситуація]Situation. Зазвичай слот заповнюється дієсловом доконаного виду.
+  - english: |
+       This construction indicates that the speaker considers it possible or likely that some unpleasant/undesirable [action]Action or [situation]Situation will happen. Normally the slot is filled with a perfective verb.
+  - russian: |
+       Конструкция обозначает, что говорящий считает возможным или вероятным, что произойдет какое-либо неприятное или нежелательное [действие]Action или [ситуация]Situation. Обычно слот заполняется глаголом совершенного вида.
+examples:
+  - |
+       Він з острахом поточився назад. [Ще побачить]Situation, чого доброго, [і підніме ґвалт]Situation .
+  - |
+       В повітрі парило. Мокра сорочка горнулася до тіла. Над головою вилися стрижі. Але ж, чого доброго, [дощ буде]Situation, сказав Ведмедик, вдивляючись в небо.
+  - |
+       Так ці бешкетники так забулися в моїй присутності, що у мене в вухах ломить від їх крику. Мабуть, чого доброго, [візьмуться за святі волоса]Situation!
+morphology:
+  - VP
+  - Pfv
+  - Fut
+syntactic_type_of_construction:
+  - пока можно не заполнять
+syntactic_function_of_anchor:
+  - пока можно не заполнять
+syntactic_structure_of_anchor:
+  - пока можно не заполнять
+part_of_speech_of_anchor:
+  - пока можно не заполнять
+intonation:
+  - Declarative
+usage_label: Colloquial
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       I fear that X; Chances are that X
+  - russian: |
+       чего доброго VP-Pfv.Fut
+common_fillers:
+  - NA
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Degree of certainty
+        subtypes:
+          - type: Low degree of certainty
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Naming
