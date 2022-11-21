@@ -46,7 +46,6 @@ def write_record(row, record):
         f.write("---\n")
         f.write(f"record: {record}\n")
         f.write(f"name: '{row['Name'].strip()}'\n")
-#         f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
@@ -71,8 +70,6 @@ def write_record(row, record):
         f.write(print_as_yaml_list(row["Synt. structure of anchor"], split_sequence))
         f.write("part_of_speech_of_anchor:\n")
         f.write(print_as_yaml_list(row["Part of speech of anchor"], split_sequence))
-#         f.write("semantic_roles:\n")
-#         f.write(print_as_yaml_list(row["Semantic role"], split_sequence))
         f.write("intonation:\n")
         f.write(
             print_as_yaml_list(
