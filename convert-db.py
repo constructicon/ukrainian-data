@@ -46,17 +46,17 @@ def write_record(row, record):
         f.write("---\n")
         f.write(f"record: {record}\n")
         f.write(f"name: '{row['Name'].strip()}'\n")
-        f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
+#         f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
-        for language in ["Russian", "English", "Norwegian"]:
+        for language in ["Ukrainian", "English", "Russian"]:
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
                 f.write(f"       {entry}\n")
         f.write("examples:\n")
-        for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
+        for column in ["Example 1", "Example 2", "Example 3"]:
             entry = row[column].strip()
             if entry != "":
                 f.write("  - |\n")
@@ -71,8 +71,8 @@ def write_record(row, record):
         f.write(print_as_yaml_list(row["Synt. structure of anchor"], split_sequence))
         f.write("part_of_speech_of_anchor:\n")
         f.write(print_as_yaml_list(row["Part of speech of anchor"], split_sequence))
-        f.write("semantic_roles:\n")
-        f.write(print_as_yaml_list(row["Semantic role"], split_sequence))
+#         f.write("semantic_roles:\n")
+#         f.write(print_as_yaml_list(row["Semantic role"], split_sequence))
         f.write("intonation:\n")
         f.write(
             print_as_yaml_list(
@@ -82,23 +82,13 @@ def write_record(row, record):
         )
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
 
-        f.write("dependency_structure:\n")
-        f.write(print_as_yaml_list(row["Dependency Structure"], split_sequence))
-        f.write("dependency_structure_of_illustration:\n")
-        f.write(
-            print_as_yaml_list(
-                row["Dependency Structure of Illustration"].replace("\\n", " "),
-                ["+"],
-            )
-        )
-
         entry = row["Comment"].strip()
         if entry != "":
             f.write("comment: |\n")
             f.write(f"    '{entry}'\n")
 
         f.write("equivalents:\n")
-        for language in ["Norwegian", "English"]:
+        for language in ["English", "Russian"]:
             entry = row[f"{language} equivalent"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
@@ -112,9 +102,6 @@ def write_record(row, record):
             )
         )
 
-        f.write("references:\n")
-        f.write("  - |\n")
-        f.write("    " + row["References"].strip() + "\n")
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":
@@ -139,9 +126,7 @@ def write_record(row, record):
                                 f.write(f"      - type: {chunk.strip()}\n")
                             case other:
                                 sys.exit("Error: extend code to deal with 3 colons")
-        f.write("family:\n")
-        f.write("  - |\n")
-        f.write('    "' + row["Family"] + '"\n')
+
 
 
 if __name__ == "__main__":
