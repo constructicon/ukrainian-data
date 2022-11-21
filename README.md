@@ -2,7 +2,7 @@
 [![](<https://img.shields.io/badge/Dataverse DOI-10.18710/3AM2QM-orange>)](https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/3AM2QM)
 
 
-## Data for https://github.com/constructicon/russian
+## Data for https://github.com/constructicon/ukrainian
 
 
 ### Generation of YAML files
