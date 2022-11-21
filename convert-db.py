@@ -128,7 +128,6 @@ def write_record(row, record):
                                 sys.exit("Error: extend code to deal with 3 colons")
 
 
-
 if __name__ == "__main__":
     with open(sys.argv[-1], "r") as f:
         reader = csv.DictReader(f)
