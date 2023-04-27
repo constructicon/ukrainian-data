@@ -1,0 +1,44 @@
+---
+record: 41
+name: 'за рахунок NP-Gen'
+illustration: 'Бібліотека зростала тільки за рахунок пожертв громадян та обміну з іншими науковими установами.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [деяка ситуація]Situation має місце за наявності [певних супутніх обставин]Condition.
+  - english: |
+       This construction indicates that [certain circumstances]Condition make it possible for a [certain]Situation to occurs.
+  - russian: |
+       Конструкция указывает на то, что [некоторая ситуация]Situation имеет место при наличии [определенных сопутствующих обстоятельств]Condition.
+examples:
+  - |
+       За рахунок [цього фонду]Condition [було придбано одяг та взуття]Situation для 34 дітей. (Іван Клімаш та ін. "Історія міст і сіл Української РСР. Волинська область", 1970)
+  - |
+       Атомний годинник не є сьогоднішнім відкриттям. Такий механізм [вимірює час]Situation, за рахунок [впливу лазера на атоми металу]Condition, які миттєво переходять з одного енергетичного стану в інший. (Журнал «НВ», 2018)
+  - |
+       Такого [результату досягнуто]Situation, перш за все, за рахунок [зростання обсягів транзиту газу]Condition. (Онлайн-ЗМІ «Економічна правда», 2017).
+morphology:
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       thanks to, due to
+  - russian: |
+       за счет NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Condition
+    subtypes:
+      - type: Condition

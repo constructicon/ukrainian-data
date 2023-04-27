@@ -1,0 +1,44 @@
+---
+record: 33
+name: 'Cl в порівнянні з NP-Ins'
+illustration: 'Ціни в цьому сезоні виросли приблизно на 30 % в порівнянні з минулим роком.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція означає порівняння і протиставлення будь-яких предметів чи явищ, виявлення у яких подібності чи відмінності, переваг чи недоліків тощо. Конструкція вказує на те, що [деякі характеристики]Property [якогось об'єкта або учасника]Comparee виражені більшою або меншою мірою, ніж [інші]Standard.
+  - english: |
+       The construction denotes the comparison and opposition of any objects or phenomena, revealing in them the similarities or differences, advantages or shortcomings and so on. The construction indicates that [certain characteristics]Property [of some object or participant]Comparee are expressed to a greater or lesser extent than [other]Standard.
+  - russian: |
+       Конструкция обозначает сравнение и противопоставление каких-либо предметов или явлений, выявление в них сходства или различия, достоинств или недостатков и т.д. Конструкция указывает на то, что [некоторые характеристики]Property [какого-либо объекта или участника]Comparee выражены в большей или меньшей степени, чем [другие]Standard.
+examples:
+  - |
+       І в порівнянні з [цим сяйвом]Standart [берег]Comparee [здавався темносинім, вкритим імлистим покривалом]Property. (Ніколай Панов "Боцман з «Тумана», 1957)
+  - |
+       [Норвегія]Comparee в порівнянні з [іншими країнами Європи]Standart до теперішнього часу [успішно справляється з пандемією коронавирусу]Property. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+  - |
+       Також [зменшився]Property [рівень оптимізму]Comparee в порівнянні з [попередніми двома роками]Standart. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+morphology:
+  - Cl
+  - NP-Ins
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       in comparison with
+  - russian: |
+       Cl по сравнению с NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast

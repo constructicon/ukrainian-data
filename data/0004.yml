@@ -1,0 +1,51 @@
+---
+record: 4
+name: 'NP-Nom набиратися (набратися) NP-Gen'
+illustration: 'Хлопчик ріс і набирався сил'
+cefr_level: С1
+definitions:
+  - ukrainian: |
+       Конструкція підкреслює здатність знаходити в собі які-небудь [внутрішні сили, якості] Theme.
+  - english: |
+       The construction emphasizes the ability to find some [internal strenght, qualities] Theme in oneself
+  - russian: |
+       Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества] Theme
+examples:
+  - |
+       Словом, на наступний день ми півдня просиділи в квартирі, набиралися [сил]Theme. (Онлайн-ЗМІ "ПРОЧЕРК.інфо", 2011). 380
+  - |
+       Це нове покоління студентів Острозької академії, яке зараз тільки набирається [знань] Theme і формує своє бачення світу (Газета "День", 2010)
+  - |
+       Тут дорослі стають допитливими дітлахами, а малюки набираються [розуму] Theme. (Інтернет-газета "Український тиждень", 2009) 280
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+intonation:
+  - Declarative
+usage_label: Colloquial
+equivalents:
+  - english: |
+       gain/get smth
+  - russian: |
+       NP-Nom набраться NP-Gen
+common_fillers:
+  - сил
+  - досвіду
+  - знань
+  - розуму
+  - навиків
+  - надхнення
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Cumulative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state

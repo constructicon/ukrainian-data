@@ -1,0 +1,49 @@
+---
+record: 9
+name: 'теж мені NP-Nom, Cl!'
+illustration: 'Теж мені помічник!'
+cefr_level: В2
+definitions:
+  - ukrainian: |
+       Конструкція вживається для вираження несхвального, іронічного або негативного ставлення до кого/чого-небудь ([объект]Theme, [участник]Participant или [ситуація]Situation)
+  - english: |
+       The construction is used to express a disapproving, ironic or negative attitude towards someone ([object]Theme, [participant]Participant or [situation]Situation)
+  - russian: |
+       Конструкция используется для выражения неодобрительного, иронического или отрицательного отношения к кому-либо ([объект]Theme, [участник]Participant или [ситуация]Situation)
+examples:
+  - |
+       А коли я вже було зважився ознайомити тебе з деякими деталями, то ти послався на свою зайнятість.Теж мені [керівник]Participant... (Олег Романчук"Зоряний кристал", 1986)
+  - |
+       Люди в космос літають, а тут шину на ходу пробити — теж мені [проблема]Theme. (Віктор Тимченко"Ключ від чужого замка", 1988)
+  - |
+       Мартинюк був обурений. Проглядав аркуші паперу, списані чітким почерком, відсував од себе і знову перечитував. — Теж мені [науковці знайшлися]Participant? (Микола Зарудний"Гілея", 1979)
+morphology:
+  - NP-Nom
+  - Cl
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+intonation:
+  - Exclamatory
+usage_label: Colloqual
+equivalents:
+  - english: |
+       a false X/ a pseudo X
+  - russian: |
+       тоже мне NP-Nom!
+common_fillers:
+  - NA
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative

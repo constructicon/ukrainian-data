@@ -1,0 +1,48 @@
+---
+record: 34
+name: 'VP/NP по відношенню до NP-Gen'
+illustration: 'Бути справедливим по відношенню до всіх і відповідальним.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що деяка [дія]Action спрямована на [учасника]Addressee або [групу учасників]Addressee. Конструкція може також вказувати на [учасника або об'єкт]Parameter, про який висловлюється [певна думка]Evaluation.
+  - english: |
+       The construction means that some [action]Action is directed to [participant]Addressee or [participant group]Addressee. The construct can also point to the [participant or object]Parameter about which the [certain opinion]Evaluation is expressed.
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee. Конструкция может также указывать на [участника или объект]Parameter, о котором высказывается [определенное суждение]Evaluation.
+examples:
+  - |
+       «[Моя надмірно емоційна реакція і нестримана поведінка]Action по відношенню до [журналістів]Addressee не мають виправдання», — заявив він. (Журнал «НВ», 2021 )
+  - |
+       Ці компанії [повели себе невідповідально]Action по відношенню до [своїх клієнтів]Addressee, виставили їм рахунки, які не мали права виставляти. (Онлайн-ЗМІ "Главком", 2022)
+  - |
+       Ми ж зі своєї сторони поводимося вкрай толерантно й просимо своїх сусідів [поводитися]Action по відношенню до [нашої країни]Addressee так само толерантно. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+morphology:
+  - VP/NP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       in relation to
+  - russian: |
+       VP/NP в отношении NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Core Addressee
+  - type: Salient property
+    subtypes:
+      - type: Domain

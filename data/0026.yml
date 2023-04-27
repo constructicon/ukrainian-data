@@ -1,0 +1,46 @@
+---
+record: 26
+name: 'до того ж XP/Cl'
+illustration: 'До того ж цей вечір видався якийсь незвичайний.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною, прийменниковою чи дієслівною групою.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot usually fills with a noun phrase, a prepositional phrase or verb phrase
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот ХР обычно заполняется именной, предложной или глагольной группой.
+examples:
+  - |
+       Маска є фактором захисту, першим бар'єром для потрапляння збудника вірусу до організму", – зазначає експерт. До того ж, [маску не потрібно носити цілодобово]ContentOfSpeech, – заспокоює він. (Онлайн-ЗМІ «Українська правда», 2021)
+  - |
+       Поділився з мамою тими грішми на половину, адже всяке могло статися в дорозі.  До того ж [у мене були свої плани]ContentOfSpeech. (Ярема Ткачук "Буревії. Книга пам'яті", 2004)
+  - |
+       Тому що був різкий підвищений стресовий стан, який акумулював всі обмінні процеси організму. До того ж [тоді багатьом їсти просто не хотілося]ContentOfSpeech. (Онлайн-ЗМІ «20 хвилин», 2022)
+morphology:
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Particle
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       besides
+  - russian: |
+       к тому же XP/Cl
+common_fillers:
+  - NA
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive

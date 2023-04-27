@@ -1,0 +1,45 @@
+---
+record: 5
+name: 'з огляду на NP-Acc, Cl'
+illustration: 'Він не став цього робити, з огляду на банальність ситуації.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція вказує на [причину] Cause виникнення деякої [ситуації] Situation, підкреслює взаємну залежність двох ситуацій
+  - english: |
+       This construction indicates that a certain [situation]Situation takes place due to another [situation]Cause; it emphasizes the mutual dependence of two situations.
+  - russian: |
+       Конструкция указывает на [причину]Cause возникновения некоторой [ситуации]Situation, подчеркивает взаимную зависимость двух ситуаций.
+examples:
+  - |
+       Проте, з огляду на [затримки з державним фінансуванням]Cause, [строки здачі цих робіт відтерміновуються]Situation. (Газета "День", 2010)
+  - |
+       З огляду на [те, що Петро весь час гарячкував]Cause, [Кіндрат не хотів повідомляти Мабель]Situation.  (Володимир Винниченко "Нова заповідь", 2012
+  - |
+       Однак з огляду на [різке погіршення здоров'я підозрюваного]Cause, [його госпіталізували в кардіологічне відділення]Situation. (Онлайн-ЗМІ "LV-ua", 2012)
+morphology:
+  - NP-Acc
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Conjunction
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       in view of X; taking into consideration that X
+  - russian: |
+       Учитывая NP-Acc, Cl
+common_fillers:
+  - NA
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause

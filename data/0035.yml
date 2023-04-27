@@ -1,0 +1,45 @@
+---
+record: 35
+name: 'незважаючи на NP-Acc, Cl'
+illustration: 'Незважаючи на втому, ніяк не можу заснути.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+  - english: |
+       The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+  - russian: |
+       Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+examples:
+  - |
+       Hезважаючи на [такі застереження]Situation, [будинок таки був зведений]Event. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+  - |
+       Однак незважаючи на [не найкращі умови для гри після опадів]Situation, [команди заграли результативніше]Action. (Журнал «НВ», 2020)
+  - |
+       Та, незважаючи на [обіцянки й погрози]Situation, [справа просувається вперед дуже повільно]Event. (Ярослав Галан "Годі!", 1950)
+morphology:
+  - NP-Acc
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       despite X, in spite of X
+  - russian: |
+       Несмотря/Невзирая на NP-Acc, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation

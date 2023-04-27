@@ -1,0 +1,44 @@
+---
+record: 54
+name: 'в результаті VP'
+illustration: 'Батьки забезпечують добробут дітей, а ті в результаті виростають успішнішими.'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що така ситуація відбувається внаслідок деяких дій, будучи їх [закономірним результатом]Result.
+  - english: |
+       The construction is used to denote that a certain situation occurs as a result of some actions, being their [predictable result]Result.
+  - russian: |
+       Конструкция обозначает, что описываемая ситуация происходит вследствие некоторых действий, являясь их [закономерным итогом]Result.
+examples:
+  - |
+       КомпаніяAndaAir, рейс якої раніше призначили на 11:00, також переносили безліч разів. В результаті [пасажирам оголосили, що вони зможуть вилетіти в 00:00, проте попередили, що час може знову змінитися]Result. (Журнал «НВ», 2018)
+  - |
+       Канада і Мексика висловили невдоволення новим законом, оскільки в результаті [США скоротили імпорт великої рогатої худоби і свиней]Result із цих країн. (Онлайн-ЗМІ «LB.ua», 2015)
+  - |
+       Нагадаємо, що 15 квітня в соборі Нотр-Дам в Парижі спалахнула пожежа. В результаті [обвалилися шпиль та дах собору]Result. (Журнал «НВ», 2019)
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       as a result
+  - russian: |
+       в результате VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Achieved Result

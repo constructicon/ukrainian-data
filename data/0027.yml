@@ -1,0 +1,45 @@
+---
+record: 27
+name: 'NP на чолі з NP-Ins'
+illustration: 'Вчора завершився візит делегації на чолі з губернатором міста.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [групою людей чи організацією]Theme керує певний [учасник]Agent, який зазвичай має особливий статус і повноваження.
+  - english: |
+       The construction indicates that a [group of people or organization]Theme is managed by a particular [participant]Agent, who usually has special status and authority.
+  - russian: |
+       Конструкция указывает, что [группой людей или организацией]Theme руководит определенный [участник]Agent, обычно имеющий особый статус и полномочия.
+examples:
+  - |
+       До [складу місії]Theme увійшло 14 осіб на чолі з [керівником МАГАТЕ Рафаелем Гроссі]Agent. (Онлайн-ЗМІ «РБК-UA», 2022)
+  - |
+       [Українська делегація]Theme на чолі з [міністром інфраструктури]Agent вже прибула до Стамбула на переговори про розблокування експорту зерна. (Онлайн-ЗМІ «Громадське телебачення», 2022)
+  - |
+       Я побачила [невеличкий загін солдатів у австрійських формах]Theme на чолі з [чоловіком]Agent, який оце запитував]Agent. (Михайло Яворський "Поцілунок Лева", 2006}
+morphology:
+  - NP
+  - NP-Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X headed by Y
+  - russian: |
+       NP во главе с NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status

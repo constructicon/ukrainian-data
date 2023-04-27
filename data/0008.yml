@@ -1,0 +1,47 @@
+---
+record: 8
+name: 'VP унаслідок NP-Gen'
+illustration: 'Унаслідок події постраждали кілька пасажирів.'
+cefr_level: В1
+definitions:
+  - ukrainian: |
+       Конструкція вживається при вказівці на причину того, що якась [дія]Action або [подія]Event призводить до [певної ситуації]Result.
+  - english: |
+       The construction is used when indicating the reason that any [action]Action or [event]Event leads to [a certain situation]Result.
+  - russian: |
+       Конструкция используется при указании на причину того, что какое-либо [действие]Action или [событие]Event приводит к [определенной ситуации]Result.
+examples:
+  - |
+       Боксер не уточнив, чи [отримав він травми]Result унаслідок [бійки з підлітками]Action. (Онлайн-ЗМІ «Громадське телебачення», 2019)
+  - |
+       Унаслідок [ворожих обстрілів]Event [поранень зазнали двоє українських захисників]Result. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+  - |
+       Більшість тих, хто внаслідок [падіння]Action [отримав перелом]Result, – це люди старшого віку. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2017)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+intonation:
+  - Not applicable
+usage_label: Formal
+equivalents:
+  - english: |
+       X as a result of Y
+  - russian: |
+       VP в результате NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause
+  - type: Result
+    subtypes:
+      - type: Achieved Result

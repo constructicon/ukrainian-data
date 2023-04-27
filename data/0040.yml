@@ -1,0 +1,47 @@
+---
+record: 40
+name: 'незважаючи на те, що Cl, Cl'
+illustration: 'І незважаючи на те, що ситуація є складною, треба зберігати спокій.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+  - english: |
+       The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+  - russian: |
+       Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+examples:
+  - |
+       Так, незважаючи на те, що [зверху невпинно смалило сонце]Situation, ноги у всіх задубіли. (Сергій Плачинда "Космоград", 1959)
+  - |
+       Я прийшов на цю акцію, незважаючи на те, що [у нас можуть бути різні погляди]Situation. (Журнал «НВ», 2020).
+  - |
+       Але я одягнув пальто й помчав щодуху додому, незважаючи на те, що [на мені був мокрий одяг, а надворі був мороз і вітер]Situation. (Леонід Смілянський "Сашко", 1950)
+morphology:
+  - Cl
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+  - Negation
+part_of_speech_of_anchor:
+  - Converb
+  - Preposition
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       despite the fact that
+  - russian: |
+       несмотря/невзирая на то, что Cl, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectations

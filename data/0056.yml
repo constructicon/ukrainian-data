@@ -1,0 +1,44 @@
+---
+record: 56
+name: 'XP само як (і) XP'
+illustration: 'Моє містечко було маленьким,так само як і його мислення.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція виражає порівняння та підкреслює рівнозначність [одного об'єкта, учасника, властивості або дії]Comparee [іншому об'єкту, учаснику, властивості або дії]Standard.
+  - english: |
+       This construction expresses a comparison and emphasizes an equivalence between [one object, participant, property, or action]Comparee and [another object, participant, property, or action]Standard.
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает равнозначность [одного объекта, участника, свойства или действия]Comparee [другому объекту, участнику, свойству или действию]Standard.
+examples:
+  - |
+       Подати заявки батьки зможуть зразу [у декілька дитсадків]Comparee, так само як [зі школою]Standart. (Онлайн-ЗМІ «Версії», 2021)
+  - |
+       [Від мови]Comparee багато що залежить, так само як і [від культури.]Standart. (Інтернет-газета «Високий замок», 2007)
+  - |
+       [Кількість людей]Comparee змінюється щомісяця, так само як і [кількість власників житла]Standart, які їм його надают. (Онлайн-ЗМІ «Полтава 365», 2022)
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+intonation:
+  - Not applicable
+usage_label: Fornal
+equivalents:
+  - english: |
+       X iqually as Y
+  - russian: |
+       XP, равно как (и) XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality

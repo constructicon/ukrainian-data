@@ -1,0 +1,49 @@
+---
+record: 47
+name: '(мова) filler (NP-Nom) йдеться про (те, що) ХР, Cl'
+illustration: 'А в цьому проекті мова йдеться про дуже прості речі.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція виділяє деяке [ствердження] ContentOfSpeech як важливе для того, хто говорить, яке він хоче пояснити або наголосити.
+  - english: |
+       The construction singles out some [statement] of ContentOfSpeech as important to the speaker that he wants to explain or highlight.
+  - russian: |
+       Конструкция выделяет некоторое [утверждение] ContentOfSpeech как важное для говорящего, которое он хочет объяснить или выделить.
+examples:
+  - |
+       Тому від України на цьому етапі вимагаються передусім терпіння та витривалість, оскільки йдеться про [довгострокову стратегію]ContentofSpeech. (Максим Віхров "Геополітика. Втримати штурвал", 2019)
+  - |
+       В угоді також йдеться про [намір зберегти транзит газу через Україну]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+  - |
+       Але залежними від погодних умов нерідко є й представники сильної статі. Передусім йдеться про тих, [хто страждає на хвороби серцево-судинної системи]ContentofSpeech. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2013)
+morphology:
+  - ХР
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parentheticals
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Noun
+  - Verb
+  - Preposition
+  - Pronoun
+  - Conjunction
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       the topic is, is about
+  - russian: |
+       речь Cop о том, что Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis

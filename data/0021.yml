@@ -1,0 +1,44 @@
+---
+record: 21
+name: 'NP-Nom відрізнятися NP-Ins'
+illustration: 'Новий iPhone відрізняється й іншими функціями, що полегшують роботу з сервісами соцмережі.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція підкреслює, що [об'єкт]Object або [обличчя]Participant не схожий на інші і має будь-яку [відмітну ознаку, особливість]Property, що створює різницю між даною особою, предметом та іншими.
+  - english: |
+       The construction emphasizes that the [object]Object or [person]Participant is not similar to others and has some kind of [distinguishing feature, feature]Property that creates a difference between this person, object and others of this kind.
+  - russian: |
+       Конструкция подчеркивает, что [объект]Object или [лицо]Participant не похож на другие и имеет какой-либо [отличительный признак, особенность]Property, создающий разницу между данным лицом, предметом и другими.
+examples:
+  - |
+       І навіть якщо Ваше [авто]Object відрізняється [якістю і надійністю]Property, через певний час в ньому все одно доведеться міняти деякі деталі. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2020)
+  - |
+       [Серіали минулого року]Object відрізняються [великою різноманітністю тем]Property. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+  - |
+       Кожен з цих [типів носіїв]Object відрізняється [цілим переліком своїх особливостей]Property. (Онлайн-ЗМІ «Житомир.info», 2021)
+morphology:
+  - NP-Nom
+  - NP-Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X is distinquished by Y
+  - russian: |
+       NP-Nom отличаться NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Property assignment

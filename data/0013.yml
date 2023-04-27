@@ -1,0 +1,44 @@
+---
+record: 13
+name: '(NP-Dat) здається/здавалося, (що) Cl'
+illustration: 'Мені здається, що він щасливий.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вживається для вираження припущення, непевності [того, хто говорить, або іншого учасника]Experiencer в [інформації]Evaluation, яку він повідомляє.
+  - english: |
+       The construction is used to express the assumption, uncertainty [of the speaker or other participant]Experiencer in the [information]Evaluation that he reports.
+  - russian: |
+       Конструкция используется для выражения предположения, неуверенности [говорящего или другого участника]Experiencer в [информации]Evaluation, которую он сообщает.
+examples:
+  - |
+       Проте [мені]Experiencer здається, [підстав не довіряти йому — немає]Evaluation. (Андрій Гарасим "Борги нашого життя", 2016)
+  - |
+       [Мені]Experiencer здається, [що в уряді є фахові економісти]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2008)
+  - |
+       Наразі цей сценарій, на думку [автора]Experiencer, здається [малоймовірним]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       it seems/seemed to X that
+  - russian: |
+       (NP-Dat) кажется/казалось, (что) Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty

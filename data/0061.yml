@@ -1,0 +1,45 @@
+---
+record: 61
+name: 'як на мене, (так) Cl'
+illustration: 'Хоча, як на мене, це досить цікавий вибір.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція висловлює думку того, хто говорить з деякого питання і зазвичай вводить [оцінний вислів]Evaluation.
+  - english: |
+       This construction expresses the speaker’s opinion on some issue and usually introduces an [evaluative statement]Evaluation.
+  - russian: |
+       Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation.
+examples:
+  - |
+       Але два національні університети в одному місті це, як на мене, [трошки забагато]Evaluation. (Інтернет-газета «Високий замок», 2002)
+  - |
+       Думаю, надзвичайно складно обробити таку кількість інформації, [але вони справляються]Evaluation, як на мене. (Онлайн-ЗМІ «LB.ua», 2019)
+  - |
+       Він увійшов в історію і був одним з найвидатніших боксерів. Як на мене, [його повернення не буде виграшним сценарієм]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: Colloquial
+equivalents:
+  - english: |
+       as for me
+  - russian: |
+       (как) по мне, (так) Cl
+common_fillers:
+  - NA
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion

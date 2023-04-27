@@ -1,38 +1,43 @@
 ---
 record: 2
-name: 'як та/те NP'
-illustration: 'як та купина'
-cefr_level: 
+name: 'як та/те/ той/то NP'
+illustration: 'Життя, як той цвіт, що землю красить.'
+cefr_level: A2
 definitions:
   - ukrainian: |
-       Конструкція використовується у [порівнянні]Comparison, щоб конкретизувати, унаочнити певне поняття.
+       Конструкція використовується у порівнянні, щоб конкретизувати, унаочнити певне поняття і підкреслює подібність [одного об'єкта]Comparee з [іншим]Standard за [деякою ознакою]Parameter.
   - english: |
-       This construction is used in [comparison]Comparison to concretize, clearly demonstrate a certain notion.
+       This construction is used in [comparison]Comparison to concretize, clearly demonstrate a certain notion, and emphasizes the similarity of [one object]Comparee with [another]Standard in [some features]Parameter.
   - russian: |
-       Конструкция используется в [сравнениях]Comparison  для того, чтобы конкретизировать, наглядно продемонстрировать определенное понятие.
+       Конструкция используется в сравнениях для того, чтобы конкретизировать, наглядно продемонстрировать определенное понятие, и подчеркивает сходство [одного объекта]Comparee с [другим]Standard по [некоторым признакам]Parameter.
 examples:
   - |
-       Усе розвіялось, як та [роса.]Сomparison
+       [Краса]Comparee її іпочала [в'янути]Parameter, як та [квітка без води]Standart. (Софія Тобілевіч "Мої стежки і зустрічі", 1953)
   - |
-       На річах такий був гострий, як та [бритва] Сomparison
+       Тринадцять літ [без чоловіка]Property, як та [пташка без крил]Standart. (Віталій Петльований "Сліди на тротуарі", 1958)
   - |
-       Так людей жене, як тих [волів] Сomparison
+       Та й [азартний]Parameter же [хлопець]Comparee, як та [іскра]Standart. (Степан Васильченко "Широкий шлях", 1927)
 morphology:
   - NP
 syntactic_type_of_construction:
-  - ~
+  - Connection Construction
 syntactic_function_of_anchor:
-  - ~
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Not Applicable
 part_of_speech_of_anchor:
-  - ~
+  - Conjunction
+  - Pronoun
 intonation:
   - NA
 usage_label: ~
 comment: |
     'No comment yet'
 equivalents:
+  - english: |
+       as that X
+  - russian: |
+       как та/той/те NP
 common_fillers:
   - ~
 semantic_types:

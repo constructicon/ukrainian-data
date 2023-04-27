@@ -1,0 +1,46 @@
+---
+record: 20
+name: 'NP, в/у тому числі NP'
+illustration: 'Він успішно склав екзамени з усіх предметів, у тому числі з української мови.'
+cefr_level: В1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для того, щоб вказати важливий на думку мовника [елемент] Element, який серед інших входить до деякої [множини] Set.
+  - english: |
+       The construction is used to indicate an important [element]Element in the opinion of the speaker, which, among others, is included in some [set]Set.
+  - russian: |
+       Конструкция используется для того, чтобы указать важный по мнению говорящего [элемент]Element, который среди прочих входит в некоe [множество]Set.
+examples:
+  - |
+       У ньому є хороші [пісні]Set, в тому числі [україномовні]Element. (Інтернет-газета «Високий замок», 2007)
+  - |
+       Автор понад [200 наукових праць]Set, у тому числі [5 монографіElement. (Газета «Слово», 2012)
+  - |
+       Я побував у багатьох [країнах]Set, у тому числі у [наших сусідів]Element. (Газета «День», 1999)
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+  - Particle
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       including...
+  - russian: |
+       NP, в том числе (и) NP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Inclusive
+    subtypes:
+      - type: Inclusive

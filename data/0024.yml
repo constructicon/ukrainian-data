@@ -1,0 +1,44 @@
+---
+record: 24
+name: 'на відміну від NP-Gen Cl'
+illustration: 'На відміну від інших він не боявся темряви.'
+cefr_level: В2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для порівняння чи протиставлення двох об'єктів чи учасників. [Один об'єкт або учасник]Comparee [влаштований]Property або [поводиться]Situation не так, як [інший]Standard, і ця риса відрізняє певний предмет, явище тощо від іншого.
+  - english: |
+       The construction is used to compare or contrast two objects or participants. [One object or participant]Comparee [has]Property or [behaves]Situation not like [another]Standard, and this feature distinguishes a certain object, phenomenon, etc. from another.
+  - russian: |
+       Конструкция используется для сравнения или противопоставления двух объектов или участников. [Один объект или участник]Comparee [устроен]Property или [ведет себя]Situation не так, как [другой]Standard, и эта черта отличает определенный предмет, явление и тому подобное от другого.
+examples:
+  - |
+       [Він]Comparee, на відміну від [свого батька]Standart, [підтримував зв'язки з ріднею]Situation, що залишилася в далекому селі. (Іво Андрич "Драма в Олуяку", 1961)
+  - |
+       На відміну від [Redmi Note 5 Pro]Standart, [Mi A2]Comparee [буде поставлятися з портом USB C]Situation. (Журнал «НВ», 2018)
+  - |
+       На відміну від [ведмедя]Standart, [борсуки]Comparee [іноді встають серед зими, в теплі дні навіть на сніг вилазять]Situation. (Анатолій Давидов  "Експедиція «Суничка", 1971)
+morphology:
+  - NP-Gen Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X unlike Y
+  - russian: |
+       в отличие от NP-Gen Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast

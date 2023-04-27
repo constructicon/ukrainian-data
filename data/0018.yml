@@ -1,0 +1,43 @@
+---
+record: 18
+name: 'нівроку NP-Dat'
+illustration: 'Tи, молодичко, нівроку тобі, проворна, роботяща.'
+cefr_level: C1
+definitions:
+  - ukrainian: |
+       Конструкція вживається для вираження побажання не принести горя, не наврочити [кому-небудь]Recipient своїми словами.
+  - english: |
+       The construction is used to express a desire not to wish [anyone]Recipient bad, not to offend [anyone]Recipient with one's words.
+  - russian: |
+       Конструкция используется для выражения пожелания не принести горя, не сглазить [кого-либо]Recipient своими словами.
+examples:
+  - |
+       А [обиватель]Recipient, нівроку собі, жартами розважається. (Сергій Єфремов "Щоденник", 1925)
+  - |
+       Приступила ближче до постелі: — Тьху-тьху ! Нівроку , аби [тобі]Recipient не наврочила. (Петро Лінтур "Зачаровані казкою: Українські народні казки Закарпаття", 1969)
+  - |
+       Загалом це були [люди]Recipient віком від двадцяти до сорока років, смагляві і зовсім білошкірі, худорляві і нівроку собі. (Віктор Савченко "Діти Мардука", 2014)
+morphology:
+  - NP-Dat
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - ???
+part_of_speech_of_anchor:
+  - Adverb????
+intonation:
+  - Not applicable
+usage_label: Colloquial
+equivalents:
+  - english: |
+       not to wish bad to X
+  - russian: |
+       не сглазить NP-Dat
+common_fillers:
+  - ~
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Beneficiary

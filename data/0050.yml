@@ -1,0 +1,45 @@
+---
+record: 50
+name: 'не лише XP, а (й) XP'
+illustration: 'Яна і Віталій — не лише колеги по роботі, а й давні друзі.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Слот XP заповнюється іменною групою, прийменниковою групою, прикметником або дієслівною групою.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot fills with a noun phrase, a prepositional phrase, an adjective or a verb phrase.
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот XP заполняется именной группой, предложной группой, прилагательным или глагольной группой.
+examples:
+  - |
+       Це невеличкий театр-студія для молоді. Там працювали і вчилися не лише [діти]ContentofSpeech, а й [дорослі]ContentofSpeech. (Інтернет-газета «Високий замок», 2012)
+  - |
+       Тут можна не лише [мріяти]ContentofSpeech, а й [реально будувати плани]ContentofSpeech, (Інтернет-газета «Високий замок», 2006)
+  - |
+       У межках святкування відбуваються не лише [лекції та освітні заходи]ContentofSpeech, а й [яскраві торжества, ярмарки та кінопокази]ContentofSpeech. (Інтернет-газета «День», 2020)
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       not only X, but also Y
+  - russian: |
+       не только XP, но и XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive

@@ -1,0 +1,45 @@
+---
+record: 16
+name: 'VP за допомогою NP-Gen'
+illustration: 'Це легко перевірити за допомогою секундоміра.'
+cefr_level: В1
+definitions:
+  - ukrainian: |
+       Конструкція позначає [дія]Action, яку учасник виконує, використовуючи певний [інструмент]Instrument. Як інструмент може виступати фізичний об'єкт, дія, явище.
+  - english: |
+       The construction denotes an [action]Action that a participant performs using a particular [instrument]Instrument. A physical object, action, phenomenon can act as an instrument.
+  - russian: |
+       Конструкция обозначает [действие]Action, которое участник выполняет, используя некоторый [инструмент]Instrument. В качестве инструмента может выступать физический объект, действие, явление.
+examples:
+  - |
+       За допомогою [28 пластинок доміно]Instrument [складіть]Action показану на малюнку фігуру. (Журнал «Наука і суспільство», 1990)
+  - |
+       Повідомлення такого змісту масово [розсилаються]Action за допомогою [Інтернету]Instrument. (Онлайн-ЗМІ «Zaxid.net», 2007)
+  - |
+       Ми [збираємося говорити]Action про цю проблему за допомогою [медіа]Instrument, зробити інформаційні бюлетні та дні відкритих дверей у поліклініках міста. (Онлайн-ЗМІ «Zaxid.net», 2007)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       V with the help of X
+  - russian: |
+       VP с помощью/при помощи NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Instrument

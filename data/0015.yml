@@ -1,0 +1,47 @@
+---
+record: 15
+name: 'VP (не) з порожніми руками'
+illustration: 'Він не з порожніми руками приходив: гостинці дітям приносив.'
+cefr_level: С1
+definitions:
+  - ukrainian: |
+       Конструкція вживається, коли в [учасника]Participant будь-якої [ситуації]Action немає [нічого]Theme при собі, що він може передати [іншому учаснику]Recipient або отримати від [нього]Source. Конструкція також описує [ситуацію]Action, коли [учасник]Participant нічого не досяг у результаті деякої [діяльності]Action.
+  - english: |
+       The construction is used when the [participant]Participant of any [situation]Action carries [nothing]Theme that he/she can pass to [another participant]Recipient or receive from [him/her]Source. The construction also describes the [situation]Action when the [participant]Participant has achieved nothing as a result of some [activity]Action.
+  - russian: |
+       Конструкция используется, когда у [участника]Participant некоторой [ситуации]Action нет [ничего]Theme при себе, что он может передать [другому участнику]Recipient или получить от [него]Source. Конструкция также описывает [ситуацию]Action, когда [участник]Participant ничего не достиг в результате некоторой [деятельности]Action.
+examples:
+  - |
+       [Ми]Participant намагаємося [не приходити в гості]Action з порожніми руками – на подарунки до зимових свят витратили за всі роки майже три мільйони гривень. (Інтернет-газета "Високий замок", 2007)
+  - |
+       Кожної ночі [нападали]Action [вони]Participant на [село]Source і ніколи [не поверталися]Action з порожніми руками. ("Угорські народні казки", 1985)
+  - |
+       Від того часу [я]Participant кілька тижнів на роботі з порожніми руками [з цеху]Source не виходив. Тримав або молоток, або довгу викрутку. (Іван Kривуцький "За полярним колом", 2001).
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adjective
+  - Negation Marker
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X (not) empty-handed
+  - russian: |
+       VP (не) с пустыми руками
+common_fillers:
+  - ~
+semantic_types:
+  - type: Caritive
+    subtypes:
+      - type: Manner

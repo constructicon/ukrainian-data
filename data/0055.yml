@@ -1,0 +1,48 @@
+---
+record: 55
+name: 'VP в результаті NP-Gen'
+illustration: 'В результаті інциденту поранення отримали чотири людини.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що деяка [дія]Action або [подія]Event призводить до [певної ситуації]Result.
+  - english: |
+       The construction is used to denote that some [action]Action or [event]Event leads to a [certain situation]Result.
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action или [событие]Event приводит к [определенной ситуации]Result.
+examples:
+  - |
+       В результаті [вибуху]Event [були розбиті кілька вікон]Result. (Журнал «НВ», 2019)
+  - |
+       В результаті [професійних дій]Action в ході пошукових заходів [правоохоронці вийшли на слід нападника]Result. (Інтернет-газета «Фіртка», 2018)
+  - |
+       Попередньо встановлено, що [пожежа сталася]Result в результаті [замикання електромережі]Event, повідомляється на сайті поліції. (Онлайн-ЗМІ «LB.ua», 2016)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       as a result of X
+  - russian: |
+       VP в результате NP-Gen
+common_fillers:
+  - NA
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause
+  - type: Result
+    subtypes:
+      - type: Achieved Result

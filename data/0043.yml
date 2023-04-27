@@ -1,0 +1,46 @@
+---
+record: 43
+name: 'XP/Cl так само як XP/Cl'
+illustration: 'Подати заявки батьки зможуть зразу у декілька дитсадків, так само як зі школою.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція виражає порівняння і підкреслює ідентичність [стану одного учасника або його манери виконувати дію]Comparee подібно до [стану іншого учасника або його манері виконувати дію]Standard.Конструкція може позначати ідентичність стану або манери виконання дії одним і тим же учасником у різні моменти часу, як раніше.
+  - english: |
+       The construction expresses a comparison and emphasizes the identity of [the state of one participant or his manner of performing an action]Comparee similar to [the state of another participant or his manner of performing an action]Standard. The construction can denote the identity of the state or manner of performing an action by the same participant at different moments in time, as before
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает идентичность [состояния одного участника или его манеры выполнять действие]Comparee подобно [состоянию другого участника или его манере выполнять действие]Standard.Конструкция может  обозначать идентичность состояния или манеры выполнения действия одним и тем же участником в разные моменты времени, как раньше.
+examples:
+  - |
+       Коли долоня відмилась від бруду, там так само як і [раніше]Standart [залишився напис]Comparee, здається, він навіть світився. (Василь Тибель "Примари Пустомитського болота", 2016)
+  - |
+       [Куплені раніше старі квитки на проїзд у наземному транспорті чинні до кінця липня]Comparee, так само як і [раніше куплені проїзні]Standart. (Газета «Свобода», 2018)
+  - |
+       Так само як і [раніше]Standart, [абсолютна більшість відмов стаються на наземному кордоні]Copmaree. (Онлайн-ЗМІ «Європейська правда», 2019)
+morphology:
+  - XP/Cl
+  - XP/Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Conjunction
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X the same s Y
+  - russian: |
+       XP/Cl так же, как (и) XP/Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality

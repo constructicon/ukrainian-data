@@ -1,0 +1,48 @@
+---
+record: 39
+name: 'VP відповідно до NP-Gen'
+illustration: 'Переходимо до розгляду питань відповідно до порядку денного.'
+cefr_level: С1
+definitions:
+  - ukrainian: |
+       Конструкція застосовується для позначення узгодженості між [об'єктом]Topic та [затвердженням]ContentofSpeech.
+  - english: |
+       This construction is used to indicate congruence between an [object] Topic and an [assertion] ContentofSpeech.
+  - russian: |
+       Конструкция применяется для обозначения согласованности между [объектом]Topic и [утверждением]ContentofSpeech.
+examples:
+  - |
+       [Я діяв]ContentofSpeech відповідно до [батькових бажань]Topic і навіть не думав, щоб хоч якось обмовитись про те, що хочу стати актором. (Артем Чех "Пластик", 2008)
+  - |
+       Відповідно до [вимог]Topic, які встановило Міністерство охорони здоров'я, [у таких містах заборонена робота магазинів і торгових центрів]ContentofSpeech. (Онлайн-ЗМІ «Zaxid.net», 2020)
+  - |
+       [На першому етапі оберуть кількість дільниць]ContentofSpeech відповідно до [відсотка виборців у цій області]Topic. (Інтернет-газета «Високий замок», 2019)
+morphology:
+  - VP
+  - NP-Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adverb
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X according to Y
+  - russian: |
+       VP в соответствии с NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Manner
+    subtypes:
+      - type: Manner
+  - type: Source of information
+    subtypes:
+      - type: Source of information

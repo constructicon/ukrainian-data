@@ -1,0 +1,45 @@
+---
+record: 58
+name: 'VP з нагоди NP-Gen'
+illustration: 'З нагоди відкриття салону діють суттєві знижки.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що одна [дія або ситуація]Cause є причиною іншої [дії]Action або [ситуації]Situation.
+  - english: |
+       The construction indicates that one [action or situation]Cause is the cause of another [action]Action or [situation]Situation.
+  - russian: |
+       Конструкция указывает на то, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation.
+examples:
+  - |
+       З нагоди [свята]Cause [ми підготували декілька привітань та листівок]Action, якими ви можете поділитися з близькими. (Журнал «НВ», 2020)
+  - |
+       [Він довго не міг з дива вийти, звідки ж отакі люди беруться]Action, що не користаються з нагоди [помститися]Cause і відмовляються від волі. (Роман Іваничук "Журавлиний крик", 1973)
+  - |
+       З нагоди [Дня Незалежності]Cause [вітаю всіх українців]Action! (Інтернет-газета «Кримська світлиця», 2005)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       on the occasion of
+  - russian: |
+       VP по случаю NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause

@@ -1,0 +1,44 @@
+---
+record: 19
+name: 'таким чином, Cl'
+illustration: 'Таким чином, усі задоволені.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція узагальнює наведену інформацію та містить [висновок]Theme.
+  - english: |
+       The construction summarizes the given information and contains [conclusion]Theme.
+  - russian: |
+       Конструкция обобщает приведенную информацию и содержит [вывод]Theme.
+examples:
+  - |
+       Таким чином, [нарешті Максим лишився на самоті з собою]Theme. (Іван Багряний "Людина біжить над прірвою",1992) Mova
+  - |
+       Таким чином, [права людини стають необхідним стандартом у стосунках індивідів між собою і державною владою]Theme. (А. Г. Карась "Роль релігійних цінностей у процесі формування права", 2010)
+  - |
+       Таким чином, [ми маємо можливість користуватися реальними даними про радіаційну обстановку в країні в будь-який момент]Theme. (Журнал "Наука і суспільство", 1990)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: Formal
+equivalents:
+  - english: |
+       so that, as a result
+  - russian: |
+       таким образом, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary

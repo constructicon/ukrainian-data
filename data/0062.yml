@@ -1,0 +1,46 @@
+---
+record: 62
+name: 'під час NP-Gen VP'
+illustration: 'Під час зустрічей вони говорили німецькою мовою, спільною для них трьох.'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [деякое действие]Action відбувається у протягом [певної ситуації]Situation чи в один із її моментів.
+  - english: |
+       The construction means that [some action]Action takes place during [a certain situation]Situation or at one of its moments.
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action происходидит на всем протяжении [определённой ситуации]Situation или в один из её моментов.
+examples:
+  - |
+       Тепер іноземні туристи [зможуть одержати]Action безплатну медичну страховку під час [бронювання готелю або проживанні в ній]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2009)
+  - |
+       Програмою заходу передбачено практичне [навчання виживанню]Action в екстремальних умовах і поведінці під час [військових дій]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2013)
+  - |
+       Насправді коли ми виходимо на доріжку разом, кожна з нас [біжить]Action швидше, ніж під час [індивідуальних змагань]Situation. (нтернет-газета «Україна молода», 2013)
+morphology:
+  - NP-Gen
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       at the time of X, under X
+  - russian: |
+       во время NP-Gen VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period

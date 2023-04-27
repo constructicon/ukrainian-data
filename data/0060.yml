@@ -1,0 +1,45 @@
+---
+record: 60
+name: 'VP в рамках NP-Gen'
+illustration: 'Діємо в рамках закону.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що деякий [об'єкт]Theme або [учасник]Participant характеризується через [область, обмежену фізичною або абстрактною межею]Limit.
+  - english: |
+       This construction indicates that an [object]Theme or [participant]Participant is characterised through an [area bounded by a physical or abstract limit]Limit.
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant характеризуется через [область, ограниченную физическим или абстрактным пределом]Limit.
+examples:
+  - |
+       В рамках [розслідування]Limit кримінальної справи призначено [ряд експертиз]Theme для з'ясування причин ДТП. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+  - |
+       В рамках [флешмобу]Limit [зірки]Participant також розповідають, заради кого вони залишаються вдома #IStayHomeFor. (Журнал «НВ», 2020)
+  - |
+       "Наші ж [дії]Theme – в рамках [міжнародного права та міжнародних зобов'язань]Limit", - наголосив Столтенберг.  (Інтернет-газета «Європейська правда», 2014)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       as a part of
+  - russian: |
+       VP в рамки NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Domain

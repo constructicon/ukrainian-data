@@ -1,0 +1,45 @@
+---
+record: 52
+name: 'VP від імені NP-Gen'
+illustration: 'Я хочу вам подякувати від себе і від імені всіх тих, хто мене сюди направив.'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [учасник]Agent [говорить або діє]Action замість [групи людей або організації]Counteragent, за їх згодою або за їх дорученням.
+  - english: |
+       The construction denotes that the [participant]Agent [speaks or performs]Action instead of [group of people or organization]Counteragent, with their consent or on their behalf.
+  - russian: |
+       Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [группы людей или организации]Counteragent, с их согласия или по их поручению.
+examples:
+  - |
+       При цьому [він]Agent підкреслив, що [не може говорити]Action від імені [всієї асоціації]Counteragent. (Журнал «НВ», 2019)
+  - |
+       Тому [представники київських профспілок]Agent кажуть, що [виступають]Action від імені [всіх працівників ВНЗ та студентів країни]Counteragent. (Інтернет-газета «Україна молода», 2013)
+  - |
+       Що про неї [можна сказати]Action, крім похвали і подяки від імені [науки]Counteragent! (Ольга Гончар "Микола Костомаров: постать історика на тлі епохи", 2017)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: Formal
+equivalents:
+  - english: |
+       on behalf of
+  - russian: |
+       VP от имени NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Subject substitution

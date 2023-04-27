@@ -1,0 +1,48 @@
+---
+record: 51
+name: 'на перший погляд, Cl'
+illustration: 'На перший погляд удома нічого не змінилося.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для визначення початкової, часто суб'єктивної [оцінки]Evaluation об'єкта або учасника, яка не завжди відповідає дійсності та в наслідку може змінитися.
+  - english: |
+       The construction is used to determine the initial, often subjective [estimate]Evaluation of an object or participant, which does not always correspond to reality and may change as a result.
+  - russian: |
+       Конструкция используется для выражения первоначальной, часто субъективной [оценки]Evaluation объекта или участника, которая не всегда соответствует действительности и впоследствии может измениться.
+examples:
+  - |
+       На перший погляд, [процес переходу відбувається не дуже швидко]Evaluation. Між тим, це зрозуміло, бо перехід – справа не одного дня. (Онлайн-ЗМІ «Челайн», 2022)
+  - |
+       На перший погляд [може здатися, що рецепт щастя для автомобілістів знайдений]Evaluation. Проте, масової відмови від звичайного пального не спостерігається. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+  - |
+       На перший погляд, [руйнувань у місті не видно]Evaluation. Але достатньо відійти від вокзалу й починають частіше траплятися житлові будинки з вибитим склом і почорнілими від пожеж стінами. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       at first glance
+  - russian: |
+       на первый взгляд, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Discourse structure
+    subtypes:
+      - type: Equivocate

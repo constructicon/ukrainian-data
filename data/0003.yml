@@ -1,0 +1,51 @@
+---
+record: 3
+name: 'невже (не) VP?'
+illustration: 'Невже люди говорять правду?'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція уживається у питаннях з відтінком сумніву, здивування або недовір'я, яке виражає промовець у зв'язку з деякою [ситуацією]Situation або [діями]Action другого учасника.
+  - english: |
+       The construction is used in interrogative sentence with a hint of doubt, bewilderment or distrust, which the speaker expresses in connection with some [situation]Situation or [action]Action of another participant.
+  - russian: |
+       Конструкция используется в вопросах с оттенком сомнения, недоумения или недоверия, которое выражает говорящий в связи с некоторой [ситуацией]Situation или [действиями]Action второго участника.
+examples:
+  - |
+       Невже ми не [можемо вирішити цю проблему]Action? (Стенограми засіднь Верчовної Ради України, 2017)
+  - |
+       «Невже [нікого немає]Situation?»—з острахом і передчуттям гіркого розчарування подумала дівчина. (Надія Гербіш "Теплі історії до кави", 2012)
+  - |
+       Невже [може збутися її заповітна мрія] Action, і вона стане співачкою? (Онлайн-ЗМІ "Новини Хмельницького "Є", 2017)
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Negation marker
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+equivalents:
+  - english: |
+       is that (not) possible that X
+  - russian: |
+       неужели (не) VP?
+common_fillers:
+  - ~
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+  - type: Mirative
+    subtypes:
+      - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise

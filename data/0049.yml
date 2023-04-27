@@ -1,0 +1,45 @@
+---
+record: 49
+name: 'як то кажуть XP'
+illustration: 'У житті все може статися. Як то кажуть, ніколи не кажи ніколи.'
+cefr_level: С2
+definitions:
+  - ukrainian: |
+       Конструкція виділяє у тексті [формулювання]Theme, яку вибирає мовець для висловлювання своєї думки. Мовець апелює до широко відомого поширеного виразу, що вживається в переносному значенні, є ідіомою або терміном.
+  - english: |
+       The construction highlights in the text [an expression] Theme that the speaker chooses to express his opinion. The speaker refers to a well-known common expression used in a figurative sense, is an idiom or a term.
+  - russian: |
+       Конструкция выделяет в тексте [некоторую формулировку]Theme, которую выбирает говорящий для выражения своей мысли. Говорящий апеллирует к широко известному расхожему выражению, которое употребляется в переносном смысле, является идиомой или термином.
+examples:
+  - |
+       Може, я щось пропустив, таж ні, немає нічого. Як то кажуть, [коментарі тут зайві]Theme. (Газета «День», 2016)
+  - |
+       І це ж, навєрно, не буде нікого вже? Це вже як то кажуть, [кінець світа чи шо]Theme? ("Усна історія Степової України. Том 8", 2001)
+  - |
+       Та тепер нічого не вдієш. Як то кажуть, [від долі не втечеш нікуди]Theme. (Валентин Ціпко "Азербайджанські народні казки", 1991)
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Verb
+intonation:
+  - Declarative
+usage_label: Colloquial
+equivalents:
+  - english: |
+       as they say
+  - russian: |
+       как говорится, XP
+common_fillers:
+  - NA
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Intersubjectivity

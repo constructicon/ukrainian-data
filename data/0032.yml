@@ -1,0 +1,49 @@
+---
+record: 32
+name: 'з точки зору NP-Gen/ з PronPoss-Gen точки зору, Cl'
+illustration: 'З моєї точки зору питання полягає в наступному.'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція висловлює думку [говорящего]Speaker або іншого [учасника ситуації]Participant з деякого питання і зазвичай вводить [оцінний вислів]Evaluation. Конструкція також може вказувати на [яке поняття] Theme, з якою пов'язане наступне твердження.
+  - english: |
+       The construction expresses the opinion of the [speaker]Speaker or another participant of the situation]Participant on some issue and usually introduces an [evaluative statement]Evaluation. The construction can also indicate [the concept] Theme which the following statement is related to.
+  - russian: |
+       Конструкция выражает мнение [говорящего]Speaker или иного [участника ситуации]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция также может указывать на [некое понятие]Theme, с которой связано последующее утверждение.
+examples:
+  - |
+       З [моєї]Speaker точки зору, [все це — прихована реклама, незалежно від форми]Evaluation. (Газета «День», 2017)
+  - |
+       Тому, з [економічної]Theme точки зору, [аукціон слід оцінити як вдалий для держави]Evaluation. (Інтернет-газета «Дзеркало тижня», 2018)
+  - |
+       З точки зору [моралі і фінансів]Theme, [я не можу дати цьому оцінку]Evaluation. (Журнал «НВ», 2019)
+morphology:
+  - NP-Gen
+  - PronPoss-Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       from X point of view
+  - russian: |
+       с точки зрения NP-Gen/с PronPoss-Gen точки зрения, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion

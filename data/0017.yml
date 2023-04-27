@@ -1,0 +1,44 @@
+---
+record: 17
+name: 'NP-Acc звати-Inf NP-Ins/NP-Nom'
+illustration: 'Його звуть Михайлом, як і мене.'
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [учасник]Participant має конкретне [ім'я]Property.
+  - english: |
+       The construct denotes that some [participant]Participant has a particular [name]Property.
+  - russian: |
+       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
+examples:
+  - |
+       Ми можемо познайомитись, [мене]Participant звати [Андрій]Property... (Неда Неждана "Коли повертається дощ", 2011)
+  - |
+       Дізнавшись, що [її]Participant звуть [Тетянкою]Property, він спитав, чого б вона хотіла зараз. (Ганна Матійко "Квіти дружби" (збірка), 1958)
+  - |
+       [Мене]Participant звати [Райнер Граф]Property, я завідувач лабораторії і вхожу до комісії з розглядів проектів, що подані на грант. (Лариса Денисенко "Відлуння: від загиблого діда до померлого", 2011)
+morphology:
+  - NP-Acc
+  - Inf NP-Ins/NP-Nom
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+intonation:
+  - Not applicable
+usage_label: Colloquial
+equivalents:
+  - english: |
+       Х's name is
+  - russian: |
+       NP-Acc звать Inf NP-Ins/NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming

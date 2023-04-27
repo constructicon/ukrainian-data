@@ -1,0 +1,44 @@
+---
+record: 6
+name: 'начебто/неначе XP/Cl'
+illustration: 'Про мене начебто забули'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція вживається для вираження неповної достовірності, сумніву, непевності мовця щодо [інформації]Evaluation, що повідомляється. Це повідомлення звучить як припущення.
+  - english: |
+       This construction is used to express lack of certainty of the speaker about the [information]Evaluation reported. This statement sounds like a guess. The speaker is expressing a suspicion about [information]Evaluation.
+  - russian: |
+       Конструкция используется для выражения неполной достоверности, сомнения, неуверенности говорящего относительно сообщаемой им [информацией]Evaluation. Сообщение говорящего звучит как предположение.
+examples:
+  - |
+       Начебто [відбулося це в одному з львівських ресторанів наприкінці квітня]Evaluation. (Онлайн-ЗМІ «Zaxid.net», 2009)
+  - |
+       Один тільки раз я побачив із своєї схованки, як пройшла повз мене якась людина, начебто [трохи знайома мені]Evaluation. (Леонід Смілянський "Сашко", 1950)
+  - |
+       Також є інформація про ще одного пораненого поліцейського, який начебто [постраждав від кулі]Theme, випущеної колегою. (Онлайн-ЗМІ «UNIAN.NET», 2016)
+morphology:
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle ??
+intonation:
+  - Declarative
+usage_label: Colloquial
+equivalents:
+  - english: |
+       apparently; it seems
+  - russian: |
+       вроде бы XP/Cl
+common_fillers:
+  - NA
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty

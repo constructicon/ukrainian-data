@@ -1,0 +1,47 @@
+---
+record: 29
+name: 'Cl в/у залежності від NP-Gen'
+illustration: 'Вони люблять змінювати зачіски в залежності від ситуації.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція свідчить про наявність [важливого параметра]Condition, який відіграє основну роль при [оцінці причинної залежності явищ]Situation.
+  - english: |
+       The construction testifies to the presence of [an important parameter]Condition, which plays the main role in [estimating the causal dependence of phenomena]Situation.
+  - russian: |
+       Конструкция указывает на наличие [важного параметра]Condition, который играет основную роль при [оценке причинной зависимости явлений]Situation.
+examples:
+  - |
+       [На сході і півночі країни очікується дощ і мокрий сніг]Situation в залежності від [температури повітря]Condition. (Журнал «НВ», 2020)
+  - |
+       При цьому [суперники й дати поєдинків можуть змінитися]Situation в залежності від [планів учасників]Condition. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+  - |
+       В залежності від [структури контексту країни]Condition [домінує та чи інша модель жіночого руху]Situation. (Людмила Смоляр "Минуле заради майбутнього", 1998)
+morphology:
+  - Cl
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       depending on X
+  - russian: |
+       Cl в зависимости от NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause
+  - type: Condition
+    subtypes:
+      - type: Condition

@@ -1,0 +1,44 @@
+---
+record: 53
+name: 'NP імені NP-Gen'
+illustration: 'У парку імені Івана Франка у Львові тривають масштабні роботи з благоустрою парку.'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [будь-яка громадська територія (вулиця, площа тощо), установа або колектив людей]Theme названі на честь [відомої людини, якої, найчастіше, вже немає в живих.]Name
+  - english: |
+       The construction means that [any public area (street, square, etc.), institution or group of people]Theme is named after [a famous person, who, most often, is no longer alive.]Name
+  - russian: |
+       Конструкция обозначает, что [какая-либо общественная территория (улица, площадь и т. п.), учреждение или коллектив людей]Theme названы в честь [известного человека, которого, чаще всего, уже нет в живых.]Name
+examples:
+  - |
+       Святкові заходи відбудуться також у [Центральному парку культури та відпочинку]Theme імені [Лесі Українки]Name та в Луцькому замку. (Онлайн-ЗМІ «UNIAN.NET», 2013)
+  - |
+       Раніше повідомлялося, що в Києві до 30 серпня частково обмежать рух транспорту на [мосту]Theme імені [Патона]Name. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+  - |
+       У Вінниці відзавтра відновлює роботу [академічний театр]Theme імені [Садовського]Name. (Онлайн-ЗМІ «Вежа», 2022)
+morphology:
+  - NP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       named by
+  - russian: |
+       NP имени NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming

@@ -1,0 +1,45 @@
+---
+record: 46
+name: 'у випадку NP-Gen Cl'
+illustration: 'Відпустки надаються лише у випадку хвороби.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [деяка ситуація]Situation має місце за наявності [певних супутніх обставин]Condition.
+  - english: |
+       The construction indicates that [certain]Situation occurs under [certain circumstances]Condition.
+  - russian: |
+       Конструкция указывает на то, что [некоторая ситуация]Situation имеет место при наличии [определенных сопутствующих обстоятельств]Condition.
+examples:
+  - |
+       Крім цього, створено достатній запас ліків, і у випадку якогось гострого захворювання пацієнту буде чим допомогти. <23         ===NONE=== ● ===NONE=== ● ===NONE=== ● 2015 ● ===NONE=== ● [Газета «Вінниччина»]
+  - |
+       Інформація на карті буде оновлюватися у випадку отримання людиною певних пільг або послуг. <12         ===NONE=== ● ===NONE=== ● ===NONE=== ● 2011 ● 2011 ● [Онлайн-ЗМІ «Економічна правда»]
+  - |
+       Він закликав громадян утриматися від відвідання лісів у період пожежної небезпеки, а у випадку , якщо вони все-таки йдуть у ліс, дотримуватися заходів пожежної безпеки. 115         ===NONE=== ● ===NONE=== ● ===NONE=== ● 2010 ● 2010 ● [Онлайн-ЗМІ «UNIAN.NET»]
+morphology:
+  - NP-Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       in case of
+  - russian: |
+       в случае NP-Gen Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Condition
+    subtypes:
+      - type: Condition

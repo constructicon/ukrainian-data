@@ -1,0 +1,48 @@
+---
+record: 12
+name: 'NP-Dat Cop не до NP-Gen'
+illustration: 'Усім було не до сміху'
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція передає модально-заперечне значення небажання чи неможливості [учасника]Participant зайнятися [деякою справою чи питанням]Theme або звернути увагу на [когось/щось]Theme.
+  - english: |
+       The construction conveys the modally negative meaning of the Participant's reluctance or inability to engage in [some business or issue] Theme or to pay attention to [something/someone] Theme.
+  - russian: |
+       Конструкция передает модально-отрицательное значение нежелания или невозможности [участника]Participant заняться [некоторым делом или вопросом] Theme или обратить внимание на [кого-то] Theme.
+examples:
+  - |
+       - Сергію, ви ж сьогодні пішли з дому не снідавши. -- A-а, не до [сніданку мені зараз]Theme. Потім їстиму. (Анатолій Шиян "Вечірня пісня", 1961)
+  - |
+       Мати скрушно похитала головою і з таким жалем подивилася, наче мене тяжко покалічили на все життя. Бачу, тут уже не до [жартів]Theme. (Борис Антоненко-Давидович "Цлово матері", 1964)
+  - |
+       Обом жінкам у ці хвилини було не до [гостя]Theme, і Віктор, піднявши коробку, рушив геть, бажаючи тепер єдиного — як найшвидше зникнути звідси. (Олексій Волков "Переможець отримує все", 2004)
+morphology:
+  - NP-Dat Cop
+  - NP-Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+intonation:
+  - Declarative
+usage_label: Colloqual
+equivalents:
+  - english: |
+       be not up to X
+  - russian: |
+       NP-Dat Cop не до NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative

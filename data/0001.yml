@@ -1,34 +1,35 @@
 ---
 record: 1
 name: 'чого доброго VP-Pfv.Fut'
-illustration: 'Чого доброго, буде дощ.'
-cefr_level: пока можно не заполнять
+illustration: 'А то вони, чого доброго, подумають, що ти забув про них.'
+cefr_level: B1
 definitions:
   - ukrainian: |
-       Конструкція означає, що промовець вважає за можливе або ймовірне, що станеться якась неприємна/небажана [дія] Action або [ситуація]Situation. Зазвичай слот заповнюється дієсловом доконаного виду.
+       Конструкція позначає, що промовець вважає можливим/ймовірним, що станеться якaсь неприємнa або небажанa [дія чи ситуація]Event. Зазвичай слот заповнюється дієсловом досконалого вигляду.
   - english: |
-       This construction indicates that the speaker considers it possible or likely that some unpleasant/undesirable [action]Action or [situation]Situation will happen. Normally the slot is filled with a perfective verb.
+       This construction indicates that the speaker considers it possible or likely that some unpleasant/undesirable [action or situation]Event will happen. Normally the slot is filled with a perfective verb.
   - russian: |
-       Конструкция обозначает, что говорящий считает возможным или вероятным, что произойдет какое-либо неприятное или нежелательное [действие]Action или [ситуация]Situation. Обычно слот заполняется глаголом совершенного вида.
+       Конструкция обозначает, что говорящий считает возможным или вероятным, что произойдет какое-либо неприятное или нежелательное [действие или ситуация]Event. Обычно слот заполняется глаголом совершенного вида.
 examples:
   - |
-       Він з острахом поточився назад. [Ще побачить]Situation, чого доброго, [і підніме ґвалт]Situation .
+       І я побоююсь, що ще, чого доброго, [нашкоджу вашим щирим намірам]Event. (Юрій Коломиєць "Живоглаз", 1968)
   - |
-       В повітрі парило. Мокра сорочка горнулася до тіла. Над головою вилися стрижі. Але ж, чого доброго, [дощ буде]Situation, сказав Ведмедик, вдивляючись в небо.
+       Погано, скажуть, працюєш... Ще, чого доброго, [запропонують відставку]Event... (Микола Олійник "Дочка Прометея", 1966)
   - |
-       Так ці бешкетники так забулися в моїй присутності, що у мене в вухах ломить від їх крику. Мабуть, чого доброго, [візьмуться за святі волоса]Situation!
+       І взагалі, треба швидше збиратись, а то чого доброго [вчителька сама на уроки запізниться]Event. (Галина Гордасевич "Оповідання", 1998)
 morphology:
   - VP
   - Pfv
   - Fut
 syntactic_type_of_construction:
-  - пока можно не заполнять
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
-  - пока можно не заполнять
+  - Parenthetical
 syntactic_structure_of_anchor:
-  - пока можно не заполнять
+  - not Applicable
 part_of_speech_of_anchor:
-  - пока можно не заполнять
+  - Pronoun
+  - Adjective
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -42,6 +43,9 @@ equivalents:
 common_fillers:
   - NA
 semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
   - type: Degree of intensity
     subtypes:
       - type: Booster

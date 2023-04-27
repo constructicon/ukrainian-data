@@ -1,0 +1,45 @@
+---
+record: 25
+name: 'Cl у зв'язку з NP-Ins'
+illustration: 'У зв'язку з перекриттям вулиць рух транспорту буде організовано із змінами .'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція підкреслює [причину]Cause виникнення деякої [ситуації]Situation, або вказує на відповідність, співвідношення двох ситуацій, їх причинно-наслідкові відносини. Конструкція використовується у офіційно-діловому стилі.
+  - english: |
+       The construction emphasizes the [cause]Cause of the occurrence of some [situation]Situation, or indicates the correspondence, the interdependence of two situations, their cause-and-effect relationship. The construction belongs to formal style.
+  - russian: |
+       Конструкция подчеркивает [причину]Cause возникновения некоторой [ситуации]Situation, или указывает на соответствие, соотношение двух ситуаций, их причинно-следственные отношения. Конструкция используется в официально-деловом стиле.
+examples:
+  - |
+       "Ми не відчуваємо нервозності у зв'язку з [цим]Cause, [діємо вивірено]Situation", - сказав він. (Інтернет-газета «Європейська правда», 2014)
+  - |
+       Коротше, [ми сьогодні писатимемо рапорти про розірвання контракту]Situation у зв'язку з [недотриманням умов]Cause... (Онлайн-ЗМІ «24 канал», 2022)
+  - |
+       На американському ринку запанувала думка про те, що [землетрус у Японії сильно не порушить світовий ріст і навіть може забезпечити американські компанії замовленнями]Situation, у зв'язку з [усуненням наслідків природної катастрофи]Cause. (Онлайн-ЗМІ «UNIAN.NET», 2011)
+morphology:
+  - Cl
+  - NP-Ins
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: Formal
+equivalents:
+  - english: |
+       in connection with
+  - russian: |
+       Cl в связи с NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause

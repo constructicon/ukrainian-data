@@ -1,0 +1,46 @@
+---
+record: 31
+name: 'поки що (не) Cl'
+illustration: 'У компанії поки що не дали коментарів щодо інциденту.'
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [ситуація]Situation, актуальна в даний момент, не зміниться в найближчому майбутньому, хоча надалі може змінитися.
+  - english: |
+       The construction means that the [situation]Situation current at the moment will not change in the near future, although it may change in the future.
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation, актуальная в данный момент, не поменяется в ближайшем будущем, хотя может поменяться в дальнейшем.
+examples:
+  - |
+       У компанії поки що [не дали коментарів щодо інциденту]Situation. (Журнал «НВ», 2017)
+  - |
+       Він повільно йшов слідом, мабуть, [останні сумніви поки що не залишали його]Situation. (Станіслав Стеценко "Чорна акула в червоній воді", 1993)
+  - |
+       А поки що [сумненько, невесело на душі]Situation. (Володимир Качкан "Опішня", 1991)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       yet, stil
+  - russian: |
+       пока что Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary

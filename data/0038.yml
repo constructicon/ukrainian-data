@@ -1,0 +1,45 @@
+---
+record: 38
+name: 'час від часу Cl'
+illustration: 'Час від часу він подає на академічні виставки свої роботи.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [деяка ситуация]Situation має місце багаторазово, але рідше, ніж очікується, не часто, іноді.
+  - english: |
+       This construction indicates that a given [situation]Situation will occur multiple times, but not as often as expected, only sometimes.
+  - russian: |
+       Конструкция обозначает, что [некоторая ситуация]Situation имеет место многократно, но реже, чем ожидается, не часто, иногда.
+examples:
+  - |
+       Думки Софії час від часу [поверталися до цього питання]Situation, але вона залишала його на потім. (Сергій Шарик "Двічі графиня та двічі генерал", 2014)
+  - |
+       Час від часу письменник [висвітлює]Action події в Україні на своїй сторінці в соцмережах. (Онлайн-ЗМІ «ТСН», 2022)
+  - |
+       Біля банкетного залу є великий танцювальний майданчик, де час від часу [грає жива музика]Situation. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2012)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       from time to time
+  - russian: |
+       время от времени Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Raritive

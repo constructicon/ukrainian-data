@@ -1,0 +1,52 @@
+---
+record: 37
+name: 'NP-Nom включає в себе NP-Acc'
+illustration: 'Дослідження включає в себе три фази.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція позначає або перераховує [кілька елементів]Element, що входять до деякої [множини]Set. Зазвичай елементами є неживі об'єкти або абстрактні поняття.
+  - english: |
+       The construction denotes or enumerates [multiple elements]Element included in some [set]Set. Usually, elements are inanimate objects or abstract concepts.
+  - russian: |
+       Конструкция обозначает или перечисляет [несколько элементов]Element, входящих в некоторое [множество]Set. Обычно элементами являются неодушевленные объекты или абстрактные понятия.
+examples:
+  - |
+       [Програма]Set включає в себе [розробку нових видів ліків і засобів боротьби з малярією]Element. (Онлайн-ЗМІ «Громадське телебачення», 2016)
+  - |
+       [Алгоритм реєстрації]Set транспортного засобу включає в себе також [закріплення за транспортним засобом номерних знаків]Element. (Онлайн-ЗМІ «Вінниця.інфо», 2022)
+  - |
+       [Документ]Set, зокрема, включає в себе [виділення $ 300 млн]Element на потреби української армії. (Журнал «НВ», 2019)
+morphology:
+  - NP-Nom
+  - NP-Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Pronoun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       X includes Y
+  - russian: |
+       NP-Nom включать в себя NP-Acc
+common_fillers:
+  - ~
+semantic_types:
+  - type: Inclusive
+    subtypes:
+      - type: Inclusive
+  - type: Salient property
+    subtypes:
+      - type: Property assignment
+  - type: Subset
+    subtypes:
+      - type: Subset

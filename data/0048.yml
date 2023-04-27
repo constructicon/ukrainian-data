@@ -1,0 +1,45 @@
+---
+record: 48
+name: 'Cl, (але) швидше за все Cl'
+illustration: 'Швидше за все, це відбудеться 11 серпня.'
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція позначає [ситуацію]Situation, яка з великою ймовірністю може статися на думку мовця.
+  - english: |
+       The construction denotes a [situation]Situation, which, according to the speaker, is highly likely to occur.
+  - russian: |
+       Конструкция обозначает [ситуацию]Situation, которая с большой вероятностью может произойти по мнению говорящего,
+examples:
+  - |
+       Швидше за все, [саме ці люди вже повірили в себе й у свою країну]Situation. (Газета «День», 2006)
+  - |
+       Справа, швидше за все, [буде передана на подальший розгляд до Верховного Суду]Situation. (Газета «День», 2011)
+  - |
+       Причому, [як і у випадку з готелями]Situation, швидше за все, [туристів будуть цікавити найбільш доступні пропозиції]Situation. (Онлайн-ЗМІ «Економічна правда», 2012)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       most likely
+  - russian: |
+       Cl, а/но скорее всего Cl
+common_fillers:
+  - NA
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty

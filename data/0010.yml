@@ -1,0 +1,52 @@
+---
+record: 10
+name: 'оце так NP-Nom, Verb, Cop: (Cl)!'
+illustration: 'Оце так диво!'
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вживається зі значенням оцінкі реалії ([обʼєкт]Theme, [учасник]Participant или [подія]Event) мовцем, або зі значенням параметрів реалії. Чи є оцінка позитивною чи негативною, зазвичай стає зрозуміло тільки з контексту.
+  - english: |
+       The construction expresses the speakerʼs evaluation of the realia ( [object]Theme, [participant]Participant, or [event]Event) or realia parameter value. Whether the evaluation is positive or negative is usually given by the context.
+  - russian: |
+       Конструкция используется со значением оценки реалии ([объект]Theme, [участник]Participant или [событие]Event) говорящим, или со значением параметров реалии. Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста.
+examples:
+  - |
+       Оце так [подарунок]Theme, найкращий за всі подарунки на світі! (Анатолій Костецький "Все - як насправді", 1948)
+  - |
+       - Оце так [костюм]Theme! А чому він чорний? Не могли пофарбувати в різні кольори? (Василь Головачов "Простір неспокою", 1985)
+  - |
+       - Оце так [гість]Participant!..Сьогодні в нас самі несподіванки... (Михайло Слабошпицький "Не повернулися з двадцятого століття", 1979)
+morphology:
+  - NP-Nom
+  - Verb
+  - 'Cop: (Cl)'
+syntactic_type_of_construction:
+  - Copula construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+equivalents:
+  - english: |
+       what a X
+  - russian: |
+       вот так NP-Nom Cop: (Cl)!
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Mirative
+    subtypes:
+      - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive

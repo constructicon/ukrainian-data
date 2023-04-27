@@ -1,0 +1,45 @@
+---
+record: 28
+name: 'VP на чолі NP-Gen'
+illustration: 'На чолі відділу завжди стояли професіонали.'
+cefr_level: В1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що деякий учасник [керує]Action певною [організацією чи процесом]Theme.
+  - english: |
+       The construction indicates that some participant [manages]Action of a certain [organization or process]Theme.
+  - russian: |
+       Конструкция обозначает, что некоторый участник [руководит]Action определенной [организацией или процессом]Theme.
+examples:
+  - |
+       Колишній менеджер Ліверпуля Рой Ходжсон [провів]Action всього півроку на чолі легендарної [команди]Theme. (Журнал «НВ», 2016)
+  - |
+       Бо на чолі [війська]Theme, якого і четвертина не знала польської мови, [стояв]Action польський король. (Юліан Опільський "Сумерк", 1922)
+  - |
+       Відомо, що посланці задунайців таємно [прибували]Action в Україну і [повертались]Action назад на чолі [численних великих загонів втікачів]Theme. (Інтернет-газета «Кримська світлиця», 2008)
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       to be at the head of X
+  - russian: |
+       VP во главе NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status

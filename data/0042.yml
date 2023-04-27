@@ -1,0 +1,45 @@
+---
+record: 42
+name: 'та ще й NP Cl'
+illustration: 'І дитина, і дорослий завжди зрадіють ласощам, та ще й в гарній упаковці!'
+cefr_level: В2
+definitions:
+  - ukrainian: |
+       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною чи дієслівною групою або прикметником.
+  - english: |
+       Thе construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The most common filler for the XP slot is a noun phrase, a verb phrase or an adjective.
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот ХР обычно заполняется именной или глагольной группой или прилагательным.
+examples:
+  - |
+       Сама ті вареники й виробила, та ще й [рідних пригостила]ContentofSpeech. (Газета «Вінниччина», 2015)
+  - |
+       Подивіться, яку класну сукню представили дизайнери. Та ще й [колір, який в тренді]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+  - |
+       То як зорієнтуватися, де купити житло, та ще й [зробити це вигідно]ContentofSpeech? (Онлайн-ЗМІ «Економічна правда», 2018)
+morphology:
+  - NP
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       and even X
+  - russian: |
+       да еще и NP Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive

@@ -1,0 +1,45 @@
+---
+record: 45
+name: 'VP в повному обсязі'
+illustration: 'Відсотки також будуть нараховані в повному обсязі.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що деяка [подія]Action виконується без будь-яких обмежень, повністю, нічого не виключаючи.
+  - english: |
+       The construction means that some [action]Action is performed without any restrictions, completely, with nothing excluded.
+  - russian: |
+       Конструкция означает, что некоторое [действие]Action выполняется без каких-либо ограничений, полностью, ничего не исключая.
+examples:
+  - |
+       Усім їм було в повному обсязі [надано невідкладну медичну допомогу]Action. (Онлайн-ЗМІ «UNIAN.NET», 2014)
+  - |
+       На жаль, я [не можу пояснити ситуації]Action в повному обсязі, бо й сам керуюся лише вказівками згори. (Юрій Дольд-Михайлик "У чорних лицарів", 1964)
+  - |
+       Уряд [забезпечить їх усіма необхідними засобами індивідуального захисту]Action в повному обсязі. (Онлайн-ЗМІ «LB.ua», 2020)
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       in full
+  - russian: |
+       VP в полной мере
+common_fillers:
+  - ~
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain

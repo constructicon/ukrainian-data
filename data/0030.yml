@@ -1,0 +1,51 @@
+---
+record: 30
+name: '(Cl,) pазом з тим Cl'
+illustration: 'Ця будівля дуже незвичайна, з колонами, і водночас проста і гармонійна за формою.'
+cefr_level: В2
+definitions:
+  - ukrainian: |
+       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Часто ця інформація суперечить тому, що було сказано раніше.
+  - english: |
+       The construction introduces [information] ContentOfSpeech that complements what has been said before. Often this information contradicts what was said earlier.
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Часто эта информация противоречит сказанному ранее
+examples:
+  - |
+       Медик нагадав, що за рахунок течії морська вода постійно оновлюється. Разом з тим [він назвав ризикованим відпочинок на пляжі, де не дотримується необхідна дистанція]ContentOfSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+  - |
+       У Греноблі арештовані кілька людей, конфісковано вогнепальну зброю. Разом з тим, [газета зазначає, що поки не має офіційних підтверджень інформації, що надходить]ContentOfSpeech. (Журнал «НВ», 2015)
+  - |
+       На сьогодні фактичний ремонт зроблено лише по дорожньому полотну та встановлено бордюри, до тротуарів справа не дійшла. Разом з тим [фактично через рік після укладання асфальту з'явились ями]ContentOfSpeech. (Онлайн-ЗМІ «Наші гроші», 2017)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       along with this
+  - russian: |
+       (Cl,) (но/и) вместе с тем Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive

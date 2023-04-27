@@ -1,0 +1,44 @@
+---
+record: 14
+name: 'NP-Nom Cop на носі (носу)'
+illustration: 'На носі другий семестр.'
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що така собі [ситуація]Situation чи [подія]Event вже близько до моменту створення, відбудеться дуже скоро, в найближчому майбутньому.
+  - english: |
+       The construction means that [situation]Situation or [event]Event is already close to the moment of creation, will happen soon, in the near future.
+  - russian: |
+       Конструкция обозначает, что некая [ситуация]Situation или [событие]Event произойдут очень скоро, в ближайшем будущем.
+examples:
+  - |
+       А я он їздив дещо для бджіл купити — [літо]Situation на носі. (Олексій Волков, "Виконавець", 1993)
+  - |
+       І [випускні екзамени]Event на носі , – слідчий зиркнув на телефон, мабуть, чекав, що він от-от задзвонить. (Віктор Тимчук "Ловці манекенів", 1990)
+  - |
+       А на носі, у 2010 році, [кругла дата]Event – століття виникнення хокею в Україні ....(Інтернет-газета «Український тиждень», 2009)
+morphology:
+  - NP-Nom Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+intonation:
+  - Declarative
+usage_label: Colloqual
+equivalents:
+  - english: |
+       X around the corner
+  - russian: |
+       NP-Nom Cop на носу
+common_fillers:
+  - ~
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near future

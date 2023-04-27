@@ -1,0 +1,46 @@
+---
+record: 23
+name: 'Cl в/у той час як Cl'
+illustration: 'Вона говорила по телефону, у той час як він готував вечерю.'
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що дві [ситуації]Situation відбуваються одночасно, або можуть бути протиставлені одна одної.
+  - english: |
+       The construction means that two [situations]Situation occur simultaneously, or can be opposed to each other.
+  - russian: |
+       Конструкция обозначает, что две [ситуации]Situation происходят одновременно, или могут быть противопоставлены друг другу.
+examples:
+  - |
+       Цього року [головний приз взяла Toyota Corolla]Situation, в той час як [Honda CR-V став першим в категорії кросоверів]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+  - |
+       Тому що ви [можете приймати рішення відразу]Situation в той час, коли [це рішення є найцінніше]Situation. (Журнал «НВ», 2020)
+  - |
+       [Серед інших наук виділив математику]Situation і вже в той час [почав займатися математичним моделюванням]Situation. (Газета «День», 2011)
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+  - Conjunction
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       X while Y
+  - russian: |
+       Cl в то время как Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
