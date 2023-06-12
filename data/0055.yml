@@ -41,8 +41,6 @@ common_fillers:
   - NA
 semantic_types:
   - type: Cause
-    subtypes:
-      - type: Cause
   - type: Result
     subtypes:
       - type: Achieved Result

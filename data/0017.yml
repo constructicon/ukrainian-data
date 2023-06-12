@@ -2,7 +2,7 @@
 record: 17
 name: 'NP-Acc звати-Inf NP-Ins/NP-Nom'
 illustration: 'Його звуть Михайлом, як і мене.'
-cefr_level: А1
+cefr_level: A1
 definitions:
   - ukrainian: |
        Конструкція означає, що [учасник]Participant має конкретне [ім'я]Property.

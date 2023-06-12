@@ -2,7 +2,7 @@
 record: 46
 name: 'у випадку NP-Gen Cl'
 illustration: 'Відпустки надаються лише у випадку хвороби.'
-cefr_level: А2
+cefr_level: A2
 definitions:
   - ukrainian: |
        Конструкція вказує на те, що [деяка ситуація]Situation має місце за наявності [певних супутніх обставин]Condition.

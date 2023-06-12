@@ -2,7 +2,7 @@
 record: 8
 name: 'VP унаслідок NP-Gen'
 illustration: 'Унаслідок події постраждали кілька пасажирів.'
-cefr_level: В1
+cefr_level: B1
 definitions:
   - ukrainian: |
        Конструкція вживається при вказівці на причину того, що якась [дія]Action або [подія]Event призводить до [певної ситуації]Result.
@@ -40,8 +40,6 @@ common_fillers:
   - ~
 semantic_types:
   - type: Cause
-    subtypes:
-      - type: Cause
   - type: Result
     subtypes:
       - type: Achieved Result

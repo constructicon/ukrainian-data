@@ -40,8 +40,6 @@ common_fillers:
   - ~
 semantic_types:
   - type: Cause
-    subtypes:
-      - type: Cause
   - type: Condition
     subtypes:
       - type: Condition

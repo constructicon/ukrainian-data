@@ -7,7 +7,7 @@ definitions:
   - ukrainian: |
        Конструкція позначає, що [деяка ситуация]Situation має місце багаторазово, але рідше, ніж очікується, не часто, іноді.
   - english: |
-       This construction indicates that a given [situation]Situation will occur multiple times, but not as often as expected, only sometimes.
+       This construction indicates that a given [situation]Situation occurs multiple times, but not as often as expected, only sometimes.
   - russian: |
        Конструкция обозначает, что [некоторая ситуация]Situation имеет место многократно, но реже, чем ожидается, не часто, иногда.
 examples:
@@ -38,7 +38,7 @@ equivalents:
   - russian: |
        время от времени Cl
 common_fillers:
-  - ~
+  - NA
 semantic_types:
   - type: Pluractionality
     subtypes:
