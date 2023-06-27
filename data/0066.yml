@@ -1,0 +1,48 @@
+---
+record: 66
+name: "анітрохи/анітрішки не VP"
+illustration: "Але я анітрохи про це не шкодую."
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція з подвійним запереченням передає значення категоричного (повного) заперечення [дії] Action.
+  - english: |
+       The construction with double negation conveys the meaning of the complete negation of an [action] Action.
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action.
+examples:
+  - |
+       Ми ходили в цей похід в дощову погоду, але це анітрохи не [завадило]Action. Ми ходили в цей похід в дощову погоду, але це анітрохи не завадило. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+  - |
+       Сильні морози і короткий день анітрохи не [бентежили]Action мандрівників. (Сергій Шарик "Двічі графиня та двічі генерал", 2014)
+  - |
+       Прем'єр анітрохи не [хвилюється]Action, навпаки, через запитання відповідає жартом. (Онлайн-ЗМІ «LB.ua», 2017)
+  - |
+       Олександр дивився на все те й чомусь анітрішки не [дивувався]Action. (Радій Радутний "Важка чоловіча робота", 2012)
+  - |
+       Дарма що попередні 15 років його анітрохи не [турбували]Action мої мовні права. (Андрій Бондар "Ласощі для Медора: мала проза", 2020)
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+intonation:
+  - Not applicable
+usage_label: ~
+equivalents:
+  - english: |
+       in no way X
+  - russian: |
+       ничуть не VP
+common_fillers:
+  - NA
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimazer

@@ -1,0 +1,50 @@
+---
+record: 65
+name: "не дивлячись на те, що Cl, Cl"
+illustration: "Не дивлячись на те, що не всі приїхали з перемогами, спортсмени отримали багато досвіду."
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+  - english: |
+       The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+  - russian: |
+       Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+examples:
+  - |
+       Кімнатні рослини, не дивлячись на те, [що ростуть в оселі]Situation, також потребують підготовки й особливої уваги взимку. (Онлайн-ЗМІ «Gazeta.ua», 2022)]
+  - |
+       Не дивлячись на те, що [там сталось]Situation, я рвонув з місця, до межі втупивши ногою педаль газу. (Олексій Кацай "Пекло", 1999)
+  - |
+       І, не дивлячись на те, що [сухофрукти містять багато волокон]Situation, більшість вітаміну C руйнується при сушці. (Онлайн-ЗМІ «UNIAN.NET», 2008)
+  - |
+       Адже не дивлячись на те, що [в Греції багато проблем]Situation, країни єврозони не кидають цю країну напризволяще. (Газета «День», 2012)
+  - |
+       Не дивлячись на те, що [прогнозована температура води очікується не більше 3 градусів]Situation, заплив в крижаній воді буде здійснено без гідрокостюму. (Інтернет-газета «Фіртка», 2018)]
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+  - Negation
+part_of_speech_of_anchor:
+  - Converb
+  - Preposition
+  - Pronoun
+intonation:
+  - Declarative
+usage_label: ~
+equivalents:
+  - english: |
+       despite the fact that X
+  - russian: |
+       Несмотря/Невзирая на то, что Cl, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
