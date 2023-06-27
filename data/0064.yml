@@ -1,28 +1,45 @@
 ---
 record: 64
-name: '(Cl) для того, щоб Cl'
-illustration: ''
-cefr_level: А2
+name: "не дивлячись на NP-Acc"
+illustration: "Та не дивлячися на втому, були усі радісні та веселі."
+cefr_level: B1
 definitions:
+  - ukrainian: |
+       Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+  - english: |
+       The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+  - russian: |
+       Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
 examples:
+  - |
+       Не дивлячись на [труднощі та виклики]Situation, професію інфекціоніста називає завжди актуальною. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2021)
+  - |
+       І не дивлячись на [таку кількість біженців]Situation, у нас не зросла криміногенна ситуація в країні. (Онлайн-ЗМІ «LB.ua», 2022)
+  - |
+       Не дивлячись на [обідню пору]Situation, в шинку було малолюдно. (Юрій Сорока "Іван Богун", 2008)
 morphology:
-  - ~
+  - NP-Acc
+  - Cl
 syntactic_type_of_construction:
-  - ~
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Multiword Preposition
 part_of_speech_of_anchor:
-  - ~
+  - Preposition
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 equivalents:
   - english: |
-       in order to
+       despite X
   - russian: |
-       (Cl) для того, чтобы Cl
+       Несмотря/Невзирая на NP-Acc, Cl
 common_fillers:
-  - ~
+  - NA
 semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation

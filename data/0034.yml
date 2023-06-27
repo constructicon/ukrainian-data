@@ -1,7 +1,7 @@
 ---
 record: 34
-name: 'VP/NP по відношенню до NP-Gen'
-illustration: 'Бути справедливим по відношенню до всіх і відповідальним.'
+name: "VP/NP по відношенню до NP-Gen"
+illustration: "Бути справедливим по відношенню до всіх і відповідальним."
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       in relation to
+       X in relation to Y
   - russian: |
        VP/NP в отношении NP-Gen
 common_fillers:

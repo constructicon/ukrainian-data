@@ -1,7 +1,7 @@
 ---
 record: 53
-name: 'NP імені NP-Gen'
-illustration: 'У парку імені Івана Франка у Львові тривають масштабні роботи з благоустрою парку.'
+name: "NP імені NP-Gen"
+illustration: "У парку імені Івана Франка у Львові тривають масштабні роботи з благоустрою парку."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -33,7 +33,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       named by
+       X named by Y
   - russian: |
        NP имени NP-Gen
 common_fillers:

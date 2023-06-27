@@ -1,7 +1,7 @@
 ---
 record: 52
-name: 'VP від імені NP-Gen'
-illustration: 'Я хочу вам подякувати від себе і від імені всіх тих, хто мене сюди направив.'
+name: "VP від імені NP-Gen"
+illustration: "Я хочу вам подякувати від себе і від імені всіх тих, хто мене сюди направив."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: Formal
 equivalents:
   - english: |
-       on behalf of
+       on behalf of X
   - russian: |
        VP от имени NP-Gen
 common_fillers:

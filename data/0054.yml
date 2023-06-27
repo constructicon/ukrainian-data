@@ -1,7 +1,7 @@
 ---
 record: 54
-name: 'в результаті VP'
-illustration: 'Батьки забезпечують добробут дітей, а ті в результаті виростають успішнішими.'
+name: "в результаті VP"
+illustration: "Батьки забезпечують добробут дітей, а ті в результаті виростають успішнішими."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -33,7 +33,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       as a result
+       as a result of X
   - russian: |
        в результате VP
 common_fillers:

@@ -1,7 +1,7 @@
 ---
 record: 27
-name: 'NP на чолі з NP-Ins'
-illustration: 'Вчора завершився візит делегації на чолі з губернатором міста.'
+name: "NP на чолі з NP-Ins"
+illustration: "Вчора завершився візит делегації на чолі з губернатором міста."
 cefr_level: B2
 definitions:
   - ukrainian: |

@@ -1,11 +1,11 @@
 ---
 record: 5
-name: 'з огляду на NP-Acc, Cl'
-illustration: 'Він не став цього робити, з огляду на банальність ситуації.'
+name: "з огляду на NP-Acc, Cl"
+illustration: "Він не став цього робити, з огляду на банальність ситуації."
 cefr_level: B1
 definitions:
   - ukrainian: |
-       Конструкція вказує на [причину] Cause виникнення деякої [ситуації] Situation, підкреслює взаємну залежність двох ситуацій
+       Конструкція вказує на [причину]Cause виникнення деякої [ситуації]Situation, підкреслює взаємну залежність двох ситуацій
   - english: |
        This construction indicates that a certain [situation]Situation takes place due to another [situation]Cause; it emphasizes the mutual dependence of two situations.
   - russian: |
@@ -36,7 +36,7 @@ equivalents:
   - english: |
        in view of X; taking into consideration that X
   - russian: |
-       Учитывая NP-Acc, Cl
+       учитывая NP-Acc, Cl
 common_fillers:
   - NA
 semantic_types:

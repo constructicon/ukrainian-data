@@ -1,7 +1,7 @@
 ---
 record: 29
-name: 'Cl в/у залежності від NP-Gen'
-illustration: 'Вони люблять змінювати зачіски в залежності від ситуації.'
+name: "Cl в/у залежності від NP-Gen"
+illustration: "Вони люблять змінювати зачіски в залежності від ситуації."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -41,5 +41,3 @@ common_fillers:
 semantic_types:
   - type: Cause
   - type: Condition
-    subtypes:
-      - type: Condition

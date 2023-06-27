@@ -1,7 +1,7 @@
 ---
 record: 6
-name: 'начебто/неначе XP/Cl'
-illustration: 'Про мене начебто забули'
+name: "начебто/неначе XP/Cl"
+illustration: "Про мене начебто забули"
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -21,19 +21,19 @@ morphology:
   - XP
   - Cl
 syntactic_type_of_construction:
-  - Clause or XP with parentheticals
+  - Connection Construction
 syntactic_function_of_anchor:
-  - Parenthetical
+  - Subordinator
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:
-  - Particle ??
+  - Conjunction
 intonation:
   - Declarative
 usage_label: Colloquial
 equivalents:
   - english: |
-       apparently; it seems
+       apparently X; it seems X
   - russian: |
        вроде бы XP/Cl
 common_fillers:

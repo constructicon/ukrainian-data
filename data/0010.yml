@@ -1,15 +1,15 @@
 ---
 record: 10
-name: 'оце так NP-Nom, Verb, Cop: (Cl)!'
-illustration: 'Оце так диво!'
-cefr_level: A1
+name: "оце так NP-Nom/Verb/Cop: (Cl)!"
+illustration: "Оце так диво!"
+cefr_level: A2
 definitions:
   - ukrainian: |
-       Конструкція вживається зі значенням оцінкі реалії ([обʼєкт]Theme, [учасник]Participant или [подія]Event) мовцем, або зі значенням параметрів реалії. Чи є оцінка позитивною чи негативною, зазвичай стає зрозуміло тільки з контексту.
+       Конструкція вживається зі значенням оцінкі реалії ([обʼєкт]Theme, [учасник]Participant или [подія]Event) мовцем, або зі значенням параметрів реалії. Чи є оцінка позитивною чи негативною, зазвичай стає зрозуміло тільки з контексту. Іноді конструкція може підкреслити, що оратор здивований несподіваною новою інформацією (Приклад 3).
   - english: |
-       The construction expresses the speakerʼs evaluation of the realia ( [object]Theme, [participant]Participant, or [event]Event) or realia parameter value. Whether the evaluation is positive or negative is usually given by the context.
+       The construction expresses the speakerʼs evaluation of the realia ( [object]Theme, [participant]Participant, or [event]Event) or realia parameter value. Whether the evaluation is positive or negative is usually given by the context. Sometimes the construction can emphasize that the speaker is surprised by unexpected new information (Example 3).
   - russian: |
-       Конструкция используется со значением оценки реалии ([объект]Theme, [участник]Participant или [событие]Event) говорящим, или со значением параметров реалии. Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста.
+       Конструкция используется со значением оценки реалии ([объект]Theme, [участник]Participant или [событие]Event) говорящим, или со значением параметров реалии. Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста. Иногда конструкция может подчеркнуть, что говорящий удивлен неожиданной новой информацией (Пример 3).
 examples:
   - |
        Оце так [подарунок]Theme, найкращий за всі подарунки на світі! (Анатолій Костецький "Все - як насправді", 1948)
@@ -45,8 +45,6 @@ semantic_types:
     subtypes:
       - type: Assessment in relation to quantification
   - type: Mirative
-    subtypes:
-      - type: Mirative
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

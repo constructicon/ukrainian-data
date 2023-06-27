@@ -1,15 +1,15 @@
 ---
 record: 12
-name: 'NP-Dat Cop не до NP-Gen'
-illustration: 'Усім було не до сміху'
+name: "NP-Dat Cop не до NP-Gen"
+illustration: "Усім було не до сміху"
 cefr_level: A2
 definitions:
   - ukrainian: |
        Конструкція передає модально-заперечне значення небажання чи неможливості [учасника]Participant зайнятися [деякою справою чи питанням]Theme або звернути увагу на [когось/щось]Theme.
   - english: |
-       The construction conveys the modally negative meaning of the Participant's reluctance or inability to engage in [some business or issue] Theme or to pay attention to [something/someone] Theme.
+       The construction conveys the modally negative meaning of the Participant's reluctance or inability to engage in [some business or issue]Theme or to pay attention to [something/someone]Theme.
   - russian: |
-       Конструкция передает модально-отрицательное значение нежелания или невозможности [участника]Participant заняться [некоторым делом или вопросом] Theme или обратить внимание на [кого-то] Theme.
+       Конструкция передает модально-отрицательное значение нежелания или невозможности [участника]Participant заняться [некоторым делом или вопросом]Theme или обратить внимание на [кого-то]Theme.
 examples:
   - |
        - Сергію, ви ж сьогодні пішли з дому не снідавши. -- A-а, не до [сніданку мені зараз]Theme. Потім їстиму. (Анатолій Шиян "Вечірня пісня", 1961)
@@ -38,7 +38,12 @@ equivalents:
   - russian: |
        NP-Dat Cop не до NP-Gen
 common_fillers:
-  - ~
+  - сміху
+  - жартів
+  - ладу
+  - вподоби
+  - новин
+  - того
 semantic_types:
   - type: Attitude
     subtypes:

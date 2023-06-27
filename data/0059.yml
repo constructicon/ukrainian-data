@@ -1,7 +1,7 @@
 ---
 record: 59
-name: 'VP разом з NP-Ins'
-illustration: 'На даний час дитина перебуває разом з батьками.'
+name: "VP разом з NP-Ins"
+illustration: "На даний час дитина перебуває разом з батьками."
 cefr_level: A1
 definitions:
   - ukrainian: |

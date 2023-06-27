@@ -1,7 +1,7 @@
 ---
 record: 26
-name: 'до того ж XP/Cl'
-illustration: 'До того ж цей вечір видався якийсь незвичайний.'
+name: "до того ж XP/Cl"
+illustration: "До того ж цей вечір видався якийсь незвичайний."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -35,7 +35,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       besides
+       besides X
   - russian: |
        к тому же XP/Cl
 common_fillers:

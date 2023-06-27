@@ -1,7 +1,7 @@
 ---
 record: 3
-name: 'невже (не) VP?'
-illustration: 'Невже люди говорять правду?'
+name: "невже (не) VP?"
+illustration: "Невже люди говорять правду?"
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -16,7 +16,7 @@ examples:
   - |
        «Невже [нікого немає]Situation?»—з острахом і передчуттям гіркого розчарування подумала дівчина. (Надія Гербіш "Теплі історії до кави", 2012)
   - |
-       Невже [може збутися її заповітна мрія] Action, і вона стане співачкою? (Онлайн-ЗМІ "Новини Хмельницького "Є", 2017)
+       Невже [може збутися її заповітна мрія]Action, і вона стане співачкою? (Онлайн-ЗМІ "Новини Хмельницького "Є", 2017)
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -44,8 +44,6 @@ semantic_types:
     subtypes:
       - type: High degree of certainty
   - type: Mirative
-    subtypes:
-      - type: Mirative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Surprise

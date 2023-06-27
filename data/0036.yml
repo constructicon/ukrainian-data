@@ -1,15 +1,15 @@
 ---
 record: 36
-name: 'з іншого боку XP/Cl'
-illustration: 'З іншого боку, що ж їй було робити... перед нею не було ніякого іншого виходу.'
+name: "з іншого боку XP/Cl"
+illustration: "З іншого боку, що ж їй було робити... перед нею не було ніякого іншого виходу."
 cefr_level: B1
 definitions:
   - ukrainian: |
-       Конструкція вводить [ствердження] ContentOfSpeech, яке дозволяє подивитися на тему з різних, часто протилежних, точок зору. Мовець, озвучує альтернативну позицію. Іноді у першій частині конструкції можуть бути слова "З одного боку".
+       Конструкція вводить [ствердження]ContentOfSpeech, яке дозволяє подивитися на тему з різних, часто протилежних, точок зору. Мовець, озвучує альтернативну позицію. Іноді у першій частині конструкції можуть бути слова "З одного боку".
   - english: |
-       The construction introduces [assertions] ContentOfSpeech, which allow to look at the topic from different, often opposing, points of view. The speaker voices  alternatives. Sometimes The construct introduces the [statement] ContentOfSpeech, which allows you to look at the topic from different, often opposite, points of view. The speaker voices an alternative position. Sometimes the constructions can have the words "on the one hand" in the first part.
+       The construction introduces [assertions]ContentOfSpeech, which allow to look at the topic from different, often opposing, points of view. The speaker voices  alternatives. Sometimes The construct introduces the [statement] ContentOfSpeech, which allows you to look at the topic from different, often opposite, points of view. The speaker voices an alternative position. Sometimes the constructions can have the words "on the one hand" in the first part.
   - russian: |
-       Конструкция вводит [утверждение] ContentOfSpeech, позволяющее посмотреть на тему с разных, часто противоположных, точек зрения. Говорящий  озвучивает альтернативную позицию. Иногда в первой части конструкции могут быть слова "с одной стороны".
+       Конструкция вводит [утверждение]ContentOfSpeech, позволяющее посмотреть на тему с разных, часто противоположных, точек зрения. Говорящий  озвучивает альтернативную позицию. Иногда в первой части конструкции могут быть слова "с одной стороны".
 examples:
   - |
        З одного боку [ми будуємо церви – і це добре]ContentOfSpeech, але з іншого боку [ми не будуємо шкіл, дошкільних закладів – і це дуже погано]ContentOfSpeech. (Інтернет-газета «Фіртка», 2012)
@@ -35,7 +35,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       on the other hand
+       on the other hand X
   - russian: |
        С одной стороны, XP/Cl. С другой (стороны), XP/Cl
 common_fillers:

@@ -1,7 +1,7 @@
 ---
 record: 37
-name: 'NP-Nom включає в себе NP-Acc'
-illustration: 'Дослідження включає в себе три фази.'
+name: "NP-Nom включає в себе NP-Acc"
+illustration: "Дослідження включає в себе три фази."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -48,5 +48,3 @@ semantic_types:
     subtypes:
       - type: Property assignment
   - type: Subset
-    subtypes:
-      - type: Subset

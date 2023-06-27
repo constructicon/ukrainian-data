@@ -1,28 +1,44 @@
 ---
 record: 63
-name: 'Cl, тим не менш, Cl'
-illustration: ''
-cefr_level: В2
+name: "Cl, тим не менш, Cl"
+illustration: "І, тим не менш, це вже зовсім інша історія."
+cefr_level: B2
 definitions:
+  - ukrainian: |
+       Конструкція використовується як вступне словосполучення, що вводить [інформацію]ContentOfSpeech і підкреслює протиставлення попередньому висловлюванню.
+  - english: |
+       The construction is used as an introductory phrase that introduces [information]ContentOfSpeech and emphasizes the contrast with the previous utterance.
+  - russian: |
+       Конструкция используется в качестве вводной фразы, которая вводит [information]ContentOfSpeech и подчеркивает контраст с предыдущим высказыванием.
 examples:
+  - |
+       З кінця минулого місяця інтенсивність протестів дещо зменшилася. Тим не менш, [вони ні на мить не зупинялися]ContentofSpeech. (Онлайн-ЗМІ «Главком», 2022)
+  - |
+       Досліджень на цю тему проведено не так вже й багато, тому до їх результатів потрібно ставитися обережно. Тим не менш, [поки вони виглядають обнадійливо]ContentofSpeech. (Журнал «НВ», 2016)
+  - |
+       Решта антибіотиків не мають суворих протипоказань щодо алкоголю. Тим не менш, [лікарі радять від них утриматись]ContentofSpeech. (Онлайн-ЗМІ «РБК-UA», 2022)
 morphology:
-  - ~
+  - Cl
 syntactic_type_of_construction:
-  - ~
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
-  - ~
+  - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Conjunction
+  - Negation Marker
 intonation:
-  - ~
-usage_label: ~
+  - Declarative
+usage_label: Formal
 equivalents:
   - english: |
        nonetheless
   - russian: |
        Cl, тем не менее, Cl
 common_fillers:
-  - ~
+  - NA
 semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectations

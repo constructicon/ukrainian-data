@@ -1,7 +1,7 @@
 ---
 record: 44
-name: 'так би мовити, XP'
-illustration: 'Коментарі, так би мовити, зайві.'
+name: "так би мовити, XP"
+illustration: "Коментарі, так би мовити, зайві."
 cefr_level: C1
 definitions:
   - ukrainian: |
@@ -9,7 +9,7 @@ definitions:
   - english: |
        The construction is used when the speaker wants to express their thoughts more precisely, to characterize [something]Theme more precisely. Also the construction is used as a [disclaimer]Theme to soften one's resolution.
   - russian: |
-       Конструкция используется при желании выразиться более точно, точнее охарактеризовать [что-нибудь] Theme. Также используется как [оговорка]Theme, смягчающую решимость некого утверждения.
+       Конструкция используется при желании выразиться более точно, точнее охарактеризовать [что-нибудь]Theme. Также используется как [оговорка]Theme, смягчающую решимость некого утверждения.
 examples:
   - |
        Одне з питань розглядатиметься, так би мовити, [заднім числом]Theme. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2017)
@@ -33,7 +33,7 @@ intonation:
 usage_label: Colloquial
 equivalents:
   - english: |
-       so to say
+       so to say X
   - russian: |
        так сказать, XP
 common_fillers:

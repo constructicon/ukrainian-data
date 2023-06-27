@@ -1,7 +1,7 @@
 ---
 record: 14
-name: 'NP-Nom Cop на носі (носу)'
-illustration: 'На носі другий семестр.'
+name: "NP-Nom Cop на носі (носу)"
+illustration: "На носі другий семестр."
 cefr_level: A1
 definitions:
   - ukrainian: |
@@ -37,7 +37,9 @@ equivalents:
   - russian: |
        NP-Nom Cop на носу
 common_fillers:
-  - ~
+  - екзамени
+  - залік
+  - поїздка
 semantic_types:
   - type: Timeline
     subtypes:

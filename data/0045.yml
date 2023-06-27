@@ -1,7 +1,7 @@
 ---
 record: 45
-name: 'VP в повному обсязі'
-illustration: 'Відсотки також будуть нараховані в повному обсязі.'
+name: "VP в повному обсязі"
+illustration: "Відсотки також будуть нараховані в повному обсязі."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       in full
+       X in full
   - russian: |
        VP в полной мере
 common_fillers:

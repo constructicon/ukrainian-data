@@ -1,11 +1,11 @@
 ---
 record: 42
-name: 'та ще й NP Cl'
-illustration: 'І дитина, і дорослий завжди зрадіють ласощам, та ще й в гарній упаковці!'
+name: "та ще й NP Cl"
+illustration: "І дитина, і дорослий завжди зрадіють ласощам, та ще й в гарній упаковці!"
 cefr_level: B2
 definitions:
   - ukrainian: |
-       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною чи дієслівною групою або прикметником.
+       Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною чи дієслівною групою або прикметником.
   - english: |
        Thе construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The most common filler for the XP slot is a noun phrase, a verb phrase or an adjective.
   - russian: |

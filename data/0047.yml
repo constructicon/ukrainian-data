@@ -1,15 +1,15 @@
 ---
 record: 47
-name: '(мова) filler (NP-Nom) йдеться про (те, що) ХР, Cl'
-illustration: 'А в цьому проекті мова йдеться про дуже прості речі.'
+name: "(мова) filler (NP-Nom) йдеться про (те, що) ХР, Cl"
+illustration: "А в цьому проекті мова йдеться про дуже прості речі."
 cefr_level: B1
 definitions:
   - ukrainian: |
-       Конструкція виділяє деяке [ствердження] ContentOfSpeech як важливе для того, хто говорить, яке він хоче пояснити або наголосити.
+       Конструкція виділяє деяке [ствердження]ContentOfSpeech як важливе для того, хто говорить, яке він хоче пояснити або наголосити.
   - english: |
-       The construction singles out some [statement] of ContentOfSpeech as important to the speaker that he wants to explain or highlight.
+       The construction singles out some [statement]ContentOfSpeech as important to the speaker that he wants to explain or highlight.
   - russian: |
-       Конструкция выделяет некоторое [утверждение] ContentOfSpeech как важное для говорящего, которое он хочет объяснить или выделить.
+       Конструкция выделяет некоторое [утверждение]ContentOfSpeech как важное для говорящего, которое он хочет объяснить или выделить.
 examples:
   - |
        Тому від України на цьому етапі вимагаються передусім терпіння та витривалість, оскільки йдеться про [довгострокову стратегію]ContentofSpeech. (Максим Віхров "Геополітика. Втримати штурвал", 2019)
@@ -38,7 +38,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       the topic is, is about
+       the topic is about X
   - russian: |
        речь Cop о том, что Cl
 common_fillers:

@@ -1,13 +1,13 @@
 ---
 record: 30
-name: '(Cl,) pазом з тим Cl'
-illustration: 'Ця будівля дуже незвичайна, з колонами, і разом з тим проста і гармонійна за формою.'
+name: "(Cl,) pазом з тим Cl"
+illustration: "Ця будівля дуже незвичайна, з колонами, і разом з тим проста і гармонійна за формою."
 cefr_level: B2
 definitions:
   - ukrainian: |
-       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Часто ця інформація суперечить тому, що було сказано раніше.
+       Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Часто ця інформація суперечить тому, що було сказано раніше.
   - english: |
-       The construction introduces [information] ContentOfSpeech that complements what has been said before. Often this information contradicts what was said earlier.
+       The construction introduces [information]ContentOfSpeech that complements what has been said before. Often this information contradicts what was said earlier.
   - russian: |
        Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Часто эта информация противоречит сказанному ранее
 examples:
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       along with this
+       X along with Y
   - russian: |
        (Cl,) (но/и) вместе с тем Cl
 common_fillers:

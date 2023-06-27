@@ -1,7 +1,7 @@
 ---
 record: 48
-name: 'Cl, (але) швидше за все Cl'
-illustration: 'Швидше за все, це відбудеться 11 серпня.'
+name: "Cl, (але) швидше за все Cl"
+illustration: "Швидше за все, це відбудеться 11 серпня."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       most likely
+       most likely X
   - russian: |
        Cl, а/но скорее всего Cl
 common_fillers:

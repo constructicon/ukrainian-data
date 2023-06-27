@@ -1,7 +1,7 @@
 ---
 record: 55
-name: 'VP в результаті NP-Gen'
-illustration: 'В результаті інциденту поранення отримали чотири людини.'
+name: "VP в результаті NP-Gen"
+illustration: "В результаті інциденту поранення отримали чотири людини."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       as a result of X
+       Y as a result of X
   - russian: |
        VP в результате NP-Gen
 common_fillers:

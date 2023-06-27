@@ -7,6 +7,8 @@ def record_to_filename(record):
 
 
 def split_string(s, split_sequence):
+    if not s:
+        s = ""
     if s.strip() == "":
         return ["~"]
     for character in split_sequence:
@@ -16,6 +18,8 @@ def split_string(s, split_sequence):
 
 
 def normalize_usage_label(s):
+    if not s:
+        s = ""
     s = s.strip()
     if s == "":
         return "~"
@@ -45,8 +49,8 @@ def write_record(row, record):
     with open(record_to_filename(record), "w") as f:
         f.write("---\n")
         f.write(f"record: {record}\n")
-        f.write(f"name: '{row['Name'].strip()}'\n")
-        f.write(f"illustration: '{row['Illustration'].strip()}'\n")
+        f.write(f"name: \"{row['Name'].strip()}\"\n")
+        f.write(f"illustration: \"{row['Illustration'].strip()}\"\n")
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
         for language in ["Ukrainian", "English", "Russian"]:
@@ -79,10 +83,12 @@ def write_record(row, record):
         )
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
 
-        entry = row["Comment"].strip()
-        if entry != "":
-            f.write("comment: |\n")
-            f.write(f"    '{entry}'\n")
+
+        if row["Comment"]:
+            entry = row["Comment"].strip()
+            if entry != "":
+                f.write("comment: |\n")
+                f.write(f"    '{entry}'\n")
 
         f.write("equivalents:\n")
         for language in ["English", "Russian"]:
@@ -105,24 +111,25 @@ def write_record(row, record):
                 f.write(f"  - type: {tag}\n")
                 if row[tag] != "Unspecified":
                     f.write(f"    subtypes:\n")
-                    for chunk in row[tag].split(", "):
-                        match chunk.count(":"):
-                            case 2:
-                                first, second, third = chunk.split(":")
-                                f.write(f"      - type: {first.strip()}\n")
-                                f.write(f"        subtypes:\n")
-                                f.write(f"          - type: {second.strip()}\n")
-                                f.write(f"            subtypes:\n")
-                                f.write(f"              - type: {third.strip()}\n")
-                            case 1:
-                                first, second = chunk.split(":")
-                                f.write(f"      - type: {first.strip()}\n")
-                                f.write(f"        subtypes:\n")
-                                f.write(f"          - type: {second.strip()}\n")
-                            case 0:
-                                f.write(f"      - type: {chunk.strip()}\n")
-                            case other:
-                                sys.exit("Error: extend code to deal with 3 colons")
+                    if row[tag]:
+                        for chunk in row[tag].split(", "):
+                            match chunk.count(":"):
+                                case 2:
+                                    first, second, third = chunk.split(":")
+                                    f.write(f"      - type: {first.strip()}\n")
+                                    f.write(f"        subtypes:\n")
+                                    f.write(f"          - type: {second.strip()}\n")
+                                    f.write(f"            subtypes:\n")
+                                    f.write(f"              - type: {third.strip()}\n")
+                                case 1:
+                                    first, second = chunk.split(":")
+                                    f.write(f"      - type: {first.strip()}\n")
+                                    f.write(f"        subtypes:\n")
+                                    f.write(f"          - type: {second.strip()}\n")
+                                case 0:
+                                    f.write(f"      - type: {chunk.strip()}\n")
+                                case other:
+                                    sys.exit("Error: extend code to deal with 3 colons")
 
 
 if __name__ == "__main__":

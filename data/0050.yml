@@ -1,11 +1,11 @@
 ---
 record: 50
-name: 'не лише XP, а (й) XP'
-illustration: 'Яна і Віталій — не лише колеги по роботі, а й давні друзі.'
+name: "не лише XP, а (й) XP"
+illustration: "Яна і Віталій — не лише колеги по роботі, а й давні друзі."
 cefr_level: B1
 definitions:
   - ukrainian: |
-       Конструкція вводить [інформацію] ContentOfSpeech, яка доповнює сказане раніше. Слот XP заповнюється іменною групою, прийменниковою групою, прикметником або дієслівною групою.
+       Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот XP заповнюється іменною групою, прийменниковою групою, прикметником або дієслівною групою.
   - english: |
        This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot fills with a noun phrase, a prepositional phrase, an adjective or a verb phrase.
   - russian: |

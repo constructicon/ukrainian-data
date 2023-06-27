@@ -1,22 +1,22 @@
 ---
 record: 4
-name: 'NP-Nom набиратися (набратися) NP-Gen'
-illustration: 'Хлопчик ріс і набирався сил'
+name: "NP-Nom набиратися (набратися) NP-Gen"
+illustration: "Хлопчик ріс і набирався сил"
 cefr_level: C1
 definitions:
   - ukrainian: |
-       Конструкція підкреслює здатність знаходити в собі які-небудь [внутрішні сили, якості] Theme.
+       Конструкція підкреслює здатність знаходити в собі які-небудь [внутрішні сили, якості]Theme.
   - english: |
-       The construction emphasizes the ability to find some [internal strenght, qualities] Theme in oneself
+       The construction emphasizes the ability to find some [internal strenght, qualities]Theme in oneself
   - russian: |
-       Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества] Theme
+       Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества]Theme
 examples:
   - |
        Словом, на наступний день ми півдня просиділи в квартирі, набиралися [сил]Theme. (Онлайн-ЗМІ "ПРОЧЕРК.інфо", 2011). 380
   - |
-       Це нове покоління студентів Острозької академії, яке зараз тільки набирається [знань] Theme і формує своє бачення світу (Газета "День", 2010)
+       Це нове покоління студентів Острозької академії, яке зараз тільки набирається [знань]Theme і формує своє бачення світу (Газета "День", 2010)
   - |
-       Тут дорослі стають допитливими дітлахами, а малюки набираються [розуму] Theme. (Інтернет-газета "Український тиждень", 2009) 280
+       Тут дорослі стають допитливими дітлахами, а малюки набираються [розуму]Theme. (Інтернет-газета "Український тиждень", 2009) 280
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -32,7 +32,7 @@ intonation:
 usage_label: Colloquial
 equivalents:
   - english: |
-       gain/get smth
+       gain/get X
   - russian: |
        NP-Nom набраться NP-Gen
 common_fillers:
@@ -40,7 +40,10 @@ common_fillers:
   - досвіду
   - знань
   - розуму
-  - навиків
+  - сміливості
+  - терпіння
+  - нахабства
+  - снаги
   - надхнення
 semantic_types:
   - type: Actionality

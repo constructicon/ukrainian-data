@@ -1,7 +1,7 @@
 ---
 record: 33
-name: 'Cl в порівнянні з NP-Ins'
-illustration: 'Ціни в цьому сезоні виросли приблизно на 30 % в порівнянні з минулим роком.'
+name: "Cl в порівнянні з NP-Ins"
+illustration: "Ціни в цьому сезоні виросли приблизно на 30 % в порівнянні з минулим роком."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -33,7 +33,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       in comparison with
+       X in comparison with Y
   - russian: |
        Cl по сравнению с NP-Ins
 common_fillers:

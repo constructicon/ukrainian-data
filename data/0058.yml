@@ -1,7 +1,7 @@
 ---
 record: 58
-name: 'VP з нагоди NP-Gen'
-illustration: 'З нагоди відкриття салону діють суттєві знижки.'
+name: "VP з нагоди NP-Gen"
+illustration: "З нагоди відкриття салону діють суттєві знижки."
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       on the occasion of
+       X on the occasion of Y
   - russian: |
        VP по случаю NP-Gen
 common_fillers:

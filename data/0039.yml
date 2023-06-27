@@ -1,13 +1,13 @@
 ---
 record: 39
-name: 'VP відповідно до NP-Gen'
-illustration: 'Переходимо до розгляду питань відповідно до порядку денного.'
+name: "VP відповідно до NP-Gen"
+illustration: "Переходимо до розгляду питань відповідно до порядку денного."
 cefr_level: C1
 definitions:
   - ukrainian: |
        Конструкція застосовується для позначення узгодженості між [об'єктом]Topic та [затвердженням]ContentofSpeech.
   - english: |
-       This construction is used to indicate congruence between an [object] Topic and an [assertion] ContentofSpeech.
+       This construction is used to indicate congruence between an [object]Topic and an [assertion]ContentofSpeech.
   - russian: |
        Конструкция применяется для обозначения согласованности между [объектом]Topic и [утверждением]ContentofSpeech.
 examples:
@@ -41,8 +41,4 @@ common_fillers:
   - ~
 semantic_types:
   - type: Manner
-    subtypes:
-      - type: Manner
   - type: Source of information
-    subtypes:
-      - type: Source of information

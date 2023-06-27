@@ -1,13 +1,13 @@
 ---
 record: 49
-name: 'як то кажуть XP'
-illustration: 'У житті все може статися. Як то кажуть, ніколи не кажи ніколи.'
+name: "як то кажуть XP"
+illustration: "У житті все може статися. Як то кажуть, ніколи не кажи ніколи."
 cefr_level: C2
 definitions:
   - ukrainian: |
        Конструкція виділяє у тексті [формулювання]Theme, яку вибирає мовець для висловлювання своєї думки. Мовець апелює до широко відомого поширеного виразу, що вживається в переносному значенні, є ідіомою або терміном.
   - english: |
-       The construction highlights in the text [an expression] Theme that the speaker chooses to express his opinion. The speaker refers to a well-known common expression used in a figurative sense, is an idiom or a term.
+       The construction highlights in the text [an expression]Theme that the speaker chooses to express his opinion. The speaker refers to a well-known common expression used in a figurative sense, is an idiom or a term.
   - russian: |
        Конструкция выделяет в тексте [некоторую формулировку]Theme, которую выбирает говорящий для выражения своей мысли. Говорящий апеллирует к широко известному расхожему выражению, которое употребляется в переносном смысле, является идиомой или термином.
 examples:

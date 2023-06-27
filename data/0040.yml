@@ -1,7 +1,7 @@
 ---
 record: 40
-name: 'незважаючи на те, що Cl, Cl'
-illustration: 'І незважаючи на те, що ситуація є складною, треба зберігати спокій.'
+name: "незважаючи на те, що Cl, Cl"
+illustration: "І незважаючи на те, що ситуація є складною, треба зберігати спокій."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -36,7 +36,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       despite the fact that
+       despite the fact that X
   - russian: |
        несмотря/невзирая на то, что Cl, Cl
 common_fillers:

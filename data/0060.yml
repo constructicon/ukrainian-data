@@ -1,7 +1,7 @@
 ---
 record: 60
-name: 'VP в рамках NP-Gen'
-illustration: 'Діємо в рамках закону.'
+name: "VP в рамках NP-Gen"
+illustration: "Діємо в рамках закону."
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -34,7 +34,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       as a part of
+       X as a part of Y
   - russian: |
        VP в рамки NP-Gen
 common_fillers:

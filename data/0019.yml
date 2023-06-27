@@ -1,7 +1,7 @@
 ---
 record: 19
-name: 'таким чином, Cl'
-illustration: 'Таким чином, усі задоволені.'
+name: "таким чином, Cl"
+illustration: "Таким чином, усі задоволені."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -33,7 +33,7 @@ intonation:
 usage_label: Formal
 equivalents:
   - english: |
-       so that, as a result
+       so that X
   - russian: |
        таким образом, Cl
 common_fillers:

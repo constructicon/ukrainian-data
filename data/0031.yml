@@ -1,7 +1,7 @@
 ---
 record: 31
-name: 'поки що (не) Cl'
-illustration: 'У компанії поки що не дали коментарів щодо інциденту.'
+name: "поки що (не) Cl"
+illustration: "У компанії поки що не дали коментарів щодо інциденту."
 cefr_level: B2
 definitions:
   - ukrainian: |
@@ -32,7 +32,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       yet, stil
+       yet, stil X
   - russian: |
        пока что Cl
 common_fillers:

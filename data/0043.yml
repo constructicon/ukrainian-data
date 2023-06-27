@@ -1,7 +1,7 @@
 ---
 record: 43
-name: 'XP/Cl так само як XP/Cl'
-illustration: 'Подати заявки батьки зможуть зразу у декілька дитсадків, так само як зі школою.'
+name: "XP/Cl так само як XP/Cl"
+illustration: "Подати заявки батьки зможуть зразу у декілька дитсадків, так само як зі школою."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -35,7 +35,7 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       X the same s Y
+       X the same as Y
   - russian: |
        XP/Cl так же, как (и) XP/Cl
 common_fillers:

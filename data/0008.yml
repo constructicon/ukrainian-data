@@ -1,7 +1,7 @@
 ---
 record: 8
-name: 'VP унаслідок NP-Gen'
-illustration: 'Унаслідок події постраждали кілька пасажирів.'
+name: "VP унаслідок NP-Gen"
+illustration: "Унаслідок події постраждали кілька пасажирів."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -37,7 +37,13 @@ equivalents:
   - russian: |
        VP в результате NP-Gen
 common_fillers:
-  - ~
+  - зіткнення
+  - пригоди
+  - обстрілів
+  - вибуху
+  - інциденту
+  - сутичок
+  - аварії
 semantic_types:
   - type: Cause
   - type: Result

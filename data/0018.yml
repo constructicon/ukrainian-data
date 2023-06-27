@@ -1,13 +1,13 @@
 ---
 record: 18
-name: 'нівроку NP-Dat'
-illustration: 'Tи, молодичко, нівроку тобі, проворна, роботяща.'
+name: "нівроку NP-Dat"
+illustration: "Tи, молодичко, нівроку тобі, проворна, роботяща."
 cefr_level: C1
 definitions:
   - ukrainian: |
        Конструкція вживається для вираження побажання не принести горя, не наврочити [кому-небудь]Recipient своїми словами.
   - english: |
-       The construction is used to express a desire not to wish [anyone]Recipient smth bad, not to offend, jinx [anyone]Recipient with one's words.
+       The construction is used to express a desire not to wish [anyone]Recipient anything bad, not to offend, jinx [anyone]Recipient with one's words.
   - russian: |
        Конструкция используется для выражения пожелания не принести горя, не сглазить [кого-либо]Recipient своими словами.
 examples:
@@ -20,19 +20,19 @@ examples:
 morphology:
   - NP-Dat
 syntactic_type_of_construction:
-  - Predicate Argument Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
-  - Argument
+  - Modifier
 syntactic_structure_of_anchor:
-  - ???
+  - ~
 part_of_speech_of_anchor:
-  - Adverb????
+  - Adverb
 intonation:
   - Not applicable
 usage_label: Colloquial
 equivalents:
   - english: |
-       not to wish bad to X
+       not to jinx X
   - russian: |
        не сглазить NP-Dat
 common_fillers:

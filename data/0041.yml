@@ -1,7 +1,7 @@
 ---
 record: 41
-name: 'за рахунок NP-Gen'
-illustration: 'Бібліотека зростала тільки за рахунок пожертв громадян та обміну з іншими науковими установами.'
+name: "за рахунок NP-Gen"
+illustration: "Бібліотека зростала тільки за рахунок пожертв громадян та обміну з іншими науковими установами."
 cefr_level: A2
 definitions:
   - ukrainian: |
@@ -33,12 +33,10 @@ intonation:
 usage_label: ~
 equivalents:
   - english: |
-       thanks to, due to
+       thanks to, due to X
   - russian: |
        за счет NP-Gen
 common_fillers:
   - ~
 semantic_types:
   - type: Condition
-    subtypes:
-      - type: Condition
