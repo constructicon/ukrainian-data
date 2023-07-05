@@ -23,7 +23,8 @@ examples:
        Про фінансування батальйону [це питання]Theme не в рамках [такого інтерв'ю]Limit. (Онлайн-ЗМІ «Громадське телебачення», 2015)
 morphology:
   - VP
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X as a part of Y

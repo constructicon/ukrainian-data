@@ -22,7 +22,8 @@ examples:
   - |
        Крім цього, у випадку [лиха]Condition [реєстрація туристичних груп скорочує час пошуку заблукалих чи постраждалих]Situation у незнайомій місцевості людей. (Інтернет-газета «Версії», 2019)
 morphology:
-  - NP-Gen
+  - NP
+  - Gen
   - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        in case of X

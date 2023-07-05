@@ -14,7 +14,7 @@ examples:
   - |
        «[Моя надмірно емоційна реакція і нестримана поведінка]Action по відношенню до [журналістів]Addressee не мають виправдання», — заявив він. (Журнал «НВ», 2021 )
   - |
-       Ці компанії [повели себе невідповідально]Action по відношенню до [своїх клієнтів]Addressee, виставили їм рахунки, які не мали права виставляти. (Онлайн-ЗМІ "Главком", 2022)
+       Ці компанії [повели себе невідповідально]Action по відношенню до [своїх клієнтів]Addressee, виставили їм рахунки, які не мали права виставляти. (Онлайн-ЗМІ «Главком», 2022)
   - |
        Ми ж зі своєї сторони поводимося вкрай толерантно й просимо своїх сусідів [поводитися]Action по відношенню до [нашої країни]Addressee так само толерантно. (Онлайн-ЗМІ «UNIAN.NET», 2012)
   - |
@@ -22,8 +22,9 @@ examples:
   - |
        По відношенню до [тих керівників]Addressee, що не виконають завдань, я [буду ініціювати самі різноманітні заходи кадрового і правового порядку]Action. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2011)
 morphology:
-  - VP/NP
-  - NP-Gen
+  - VP
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X in relation to Y

@@ -16,14 +16,15 @@ examples:
   - |
        При цьому [суперники й дати поєдинків можуть змінитися]Situation в залежності від [планів учасників]Condition. (Онлайн-ЗМІ «UNIAN.NET», 2019)
   - |
-       В залежності від [структури контексту країни]Condition [домінує та чи інша модель жіночого руху]Situation. (Людмила Смоляр "Минуле заради майбутнього", 1998)
+       В залежності від [структури контексту країни]Condition [домінує та чи інша модель жіночого руху]Situation. (Людмила Смоляр «Минуле заради майбутнього», 1998)
   - |
        За даними підприємства, [завод працює]Situation в залежності від [постачання комплектуючих і замовлень]Condition. (Онлайн-ЗМІ «UNIAN.NET», 2012)
   - |
        В залежності від [об'єму двигуна]Condition [витрати палива складають від 10 до 30 літрів на 100 км]Situation. (Онлайн-ЗМІ «LB.ua», 2021)
 morphology:
   - Cl
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Clause and Modifier Construction
 syntactic_function_of_anchor:
@@ -32,9 +33,13 @@ syntactic_structure_of_anchor:
   - Multiword Preposition
 part_of_speech_of_anchor:
   - Preposition
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        depending on X

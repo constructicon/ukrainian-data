@@ -20,10 +20,11 @@ examples:
   - |
        [Акватлон]Set включає в себе лише [плавання та біг]Element. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2014)
   - |
-       [Внутрішній трудовий розпорядок]Set, що встановлюється кожним роботодавцем, включає в себе [режим робочого часу]Element. (Ірина Саленко, "ПРАВОВЕ РЕГУЛЮВАННЯ РАЦІОНАЛЬНОГО ВИКОРИСТАННЯ РОБОЧОГО ЧАСУ", 2019)
+       [Внутрішній трудовий розпорядок]Set, що встановлюється кожним роботодавцем, включає в себе [режим робочого часу]Element. (Ірина Саленко, «ПРАВОВЕ РЕГУЛЮВАННЯ РАЦІОНАЛЬНОГО ВИКОРИСТАННЯ РОБОЧОГО ЧАСУ», 2019)
 morphology:
-  - NP-Nom
-  - NP-Acc
+  - NP
+  - Nom
+  - Acc
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -34,9 +35,13 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
   - Pronoun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X includes Y

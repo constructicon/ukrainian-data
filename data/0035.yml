@@ -16,13 +16,14 @@ examples:
   - |
        Однак незважаючи на [не найкращі умови для гри після опадів]Situation, [команди заграли результативніше]Action. (Журнал «НВ», 2020)
   - |
-       Та, незважаючи на [обіцянки й погрози]Situation, [справа просувається вперед дуже повільно]Event. (Ярослав Галан "Годі!", 1950)
+       Та, незважаючи на [обіцянки й погрози]Situation, [справа просувається вперед дуже повільно]Event. (Ярослав Галан «Годі!», 1950)
   - |
        Чорнобильська зона, незважаючи на [всі небезпеки, які вона таїть у собі]Situation, [як магнітом притягує туристів]Action. (Інтернет-газета «Україна молода», 2017)
   - |
        Незважаючи на [втішні дані і невелику кількість носіїв вірусу]Situation, влада поки не скасовує масковий режим. (Інтернет-газета «Високий замок», 2021)
 morphology:
-  - NP-Acc
+  - NP
+  - Acc
   - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
   - Multiword Preposition
 part_of_speech_of_anchor:
   - Preposition
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        despite X, in spite of X

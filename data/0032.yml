@@ -18,12 +18,13 @@ examples:
   - |
        З точки зору [моралі і фінансів]Theme, [я не можу дати цьому оцінку]Evaluation. (Журнал «НВ», 2019)
   - |
-       А вголос сказав: — Може, з точки зору [медицини]Theme [все так, як ви кажете]Evaluation. (Олесь Бердник, "Зоряний корсар", 1971)
+       А вголос сказав: — Може, з точки зору [медицини]Theme [все так, як ви кажете]Evaluation. (Олесь Бердник, «Зоряний корсар», 1971)
   - |
-       Коли я вперше побачив танцювальні колективи, всі вони здалися мені прекрасними і з [хореографічної]Theme точки зору [подібними одна до одної]Evaluation. (Тадеуш Бреза "Листи з Гавани", 1963)
+       Коли я вперше побачив танцювальні колективи, всі вони здалися мені прекрасними і з [хореографічної]Theme точки зору [подібними одна до одної]Evaluation. (Тадеуш Бреза «Листи з Гавани», 1963)
 morphology:
-  - NP-Gen
-  - PronPoss-Gen
+  - NP
+  - Gen
+  - PronPoss
   - Cl
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
@@ -34,9 +35,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        from X point of view

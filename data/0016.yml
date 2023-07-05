@@ -23,7 +23,8 @@ examples:
        [Обновити]Action вихідне вбрання, в якому ви вже були на вечірках, можна за допомогою [нових аксесуарів]Instrument. (Інтернет-газета «Високий замок», 2007)
 morphology:
   - VP
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        V with the help of X

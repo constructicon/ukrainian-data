@@ -16,13 +16,14 @@ examples:
   - |
        Програмою заходу передбачено практичне [навчання виживанню]Action в екстремальних умовах і поведінці під час [військових дій]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2013)
   - |
-       Насправді коли ми виходимо на доріжку разом, кожна з нас [біжить]Action швидше, ніж під час [індивідуальних змагань]Situation. (нтернет-газета «Україна молода», 2013)
+       Насправді коли ми виходимо на доріжку разом, кожна з нас [біжить]Action швидше, ніж під час [індивідуальних змагань]Situation. (Інтернет-газета «Україна молода», 2013)
   - |
        Під час [однієї з акцій протесту]Situation протестувальники [пошкодили]action Тріумфальну арку. (Журнал «НВ», 2018)
   - |
        Якщо скоєно правопорушення, всі обставини [будуть вивчені]Action під час [розслідування справи]Situation. (Онлайн-ЗМІ «LB.ua», 2014)
 morphology:
-  - NP-Gen
+  - NP
+  - Gen
   - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -34,9 +35,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        at the time of X, under X

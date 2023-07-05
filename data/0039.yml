@@ -12,7 +12,7 @@ definitions:
        Конструкция применяется для обозначения согласованности между [объектом]Topic и [утверждением]ContentofSpeech.
 examples:
   - |
-       [Я діяв]ContentofSpeech відповідно до [батькових бажань]Topic і навіть не думав, щоб хоч якось обмовитись про те, що хочу стати актором. (Артем Чех "Пластик", 2008)
+       [Я діяв]ContentofSpeech відповідно до [батькових бажань]Topic і навіть не думав, щоб хоч якось обмовитись про те, що хочу стати актором. (Артем Чех «Пластик», 2008)
   - |
        Відповідно до [вимог]Topic, які встановило Міністерство охорони здоров'я, [у таких містах заборонена робота магазинів і торгових центрів]ContentofSpeech. (Онлайн-ЗМІ «Zaxid.net», 2020)
   - |
@@ -20,10 +20,11 @@ examples:
   - |
        Він підтвердив, що відповідно до [контрактів]Topic [група працівників має отримати 1 % від виграних грошей]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
   - |
-       Також, відповідно до [цієї концепції]Topic, [він не намагався об'єднати та систематизувати різні ідеї власного вчення]ContentofSpeech. (Микола Рик "СИМВОЛІЗМ У ТВОРЧОСТІ Г. СКОВОРОДИ: РЕЛІГІЄЗНАВЧИЙ АНАЛІЗ", 2019)
+       Також, відповідно до [цієї концепції]Topic, [він не намагався об'єднати та систематизувати різні ідеї власного вчення]ContentofSpeech. (Микола Рик «СИМВОЛІЗМ У ТВОРЧОСТІ Г. СКОВОРОДИ: РЕЛІГІЄЗНАВЧИЙ АНАЛІЗ», 2019)
 morphology:
   - VP
-  - NP-Ins
+  - NP
+  - Ins
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Adverb
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X according to Y

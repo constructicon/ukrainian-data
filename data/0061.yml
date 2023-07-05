@@ -33,9 +33,13 @@ part_of_speech_of_anchor:
   - Conjunction
   - Preposition
   - Pronoun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: Colloquial
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        as for me

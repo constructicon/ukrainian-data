@@ -12,7 +12,7 @@ definitions:
        Конструкция выделяет некоторое [утверждение]ContentOfSpeech как важное для говорящего, которое он хочет объяснить или выделить.
 examples:
   - |
-       Тому від України на цьому етапі вимагаються передусім терпіння та витривалість, оскільки йдеться про [довгострокову стратегію]ContentofSpeech. (Максим Віхров "Геополітика. Втримати штурвал", 2019)
+       Тому від України на цьому етапі вимагаються передусім терпіння та витривалість, оскільки йдеться про [довгострокову стратегію]ContentofSpeech. (Максим Віхров «Геополітика. Втримати штурвал», 2019)
   - |
        В угоді також йдеться про [намір зберегти транзит газу через Україну]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2021)
   - |
@@ -27,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
 syntactic_function_of_anchor:
-  - Parentheticals
+  - Parenthetical
 syntactic_structure_of_anchor:
   - Verb
   - Object
@@ -37,9 +37,13 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
   - Conjunction
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        the topic is about X

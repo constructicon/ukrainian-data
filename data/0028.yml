@@ -14,7 +14,7 @@ examples:
   - |
        Колишній менеджер Ліверпуля Рой Ходжсон [провів]Action всього півроку на чолі легендарної [команди]Theme. (Журнал «НВ», 2016)
   - |
-       Бо на чолі [війська]Theme, якого і четвертина не знала польської мови, [стояв]Action польський король. (Юліан Опільський "Сумерк", 1922)
+       Бо на чолі [війська]Theme, якого і четвертина не знала польської мови, [стояв]Action польський король. (Юліан Опільський «Сумерк», 1922)
   - |
        Відомо, що посланці задунайців таємно [прибували]Action в Україну і [повертались]Action назад на чолі [численних великих загонів втікачів]Theme. (Інтернет-газета «Кримська світлиця», 2008)
   - |
@@ -23,7 +23,8 @@ examples:
        На чолі [компанії]Theme [стане]Action Кріс Тейлор, експерт з національної безпеки, який раніше керував іншими компаніями, що співпрацювали з американським урядом. (Онлайн-ЗМІ «Токар», 2022)
 morphology:
   - VP
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        to be at the head of X

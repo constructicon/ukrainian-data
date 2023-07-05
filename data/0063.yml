@@ -32,9 +32,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
   - Negation Marker
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: Formal
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        nonetheless
@@ -45,4 +49,4 @@ common_fillers:
 semantic_types:
   - type: Concession
     subtypes:
-      - type: Failed expectations
+      - type: Failed expectation

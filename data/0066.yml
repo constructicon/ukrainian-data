@@ -14,13 +14,13 @@ examples:
   - |
        Ми ходили в цей похід в дощову погоду, але це анітрохи не [завадило]Action. Ми ходили в цей похід в дощову погоду, але це анітрохи не завадило. (Онлайн-ЗМІ «UNIAN.NET», 2020)
   - |
-       Сильні морози і короткий день анітрохи не [бентежили]Action мандрівників. (Сергій Шарик "Двічі графиня та двічі генерал", 2014)
+       Сильні морози і короткий день анітрохи не [бентежили]Action мандрівників. (Сергій Шарик «Двічі графиня та двічі генерал», 2014)
   - |
        Прем'єр анітрохи не [хвилюється]Action, навпаки, через запитання відповідає жартом. (Онлайн-ЗМІ «LB.ua», 2017)
   - |
-       Олександр дивився на все те й чомусь анітрішки не [дивувався]Action. (Радій Радутний "Важка чоловіча робота", 2012)
+       Олександр дивився на все те й чомусь анітрішки не [дивувався]Action. (Радій Радутний «Важка чоловіча робота», 2012)
   - |
-       Дарма що попередні 15 років його анітрохи не [турбували]Action мої мовні права. (Андрій Бондар "Ласощі для Медора: мала проза", 2020)
+       Дарма що попередні 15 років його анітрохи не [турбували]Action мої мовні права. (Андрій Бондар «Ласощі для Медора: мала проза», 2020)
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -28,13 +28,17 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Double negation
+  - Double Negation
 part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        in no way X
@@ -45,4 +49,4 @@ common_fillers:
 semantic_types:
   - type: Degree of intensity
     subtypes:
-      - type: Minimazer
+      - type: Minimizer

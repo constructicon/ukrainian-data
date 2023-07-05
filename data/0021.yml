@@ -22,8 +22,9 @@ examples:
   - |
        ["Жайворонки"]Participant були менш сонливі і відрізнялися [найшвидшою реакцією]Property під час проведення ранкових тестів. [Вони]Participant також відрізнялися [кращою працездатністю]Property, ніж "сови". (Онлайн-ЗМІ «UNIAN.NET», 2019)
 morphology:
-  - NP-Nom
-  - NP-Ins
+  - NP
+  - Nom
+  - Ins
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -32,9 +33,13 @@ syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:
   - Verb
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X is distinquished by Y

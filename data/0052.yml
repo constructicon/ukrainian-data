@@ -16,14 +16,15 @@ examples:
   - |
        Тому [представники київських профспілок]Agent кажуть, що [виступають]Action від імені [всіх працівників ВНЗ та студентів країни]Counteragent. (Інтернет-газета «Україна молода», 2013)
   - |
-       Що про неї [можна сказати]Action, крім похвали і подяки від імені [науки]Counteragent! (Ольга Гончар "Микола Костомаров: постать історика на тлі епохи", 2017)
+       Що про неї [можна сказати]Action, крім похвали і подяки від імені [науки]Counteragent! (Ольга Гончар «Микола Костомаров: постать історика на тлі епохи», 2017)
   - |
-       [Злодії]Agent [діють]Action від імені [магазину, компанії чи соціальної установи]Counteragent. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+       А від імені [народу]Counteragent [виступає]Action Верховна Рада. (Стенограми засідань Верховної Ради України, 1994)
   - |
        З новин в українських медіа [мені]Agent [стало відомо]Action, що Вам було направлено лист, написаний нібито від імені [трудового колективу телеканалу]Counteragent. (Онлайн-ЗМІ «LB.ua», 2013)
 morphology:
   - VP
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: Formal
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        on behalf of X

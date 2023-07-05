@@ -12,7 +12,7 @@ definitions:
        Конструкция указывает на то, что [некоторая ситуация]Situation имеет место при наличии [определенных сопутствующих обстоятельств]Condition.
 examples:
   - |
-       За рахунок [цього фонду]Condition [було придбано одяг та взуття]Situation для 34 дітей. (Іван Клімаш та ін. "Історія міст і сіл Української РСР. Волинська область", 1970)
+       За рахунок [цього фонду]Condition [було придбано одяг та взуття]Situation для 34 дітей. (Іван Клімаш та ін. «Історія міст і сіл Української РСР. Волинська область», 1970)
   - |
        Атомний годинник не є сьогоднішнім відкриттям. Такий механізм [вимірює час]Situation, за рахунок [впливу лазера на атоми металу]Condition, які миттєво переходять з одного енергетичного стану в інший. (Журнал «НВ», 2018)
   - |
@@ -22,7 +22,8 @@ examples:
   - |
        Для того, щоб працювати на повну силу і тверезо оцінювати можливості, організму потрібне якісне і постійне підживлення. [Забезпечте її собі]Situation за рахунок [позитивних емоцій і здорового способу життя]Condition. (Журнал «НВ», 2020).
 morphology:
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Clause and Modifier Construction
 syntactic_function_of_anchor:
@@ -32,9 +33,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        thanks to, due to X

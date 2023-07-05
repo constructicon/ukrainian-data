@@ -12,17 +12,19 @@ definitions:
        Конструкция используется для сравнения или противопоставления двух объектов или участников. [Один объект или участник]Comparee [устроен]Property или [ведет себя]Situation не так, как [другой]Standard, и эта черта отличает определенный предмет, явление и тому подобное от другого.
 examples:
   - |
-       [Він]Comparee, на відміну від [свого батька]Standart, [підтримував зв'язки з ріднею]Situation, що залишилася в далекому селі. (Іво Андрич "Драма в Олуяку", 1961)
+       [Він]Comparee, на відміну від [свого батька]Standart, [підтримував зв'язки з ріднею]Situation, що залишилася в далекому селі. (Іво Андрич «Драма в Олуяку», 1961)
   - |
        На відміну від [Redmi Note 5 Pro]Standart, [Mi A2]Comparee [буде поставлятися з портом USB C]Situation. (Журнал «НВ», 2018)
   - |
-       На відміну від [ведмедя]Standart, [борсуки]Comparee [іноді встають серед зими, в теплі дні навіть на сніг вилазять]Situation. (Анатолій Давидов  "Експедиція «Суничка", 1971)
+       На відміну від [ведмедя]Standart, [борсуки]Comparee [іноді встають серед зими, в теплі дні навіть на сніг вилазять]Situation. (Анатолій Давидов  "Експедиція «Суничка», 1971)
   - |
        На відміну від [минулих років]Standard, [ілюмінація]Comparee [горітиме цілодобово]Situation, а не тільки вночі. (Онлайн-ЗМІ «UNIAN.NET», 2012)
   - |
        На думку чиновника, [хеві-метал]Comparee [не отримує належної поваги]Situation, на відміну від [класичної музики або джазу]Standard. (Журнал «НВ», 2019)
 morphology:
-  - NP-Gen Cl
+  - NP
+  - Gen
+  - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
 syntactic_function_of_anchor:
@@ -32,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X unlike Y

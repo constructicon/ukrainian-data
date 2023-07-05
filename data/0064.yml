@@ -16,13 +16,14 @@ examples:
   - |
        І не дивлячись на [таку кількість біженців]Situation, у нас не зросла криміногенна ситуація в країні. (Онлайн-ЗМІ «LB.ua», 2022)
   - |
-       Не дивлячись на [обідню пору]Situation, в шинку було малолюдно. (Юрій Сорока "Іван Богун", 2008)
+       Не дивлячись на [обідню пору]Situation, в шинку було малолюдно. (Юрій Сорока «Іван Богун», 2008)
   - |
        Гідне проведення чемпіонату, не дивлячись на [об'єктивні труднощі]Situation, буде нашою спільною величезною перемогою. (Журнал «НВ», 2020)
   - |
        Під акомпанемент оркестру, який не дивлячись на [конфлікт]Situation продовжував грати, колона намагалася рухатися далі. (Онлайн-ЗМІ «LB.ua», 2016)]
 morphology:
-  - NP-Acc
+  - NP
+  - Acc
   - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
   - Multiword Preposition
 part_of_speech_of_anchor:
   - Preposition
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        despite X

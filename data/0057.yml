@@ -20,9 +20,10 @@ examples:
   - |
        На думку [журналістів]Participant, [бум попиту на залізничні рейси далекого прямування можна напряму пов'язати з проблемами в аеропортах]Evaluation. (Онлайн-ЗМІ «Європейська правда», 2022)
   - |
-       [Мені]Participant не раз спадало на думку [отаким чином утекти від себе]Evaluation. (Галина Пагутяк "Записки Білого Пташка", 2011)
+       [Мені]Participant не раз спадало на думку [отаким чином утекти від себе]Evaluation. (Галина Пагутяк «Записки Білого Пташка», 2011)
 morphology:
-  - NP-Gen
+  - NP
+  - Gen
   - Cl
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: Formal
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        according X's point of view
@@ -46,4 +51,4 @@ common_fillers:
 semantic_types:
   - type: Source of opinion
     subtypes:
-      - type: Nominal Pattern
+      - type: Expressing opinion

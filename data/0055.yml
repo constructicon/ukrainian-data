@@ -23,7 +23,8 @@ examples:
        В результаті [дії вогню та високої температури]Event [знищено два та пошкоджено три автомобілі]Result, йдеться у повідомленні. (Онлайн-ЗМІ «UNIAN.NET», 2019)
 morphology:
   - VP
-  - NP-Gen
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        Y as a result of X

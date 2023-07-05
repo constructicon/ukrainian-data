@@ -33,9 +33,13 @@ part_of_speech_of_anchor:
   - Conjunction
   - Adverb
   - Pronoun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        most likely X

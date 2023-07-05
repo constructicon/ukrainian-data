@@ -1,7 +1,7 @@
 ---
 record: 25
 name: "Cl у зв'язку з NP-Ins"
-illustration: "У зв'язку з перекриттям вулиць рух транспорту буде організовано із змінами ."
+illustration: "У зв'язку з перекриттям вулиць рух транспорту буде організовано із змінами."
 cefr_level: B1
 definitions:
   - ukrainian: |
@@ -23,7 +23,8 @@ examples:
        Нагадаємо, в Україні у липні у зв'язку з [підвищенням прожиткового мінімуму]Cause [планують підняти пенсії]Situation. (Онлайн-ЗМІ «Апостроф», 2022)
 morphology:
   - Cl
-  - NP-Ins
+  - NP
+  - Ins
 syntactic_type_of_construction:
   - Clause and Modifier Construction
 syntactic_function_of_anchor:
@@ -33,9 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
   - Noun
+semantic_roles:
+  - ~
 intonation:
   - Declarative
 usage_label: Formal
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X in connection with Y

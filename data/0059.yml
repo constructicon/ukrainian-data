@@ -20,10 +20,11 @@ examples:
   - |
        Але вперше на лікування [їх]Agent [запросили]Action разом з [дружинами та дітьми]Associated. (Інтернет-газета «Фіртка», 2016)
   - |
-       [Він]Agent майструє для неї іграшки, разом з [нею]Associated [вивчає]Action італійську мову, яку почав забувати. (Юрій Дольд-Михайлик "У чорних лицарів", 1964)
+       [Він]Agent майструє для неї іграшки, разом з [нею]Associated [вивчає]Action італійську мову, яку почав забувати. (Юрій Дольд-Михайлик «У чорних лицарів», 1964)
 morphology:
   - VP
-  - NP-Ins
+  - NP
+  - Ins
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -32,9 +33,13 @@ syntactic_structure_of_anchor:
   - Multiword Preposition
 part_of_speech_of_anchor:
   - Preposition
+semantic_roles:
+  - ~
 intonation:
   - Not applicable
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        X together with Y
