@@ -74,6 +74,8 @@ def write_record(row, record):
         f.write(print_as_yaml_list(row["Synt. structure of anchor"], split_sequence))
         f.write("part_of_speech_of_anchor:\n")
         f.write(print_as_yaml_list(row["Part of speech of anchor"], split_sequence))
+        f.write("semantic_roles:\n")
+        f.write(print_as_yaml_list(row["Semantic role"], split_sequence))
         f.write("intonation:\n")
         f.write(
             print_as_yaml_list(
