@@ -34,7 +34,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Event
+  - Result
 intonation:
   - Not applicable
 usage_label: Formal

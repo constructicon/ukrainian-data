@@ -33,7 +33,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
+  - Parameter
 intonation:
   - Declarative
 usage_label: Colloquial

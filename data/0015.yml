@@ -36,7 +36,11 @@ part_of_speech_of_anchor:
   - Adjective
   - Negation Marker
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Theme
+  - Recipient
+  - Source
 intonation:
   - Not applicable
 usage_label: ~

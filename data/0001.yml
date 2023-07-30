@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
   - Pronoun
   - Adjective
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - Declarative
 usage_label: Colloquial

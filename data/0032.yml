@@ -5,9 +5,9 @@ illustration: "З моєї точки зору питання полягає в 
 cefr_level: A2
 definitions:
   - ukrainian: |
-       Конструкція висловлює думку [говорящего]Speaker або іншого [учасника ситуації]Participant з деякого питання і зазвичай вводить [оцінний вислів]Evaluation. Конструкція також може вказувати на [яке поняття] Theme, з якою пов'язане наступне твердження.
+       Конструкція висловлює думку [говорящего]Speaker або іншого [учасника ситуації]Participant з деякого питання і зазвичай вводить [оцінний вислів]Evaluation. Конструкція також може вказувати на [яке поняття]Theme, з якою пов'язане наступне твердження.
   - english: |
-       The construction expresses the opinion of the [speaker]Speaker or another participant of the situation]Participant on some issue and usually introduces an [evaluative statement]Evaluation. The construction can also indicate [the concept] Theme which the following statement is related to.
+       The construction expresses the opinion of the [speaker]Speaker or another participant of the situation]Participant on some issue and usually introduces an [evaluative statement]Evaluation. The construction can also indicate [the concept]Theme which the following statement is related to.
   - russian: |
        Конструкция выражает мнение [говорящего]Speaker или иного [участника ситуации]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция также может указывать на [некое понятие]Theme, с которой связано последующее утверждение.
 examples:
@@ -36,7 +36,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Participant
+  - Evaluation
+  - Theme
 intonation:
   - Declarative
 usage_label: ~

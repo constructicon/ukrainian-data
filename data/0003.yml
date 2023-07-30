@@ -33,7 +33,8 @@ part_of_speech_of_anchor:
   - Particle
   - Negation Marker
 semantic_roles:
-  - ~
+  - Situation
+  - Action
 intonation:
   - Interrogative
   - Exclamatory

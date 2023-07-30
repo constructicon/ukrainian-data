@@ -1,6 +1,6 @@
 ---
 record: 47
-name: "(мова) filler (NP-Nom) йдеться про (те, що) ХР, Cl"
+name: "(мова) (NP-Nom) йдеться про (те, що) ХР, Cl"
 illustration: "А в цьому проекті мова йдеться про дуже прості речі."
 cefr_level: B1
 definitions:
@@ -38,7 +38,7 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - ~
+  - ContentOfSpeech
 intonation:
   - Declarative
 usage_label: ~

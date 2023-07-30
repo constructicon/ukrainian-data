@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Declarative
 usage_label: Formal

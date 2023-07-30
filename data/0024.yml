@@ -35,7 +35,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Comparee
+  - Property
+  - Situation
+  - Standard
 intonation:
   - Not applicable
 usage_label: ~

@@ -9,7 +9,7 @@ definitions:
   - english: |
        The construction denotes a [situation]Situation, which, according to the speaker, is highly likely to occur.
   - russian: |
-       Конструкция обозначает [ситуацию]Situation, которая с большой вероятностью может произойти по мнению говорящего,
+       Конструкция обозначает [ситуацию]Situation, которая с большой вероятностью может произойти по мнению говорящего.
 examples:
   - |
        Швидше за все, [саме ці люди вже повірили в себе й у свою країну]Situation. (Газета «День», 2006)
@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
   - Adverb
   - Pronoun
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - Declarative
 usage_label: ~

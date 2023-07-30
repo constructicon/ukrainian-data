@@ -1,0 +1,53 @@
+---
+record: 67
+name: "(NP-Dat) не варто VP-Ipfv.Inf"
+illustration: "Не варто забувати, що в холодну пору року слід одягатися у кілька шарів."
+cefr_level: B2
+definitions:
+  - ukrainian: |
+       Конструкція використовується, коли мовець спонукає учасника ситуації не виконувати деяку [дія]Action. Ця дія може відбутися в майбутньому або відбувається зараз. Той, хто говорить, вважає, що виконання дії не виправдане розумними причинами. Заохочування мовця звучить у формі поради.
+  - english: |
+       This construction is used when the speaker politely prompts the participant in a situation to not carry out an [action]Action. This action may occur in the future or is ongoing. The speaker does not see any sensible reason to carry out the action. The prompting of the speaker comes in the form of advice.
+  - russian: |
+       Конструкция используется, когда говорящий побуждает участника ситуации не выполнять некоторое [действие]Action. Это действие может произойти в будущем или происходит в данный момент. Говорящий считает, что выполнение действия не оправдано разумными причинами. Побуждение говорящего звучит в форме совета.
+examples:
+  - |
+       Також не варто [забувати про дуже низьку температуру зовнішнього повітря]Action в цей період. (Газета «7 днів», 2017)
+  - |
+       Ну, а в активних іграх не варто [ігнорувати такий захист як шолом]Action. (Журнал «НВ», 2019)
+  - |
+       І що – не було ніяких застережень, що не варто [цього робити]Action? («Zaxid.net», 2021)
+  - |
+       Не варто [радити їй нічого]Action, поки сама не попросить. (Христина Лукащук «Жити сьогодні», 2014)
+  - |
+       Я живу і працюю за принципом, що не варто [розкривати свої плани на перед]Action. (Онлайн-ЗМІ «Чернiгiвщина: події і коментарі», 2014)
+morphology:
+  - NP-Dat
+  - VP-Ipfv.Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Х is not worth Y, one should not X
+  - russian: |
+       (NP-Dat) не стоит VP-Ipfv.Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive

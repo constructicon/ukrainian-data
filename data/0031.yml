@@ -32,7 +32,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - Declarative
 usage_label: ~

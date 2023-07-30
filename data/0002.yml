@@ -33,7 +33,10 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
+  - Parameter
+  - Property
 intonation:
   - Not applicable
 usage_label: ~

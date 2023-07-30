@@ -36,7 +36,8 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Element
+  - Set
 intonation:
   - Not applicable
 usage_label: ~

@@ -37,7 +37,8 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Preposition
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
 intonation:
   - Declarative
 usage_label: Colloqual

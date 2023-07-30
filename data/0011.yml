@@ -5,9 +5,9 @@ illustration: "Чим не версія?"
 cefr_level: B2
 definitions:
   - ukrainian: |
-       Конструкція має типове значення відпівідності [предмета]Theme, [події]Situation, [особи]Participant уявленню мовця про нього/неї
+       Конструкція має типове значення відпівідності [предмета]Theme, [події]Situation, [особи]Participant уявленню мовця про нього/неї.
   - english: |
-       The construction has the typical meaning of correspondence of [subject]Theme, [event]Situation, [person]Participant to the speaker's idea of ​​them
+       The construction has the typical meaning of correspondence of [subject]Theme, [event]Situation, [person]Participant to the speaker's idea of ​​them.
   - russian: |
        Конструкция имеет типичное значение соответствия [субъекта]Theme, [события]Situation, [лица]Participant представлению говорящего о нем/ней.
 examples:
@@ -35,7 +35,9 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Theme
+  - Situation
+  - Participant
 intonation:
   - Interrogative
   - Exclamatory

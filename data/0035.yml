@@ -35,7 +35,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Situation
+  - Action
 intonation:
   - Declarative
 usage_label: ~

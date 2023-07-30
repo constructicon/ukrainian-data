@@ -7,9 +7,9 @@ definitions:
   - ukrainian: |
        Конструкція підкреслює здатність знаходити в собі які-небудь [внутрішні сили, якості]Theme.
   - english: |
-       The construction emphasizes the ability to find some [internal strenght, qualities]Theme in oneself
+       The construction emphasizes the ability to find some [internal strenght, qualities]Theme in oneself.
   - russian: |
-       Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества]Theme
+       Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества]Theme.
 examples:
   - |
        Словом, на наступний день ми півдня просиділи в квартирі, набиралися [сил]Theme. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2011).
@@ -32,7 +32,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Declarative
 usage_label: Colloquial

@@ -33,7 +33,8 @@ part_of_speech_of_anchor:
   - Conjunction
   - Adverb
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Not applicable
 usage_label: Formal

@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Result
 intonation:
   - Not applicable
 usage_label: ~

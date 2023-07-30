@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - ContentOfSpeech
 intonation:
   - Declarative
 usage_label: ~

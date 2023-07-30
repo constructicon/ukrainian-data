@@ -33,7 +33,8 @@ part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
-  - ~
+  - Experiencer
+  - Evaluation
 intonation:
   - Declarative
 usage_label: ~

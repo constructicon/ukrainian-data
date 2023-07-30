@@ -1,0 +1,59 @@
+---
+record: 68
+name: "(NP-Dat) варто VP-Inf"
+illustration: "Варто лише зменшити рівень стресу в житті."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що мовець спонукає іншого [учасника чи себе]Causee виконати деяке [дія]Action, яке мовець вважає доречним і необхідним у певній ситуації.
+  - english: |
+       The construction indicates that the speaker induces another [participant or himself]Causee to perform some [action]Action, which the speaker considers appropriate and necessary in a certain situation.
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
+examples:
+  - |
+       Він також пояснив, як [водію]Causee варто [реагувати на такі дії]. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+  - |
+       Тому [вам]Causee варто [надавати перевагу їжі]Action, яка позитивно впливатиме на ваш настрій. (Онлайн-ЗМІ «Українська правда», 2021)
+  - |
+       [Нам]Causee варто [спробувати все почати з чистого листка]Action. (Газета «День», інтерв'ю, 2007)
+  - |
+       Tакож варто [відзначити]Action, що на сайті авіакомпанії можна знайти дуже вигідні пропозиції по Європі. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+  - |
+       Варто [відзначити]Action, що за останній час співачка значно схудла. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+morphology:
+  - NP-Dat
+  - VP-Ipfv.Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - Causee
+  - Action
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is worth Y, one should X
+  - russian: |
+       (NP-Dat) стоить VP-Inf
+common_fillers:
+  - відзначити
+  - зазначити
+  - очікувати
+  - зауважити
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity

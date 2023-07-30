@@ -5,11 +5,11 @@ illustration: "На даний час дитина перебуває разом
 cefr_level: A1
 definitions:
   - ukrainian: |
-       Конструкція виражає спільну [дію]Action, яку виконує деякий [учасник]Agent разом з іншим [учасником або групою учасників]Associated. Конструкція також може вказувати на те, що деякий [учасник] Agent разом з іншим [учасником або групою учасників]Associated є об'єктами цієї [дії]Action. (Приклади 3,4)
+       Конструкція виражає спільну [дію]Action, яку виконує деякий [учасник]Agent разом з іншим [учасником або групою учасників]Associated. Конструкція також може вказувати на те, що деякий [учасник]Agent разом з іншим [учасником або групою учасників]Associated є об'єктами цієї [дії]Action (приклади 3, 4).
   - english: |
-       The construction expresses a joint [action]Action performed by some [participant]Agent together with another [participant or group of participants]Associated. The construction may also indicate that some [participant] Agent together with another [participant or group of participants]Associated are the objects of this [action]Action. (Examples 3,4)
+       The construction expresses a joint [action]Action performed by some [participant]Agent together with another [participant or group of participants]Associated. The construction may also indicate that some [participant]Agent together with another [participant or group of participants]Associated are the objects of this [action]Action (examples 3, 4).
   - russian: |
-       Конструкция выражает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Associated. Конструкция также может указывать на то, что некоторый [участник]Agent вместе с другим [участником или группой участников]Associated являются объектами этого [действия]Action. (Примеры 3,4)
+       Конструкция выражает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Associated. Конструкция также может указывать на то, что некоторый [участник]Agent вместе с другим [участником или группой участников]Associated являются объектами этого [действия]Action (примеры 3, 4).
 examples:
   - |
        Разом з [нашими колегами]Associated [ми]Agent [виявили]Action ці дві нові акули під час дослідження дрібного рибальства на узбережжях Мадагаскару і Занзібару. (Журнал «НВ», 2020)
@@ -34,7 +34,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Associated
 intonation:
   - Not applicable
 usage_label: ~

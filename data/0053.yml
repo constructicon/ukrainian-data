@@ -33,7 +33,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Name
 intonation:
   - Not applicable
 usage_label: ~

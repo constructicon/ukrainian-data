@@ -5,7 +5,7 @@ illustration: "Коментарі, так би мовити, зайві."
 cefr_level: C1
 definitions:
   - ukrainian: |
-       Конструкція вживається при бажанні висловитися більш точно, точніше охарактеризувати [що-небудь]Theme. Також вживається як [застереження]Theme, пом'якшувальну рішучість якого л. затвердження
+       Конструкція вживається при бажанні висловитися більш точно, точніше охарактеризувати [що-небудь]Theme. Також вживається як [застереження]Theme, пом'якшувальну рішучість якого л. затвердження.
   - english: |
        The construction is used when the speaker wants to express their thoughts more precisely, to characterize [something]Theme more precisely. Also the construction is used as a [disclaimer]Theme to soften one's resolution.
   - russian: |
@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
   - Pronoun
   - Verb
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Declarative
 usage_label: Colloquial

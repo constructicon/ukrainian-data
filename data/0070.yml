@@ -1,0 +1,53 @@
+---
+record: 70
+name: "(а) до чого тут Cop NP-Nom?"
+illustration: "До чого тут мій вік?"
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження здивування або нерозуміння мовцем логічного зв'язку між темою дискусії і останнім наведеним [аргументом]Theme.
+  - english: |
+       This construction is used to express the speaker’s confusion or lack of awareness of the logical connection between the topic of discussion and the last stated [argument]Theme.
+  - russian: |
+       Конструкция используется для выражения недоумения или непонимания говорящим логической связи между темой дискуссии и последним приведенным [аргументом]Theme.
+examples:
+  - |
+       Ви скажете, до чого тут [віра]Theme? (Інтернет-газета «Україна молода», 2013)
+  - |
+       Втім до чого тут [гендерна приналежність]Theme, адвокати так і не зрозуміли. (Онлайн-ЗМІ «Народна правда», 2022)
+  - |
+       Тоді до чого тут [мої статті та дослідження]Theme? (Лора Підгірна Омбре. «Над темрявою і світлом», 2016)
+  - |
+       Якщо це свято весни, то до чого тут [політика]Theme? (Інтернет-газета «Кримська світлиця», 2008)
+  - |
+       А до чого тут «соцмережа для школярів»? (Iнтернет-газета «Дзеркало тижня», 2021)
+morphology:
+  - NP-Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Pronoun
+  - Adverb
+semantic_roles:
+  - Theme
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+equivalents:
+  - english: |
+       What does X have to do with Y?
+  - russian: |
+       (а) при чём здесь/тут Cop NP-Nom?
+common_fillers:
+  - ~
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise

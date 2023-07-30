@@ -5,9 +5,9 @@ illustration: "Але я анітрохи про це не шкодую."
 cefr_level: B2
 definitions:
   - ukrainian: |
-       Конструкція з подвійним запереченням передає значення категоричного (повного) заперечення [дії] Action.
+       Конструкція з подвійним запереченням передає значення категоричного (повного) заперечення [дії]Action.
   - english: |
-       The construction with double negation conveys the meaning of the complete negation of an [action] Action.
+       The construction with double negation conveys the meaning of the complete negation of an [action]Action.
   - russian: |
        Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action.
 examples:
@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Not applicable
 usage_label: ~

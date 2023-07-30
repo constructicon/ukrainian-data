@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
   - Conjunction
   - Negation Marker
 semantic_roles:
-  - ~
+  - ContentOfSpeech
 intonation:
   - Declarative
 usage_label: Formal

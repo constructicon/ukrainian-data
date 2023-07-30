@@ -1,0 +1,57 @@
+---
+record: 69
+name: "оце тобі/вам і/й NP-Nom!"
+illustration: "Оце тобі і друг!"
+cefr_level: B1
+definitions:
+  - ukrainian: |
+       Конструкція виражає здивування мовця [об'єктом]Theme, [учасником]Participant або [подією]Event, які виявилися не такими, як він очікував. Підкреслюється невідповідність очікуваного та реального. Конструкція зазвичай несе негативну оцінку.
+  - english: |
+       This construction expresses the speaker's surprise over an [object]Theme, [participant]Participant or [event]Event, that has not turned out as the speaker had expected. Тhe discrepancy between what is expected and reality is emphasised. This construction normally carries a negative evaluation.
+  - russian: |
+       Конструкция выражает удивление говорящего [объектом]Theme, [участником]Participant или [событием]Event, которые оказались не такими, как он ожидал. Подчеркивается несоответствие ожидаемого и реального. Конструкция обычно несет отрицательную оценку.
+examples:
+  - |
+       Оце тобі і [свобода слова]Theme! (Андрій Кондратюк «Краса зникаюча і вічна», 2007)
+  - |
+       Оце тобі і [прилетіли]Event... (Інтернет-газета «Кримська світлиця», 2005)
+  - |
+       Оце тобі і [цінності]Theme! (Євген Сверстюк «Духові джерела української літератури», 1999)
+  - |
+       Оце вам і [уся«комунікація» з громадою]Event. (Інтернет-газета «День», 2021)
+  - |
+       Оце вам і [реформа на користь селянина]Theme! (Стенограми засідань Верховної Ради України, 2003)
+morphology:
+  - NP-Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Theme
+  - Participant
+  - Event
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       So much for an X!
+  - russian: |
+       вот тебе/вам и NP-Nom!
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Negative

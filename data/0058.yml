@@ -35,7 +35,9 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Cause
+  - Action
+  - Situation
 intonation:
   - Not applicable
 usage_label: ~

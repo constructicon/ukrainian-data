@@ -5,7 +5,7 @@ illustration: "Теж мені помічник!"
 cefr_level: B2
 definitions:
   - ukrainian: |
-       Конструкція вживається для вираження несхвального, іронічного або негативного ставлення до кого/чого-небудь ([объект]Theme, [участник]Participant или [ситуація]Situation)
+       Конструкція вживається для вираження несхвального, іронічного або негативного ставлення до кого/чого-небудь ([объект]Theme, [участник]Participant или [ситуація]Situation).
   - english: |
        The construction is used to express a disapproving, ironic or negative attitude towards someone ([object]Theme, [participant]Participant or [situation]Situation)
   - russian: |
@@ -35,7 +35,9 @@ part_of_speech_of_anchor:
   - Particle
   - Pronoun
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloqual
