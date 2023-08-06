@@ -20,7 +20,7 @@ examples:
   - |
        Якщо це свято весни, то до чого тут [політика]Theme? (Інтернет-газета «Кримська світлиця», 2008)
   - |
-       А до чого тут «соцмережа для школярів»? (Iнтернет-газета «Дзеркало тижня», 2021)
+       А до чого тут [«соцмережа для школярів»]Theme? (Iнтернет-газета «Дзеркало тижня», 2021)
 morphology:
   - NP-Nom
 syntactic_type_of_construction:
@@ -40,6 +40,8 @@ intonation:
   - Interrogative
   - Exclamatory
 usage_label: ~
+comment: |
+    'No comment yet'
 equivalents:
   - english: |
        What does X have to do with Y?
