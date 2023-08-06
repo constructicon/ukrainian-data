@@ -1,0 +1,3825 @@
+---
+1:
+  name: "чого доброго VP-Pfv.Fut"
+  illustration: "А то вони, чого доброго, подумають, що ти забув про них."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що промовець вважає можливим/ймовірним, що станеться якaсь неприємнa або небажанa [дія чи ситуація]Event. Зазвичай слот заповнюється дієсловом досконалого вигляду.
+    - english: |
+         This construction indicates that the speaker considers it possible or likely that some unpleasant/undesirable [action or situation]Event will happen. Normally the slot is filled with a perfective verb.
+    - russian: |
+         Конструкция обозначает, что говорящий считает возможным или вероятным, что произойдет какое-либо неприятное или нежелательное [действие или ситуация]Event. Обычно слот заполняется глаголом совершенного вида.
+  examples:
+    - |
+         І я побоююсь, що ще, чого доброго, [нашкоджу вашим щирим намірам]Event. (Юрій Коломиєць «Живоглаз», 1968)
+    - |
+         Погано, скажуть, працюєш... Ще, чого доброго, [запропонують відставку]Event... (Микола Олійник «Дочка Прометея», 1966)
+    - |
+         І взагалі, треба швидше збиратись, а то чого доброго [вчителька сама на уроки запізниться]Event. (Галина Гордасевич «Оповідання», 1998)
+    - |
+         Ну, й добре, що за думками сон щез. А то, чого доброго, [ще проспала би свою платформу]Event. (Микола Снаговський «Хто там стукає у шибку», 2015)
+    - |
+         А без підтримки, сама знаєш, як у таких випадках, ще чого доброго [біди накоїть]Event. (Ганна Ткаченко «Спалені мрії», 2016)
+  morphology:
+    - VP
+    - Pfv
+    - Fut
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Pronoun
+    - Adjective
+  semantic_roles:
+    - Event
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         I fear that X; Chances are that X
+    - russian: |
+         чего доброго VP-Pfv.Fut
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Apprehension
+      subtypes:
+        - type: Apprehensive
+    - type: Degree of intensity
+      subtypes:
+        - type: Booster
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: Low degree of certainty
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+    - type: Salient property
+      subtypes:
+        - type: Naming
+2:
+  name: "як та/те/той/то NP"
+  illustration: "Життя, як той цвіт, що землю красить."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується у порівнянні, щоб конкретизувати, унаочнити певне поняття і підкреслює подібність [одного об'єкта]Comparee з [іншим]Standard за [деякою ознакою]Parameter.
+    - english: |
+         This construction is used in [comparison]Comparison to concretize, clearly demonstrate a certain notion, and emphasizes the similarity of [one object]Comparee with [another]Standard in [some features]Parameter.
+    - russian: |
+         Конструкция используется в сравнениях для того, чтобы конкретизировать, наглядно продемонстрировать определенное понятие, и подчеркивает сходство [одного объекта]Comparee с [другим]Standard по [некоторым признакам]Parameter.
+  examples:
+    - |
+         [Краса]Comparee її іпочала [в'янути]Parameter, як та [квітка без води]Standart. (Софія Тобілевіч «Мої стежки і зустрічі», 1953)
+    - |
+         Тринадцять літ [без чоловіка]Property, як та [пташка без крил]Standart. (Віталій Петльований «Сліди на тротуарі», 1958)
+    - |
+         Та й [азартний]Parameter же [хлопець]Comparee, як та [іскра]Standart. (Степан Васильченко «Широкий шлях», 1927)
+    - |
+         [Катерина]Comparee [залишилася одна]Parameter, як та [квола ялинка]Standart, що якимось дивом виросла на шпилі гори, підвладна вітрам і блискавицям. (Михайло Івасюк «Серце не камінь», 1978)
+    - |
+         Пас людську худобу і сам був [німий]Parameter, як та [худобина]Standart. Міг говорити, але не хотів. (Галина Пагутяк «Слуга з Добромиля», 2006)
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Pronoun
+  semantic_roles:
+    - Comparee
+    - Standard
+    - Parameter
+    - Property
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         as that X
+    - russian: |
+         как та/той/те NP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Similarity
+3:
+  name: "невже (не) VP?"
+  illustration: "Невже люди говорять правду?"
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція уживається у питаннях з відтінком сумніву, здивування або недовір'я, яке виражає промовець у зв'язку з деякою [ситуацією]Situation або [діями]Action другого учасника.
+    - english: |
+         The construction is used in interrogative sentence with a hint of doubt, bewilderment or distrust, which the speaker expresses in connection with some [situation]Situation or [action]Action of another participant.
+    - russian: |
+         Конструкция используется в вопросах с оттенком сомнения, недоумения или недоверия, которое выражает говорящий в связи с некоторой [ситуацией]Situation или [действиями]Action второго участника.
+  examples:
+    - |
+         Невже ми не [можемо вирішити цю проблему]Action? (Стенограми засіднь Верчовної Ради України, 2017)
+    - |
+         «Невже [нікого немає]Situation?»—з острахом і передчуттям гіркого розчарування подумала дівчина. (Надія Гербіш «Теплі історії до кави», 2012)
+    - |
+         Невже [може збутися її заповітна мрія]Action, і вона стане співачкою? (Онлайн-ЗМІ «Новини Хмельницького «Є», 2017)
+    - |
+         Тож твоя улюблена пісня, невже [забув]Action? (Роман Іваничук «Саксаул у пісках», 2000)
+    - |
+         Невже [вам самому не цікаво перевірити його гіпотезу]Situation? (Ірен Роздобудько «Ранковий прибиральник», 2007)
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Discourse Particle
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Particle
+    - Negation Marker
+  semantic_roles:
+    - Situation
+    - Action
+  intonation:
+    - Interrogative
+    - Exclamatory
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         is that (not) possible that X
+    - russian: |
+         неужели (не) VP?
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: High degree of certainty
+    - type: Mirative
+    - type: Reaction to the previous discourse
+      subtypes:
+        - type: Surprise
+4:
+  name: "NP-Nom набиратися (набратися) NP-Gen"
+  illustration: "Хлопчик ріс і набирався сил."
+  cefr_level: C1
+  definitions:
+    - ukrainian: |
+         Конструкція підкреслює здатність знаходити в собі які-небудь [внутрішні сили, якості]Theme.
+    - english: |
+         The construction emphasizes the ability to find some [internal strenght, qualities]Theme in oneself.
+    - russian: |
+         Конструкция подчеркивает способность найти в себе некие [внутренние силы, качества]Theme.
+  examples:
+    - |
+         Словом, на наступний день ми півдня просиділи в квартирі, набиралися [сил]Theme. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2011).
+    - |
+         Це нове покоління студентів Острозької академії, яке зараз тільки набирається [знань]Theme і формує своє бачення світу (Газета «День», 2010)
+    - |
+         Тут дорослі стають допитливими дітлахами, а малюки набираються [розуму]Theme. (Інтернет-газета «Український тиждень», 2009) 280
+    - |
+         І дійсно, молодіжні центри могли би стати тими осередками, через які молода людина могла би набиратися [досвіду, знань, вмінь]Theme і досягати успіху. (Стенограми  засідань Верховної Ради України)
+    - |
+         І щоб учні не били байдики, набиралися [хисту]Theme. (Мирослав Дочинець «Криничар. Діяріюш найбагатшого чоловіка Мукачівської домінії», 2012)
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         gain/get X
+    - russian: |
+         NP-Nom набраться NP-Gen
+  common_fillers:
+    - сил
+    - досвіду
+    - знань
+    - розуму
+    - сміливості
+    - терпіння
+    - нахабства
+    - снаги
+    - надхнення
+  semantic_types:
+    - type: Actionality
+      subtypes:
+        - type: Cumulative
+    - type: Temporary characteristics
+      subtypes:
+        - type: Emotional state
+5:
+  name: "з огляду на NP-Acc, Cl"
+  illustration: "Він не став цього робити, з огляду на банальність ситуації."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція вказує на [причину]Cause виникнення деякої [ситуації]Situation, підкреслює взаємну залежність двох ситуацій
+    - english: |
+         This construction indicates that a certain [situation]Situation takes place due to another [situation]Cause; it emphasizes the mutual dependence of two situations.
+    - russian: |
+         Конструкция указывает на [причину]Cause возникновения некоторой [ситуации]Situation, подчеркивает взаимную зависимость двух ситуаций.
+  examples:
+    - |
+         Проте, з огляду на [затримки з державним фінансуванням]Cause, [строки здачі цих робіт відтерміновуються]Situation. (Газета «День«, 2010)
+    - |
+         З огляду на [те, що Петро весь час гарячкував]Cause, [Кіндрат не хотів повідомляти Мабель]Situation.  (Володимир Винниченко «Нова заповідь», 2012
+    - |
+         Однак з огляду на [різке погіршення здоров'я підозрюваного]Cause, [його госпіталізували в кардіологічне відділення]Situation. (Онлайн-ЗМІ «LV-ua», 2012)
+    - |
+         - Хотіли провідати, - [неголосно сказав брат]Situation, очевидно, з огляду на [сплячого в кімнаті]Causer. (Валерій Шевчук «Привид мертвого дому», 2005)
+    - |
+         З огляду на те,[що випускників у країні під 200 тисяч]Cause, [це чималий контингент]Situation. (Журнал «НВ», 2020)
+  morphology:
+    - NP
+    - Acc
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Preposition
+    - Conjunction
+  semantic_roles:
+    - Cause
+    - Situation
+    - Causer
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         in view of X; taking into consideration that X
+    - russian: |
+         учитывая NP-Acc, Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Cause
+6:
+  name: "начебто/неначе XP/Cl"
+  illustration: "Про мене начебто забули."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вживається для вираження неповної достовірності, сумніву, непевності мовця щодо [інформації]Evaluation, що повідомляється. Це повідомлення звучить як припущення.
+    - english: |
+         This construction is used to express lack of certainty of the speaker about the [information]Evaluation reported. This statement sounds like a guess. The speaker is expressing a suspicion about [information]Evaluation.
+    - russian: |
+         Конструкция используется для выражения неполной достоверности, сомнения, неуверенности говорящего относительно сообщаемой им [информацией]Evaluation. Сообщение говорящего звучит как предположение.
+  examples:
+    - |
+         Начебто [відбулося це в одному з львівських ресторанів наприкінці квітня]Evaluation. (Онлайн-ЗМІ «Zaxid.net», 2009)
+    - |
+         Один тільки раз я побачив із своєї схованки, як пройшла повз мене якась людина, начебто [трохи знайома мені]Evaluation. (Леонід Смілянський «Сашко», 1950)
+    - |
+         Також є інформація про ще одного пораненого поліцейського, який начебто [постраждав від кулі]Theme, випущеної колегою. (Онлайн-ЗМІ «UNIAN.NET», 2016)
+    - |
+         Номер був прибраний, та справді після нього начебто [ніхто не жив]Evaluation. (Мирон Володін «Паперові іграшки», 2005)
+    - |
+         Я йду, і з кожним кроком у мене всередині все начебто [зав'язується в солоний мокрий вузол]Evaluation. (Ада Самарка «Смак заборони», 2003)
+  morphology:
+    - XP
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - Evaluation
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         apparently X; it seems X
+    - russian: |
+         вроде бы XP/Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: Low degree of certainty
+7:
+  name: "XP/Cl ніби/начебто XP/Cl"
+  illustration: "По обличчю Олексія промайнуло, начебто тінь, незадоволення."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція виражає порівняння і підкреслює подібність [одного об'єкта]Comparee з [іншим]Standard за [деякою ознакою]Parameter. Об'єктами може бути предмети, учасники ситуації чи цілі ситуації. Порівняння відбувається з гіпотетичним об'єктом чи ситуацією.
+    - english: |
+         The construction expresses a comparison and emphasizes the similarity of [one object]Comparee with [another]Standard in [some attribute]Parameter. Objects can be objects, participants in a situation, or entire situations. The comparison takes place with a hypothetical object or situation.
+    - russian: |
+         Конструкция выражает сравнение и подчеркивает сходство [одного объекта]Comparee с [другим]Standard по [некоторому признаку]Parameter. Объектами могут быть предметы, участники ситуации или целые ситуации. Сравнение происходит с гипотетическим объектом или ситуацией.
+  examples:
+    - |
+         Коли світить сонце, [мені завжди починає здаватися]Comparee, ніби [я ще вчора сам був студентом]Standart. (Наталка Сняданко «Колекція Пристрастей», 2001)
+    - |
+         Заговорюєш до неї, воно й відповідає, але [дивиться на тебе здалеку]Comparee, наче [в трубу]Standart. І так [здивовано щораз]Comparee, ніби [вперше бачить]Standart. (Тамара Горіха Зерня «Доця», 2018)
+    - |
+         За декілька секунд до голосування він [озирається назад]Comparee, ніби [шукає свого відсутнього колегу]Standart. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         Не їли, [смоктали хліб]Comparee, ніби [дорогі цукерки]Standart. (Борис Харчук «Волинь», 1988)
+    - |
+         «Я б описала це [відчуття]Comparee так: начебто [шматок скла застряг у вас в горлі або легких]Standart. Було дуже боляче. (Журнал «НВ», 2020)
+  morphology:
+    - XP
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - Comparee
+    - Standard
+    - Parameter
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X like Y, as if
+    - russian: |
+         XP/Cl будто/словно XP/Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Similarity
+8:
+  name: "VP унаслідок NP-Gen"
+  illustration: "Унаслідок події постраждали кілька пасажирів."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція вживається при вказівці на причину того, що якась [дія]Action або [подія]Event призводить до [певної ситуації]Result.
+    - english: |
+         The construction is used when indicating the reason that any [action]Action or [event]Event leads to [a certain situation]Result.
+    - russian: |
+         Конструкция используется при указании на причину того, что какое-либо [действие]Action или [событие]Event приводит к [определенной ситуации]Result.
+  examples:
+    - |
+         Боксер не уточнив, чи [отримав він травми]Result унаслідок [бійки з підлітками]Action. (Онлайн-ЗМІ «Громадське телебачення», 2019)
+    - |
+         Унаслідок [ворожих обстрілів]Event [поранень зазнали двоє українських захисників]Result. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+    - |
+         Більшість тих, хто внаслідок [падіння]Action [отримав перелом]Result, – це люди старшого віку. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2017)
+    - |
+         Внаслідок [інциденту]Event [мільйони яєць прибрали із полиць супермаркетів]Result у низці країн ЄС.  (Журнал «НВ», 2017)
+    - |
+         Унаслідок [ДТП]Event [пасажирка мотоцикла отримала тілесні ушкодження]Result та доставлена до медичного закладу. (Онлайн-ЗМІ «Полтавщина», 2021)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Action
+    - Event
+    - Result
+  intonation:
+    - Not applicable
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X as a result of Y
+    - russian: |
+         VP в результате NP-Gen
+  common_fillers:
+    - зіткнення
+    - пригоди
+    - обстрілів
+    - вибуху
+    - інциденту
+    - сутичок
+    - аварії
+  semantic_types:
+    - type: Cause
+    - type: Result
+      subtypes:
+        - type: Achieved Result
+9:
+  name: "теж мені NP-Nom, Cl!"
+  illustration: "Теж мені помічник!"
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вживається для вираження несхвального, іронічного або негативного ставлення до кого/чого-небудь ([объект]Theme, [участник]Participant или [ситуація]Situation).
+    - english: |
+         The construction is used to express a disapproving, ironic or negative attitude towards someone ([object]Theme, [participant]Participant or [situation]Situation)
+    - russian: |
+         Конструкция используется для выражения неодобрительного, иронического или отрицательного отношения к кому-либо ([объект]Theme, [участник]Participant или [ситуация]Situation)
+  examples:
+    - |
+         А коли я вже було зважився ознайомити тебе з деякими деталями, то ти послався на свою зайнятість.Теж мені [керівник]Participant... (Олег Романчук «Зоряний кристал», 1986)
+    - |
+         Люди в космос літають, а тут шину на ходу пробити — теж мені [проблема]Theme. (Віктор Тимченко «Ключ від чужого замка», 1988)
+    - |
+         Мартинюк був обурений. Проглядав аркуші паперу, списані чітким почерком, відсував од себе і знову перечитував. — Теж мені [науковці знайшлися]Participant? (Микола Зарудний «Гілея», 1979)
+    - |
+         Перша моя реакція — обурення: теж мені, [знайшли місце екстремального туризму]Situation. Проте дуже швидко поміняв думку й погодився: все правильно. (Онлайн-ЗМІ «Детектор медія», 2022)
+    - |
+         Я програв Накладному вже в той момент, коли почав сперечатися і щось доводити. Теж мені [Цицерон]Participant. (Антон Санченко «Земля Георгія», 2006)
+  morphology:
+    - NP
+    - Nom
+    - Cl
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+    - Pronoun
+  semantic_roles:
+    - Theme
+    - Participant
+    - Situation
+  intonation:
+    - Exclamatory
+  usage_label: Colloqual
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         a false X/ a pseudo X
+    - russian: |
+         тоже мне NP-Nom!
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: General assessment
+        - type: Assessment in relation to norms/expectations
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+10:
+  name: "оце так NP-Nom/Verb/Cop: (Cl)!"
+  illustration: "Оце так диво!"
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція вживається зі значенням оцінкі реалії ([обʼєкт]Theme, [учасник]Participant или [подія]Event) мовцем, або зі значенням параметрів реалії. Чи є оцінка позитивною чи негативною, зазвичай стає зрозуміло тільки з контексту. Іноді конструкція може підкреслити, що оратор здивований несподіваною новою інформацією (Приклад 3).
+    - english: |
+         The construction expresses the speakerʼs evaluation of the realia ([object]Theme, [participant]Participant, or [event]Event) or realia parameter value. Whether the evaluation is positive or negative is usually given by the context. Sometimes the construction can emphasize that the speaker is surprised by unexpected new information (Example 3).
+    - russian: |
+         Конструкция используется со значением оценки реалии ([объект]Theme, [участник]Participant или [событие]Event) говорящим, или со значением параметров реалии. Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста. Иногда конструкция может подчеркнуть, что говорящий удивлен неожиданной новой информацией (Пример 3).
+  examples:
+    - |
+         Оце так [подарунок]Theme, найкращий за всі подарунки на світі! (Анатолій Костецький «Все - як насправді», 1948)
+    - |
+         - Оце так [костюм]Theme! А чому він чорний? Не могли пофарбувати в різні кольори? (Василь Головачов «Простір неспокою», 1985)
+    - |
+         - Оце так [гість]Participant!..Сьогодні в нас самі несподіванки... (Михайло Слабошпицький «Не повернулися з двадцятого століття», 1979)
+    - |
+         Оце так [ускочив у халепу]Situation! (Олег Авраменко «Син Сутінків і Світла», 1967)
+    - |
+         — Оце так [історія]Theme! — в захваті прошепотів Професор. — Хто б розказав — не повірив би! (Сергій Гридін «Федько, прибулець з інтернету», 2012)
+  morphology:
+    - NP
+    - Nom
+    - Verb
+    - Cop
+    - Cl
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+    - Pronoun
+  semantic_roles:
+    - Theme
+    - Participant
+    - Event
+  intonation:
+    - Exclamatory
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         what a X
+    - russian: |
+         вот так NP-Nom Cop: (Cl)!
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment in relation to quantification
+    - type: Mirative
+    - type: Polarity value
+      subtypes:
+        - type: Both Negative and Positive
+11:
+  name: "чим не NP-Nom Cop?"
+  illustration: "Чим не версія?"
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція має типове значення відпівідності [предмета]Theme, [події]Situation, [особи]Participant уявленню мовця про нього/неї.
+    - english: |
+         The construction has the typical meaning of correspondence of [subject]Theme, [event]Situation, [person]Participant to the speaker's idea of ​​them.
+    - russian: |
+         Конструкция имеет типичное значение соответствия [субъекта]Theme, [события]Situation, [лица]Participant представлению говорящего о нем/ней.
+  examples:
+    - |
+         Може, навіть побачишся зі своїм колишнім підопічним.Чим не [варіант]Theme?! (Кирило Круторогов «Бомбардир», 1990)
+    - |
+         Чим не [реальний сценарій найближчого майбутнього]Theme? (Журнал «НВ», 2019)
+    - |
+         Для перевірки потримайте шматочок картоплі в роті і хвилин через 15 крохмаль розпадеться на прості вуглеводи, а в роті з'явиться солодкий смак - чим не [десерт з овочів]Theme? (Онлайн-ЗМІ «UNIAN.NET»)
+    - |
+         Ми тепер в світі номер три з виробництва меду. Dolcevita! Чим не [привід для гордості]Theme? (Журнал «НВ», 2019)
+    - |
+         А Новорічні свята - чим не [нагода показати усі свої кулінарні таланти]Situation? (Інтернет-газета «Високий замок», 2011)
+  morphology:
+    - NP
+    - Nom
+    - Cop
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Pronoun
+    - Negation Marker
+  semantic_roles:
+    - Theme
+    - Situation
+    - Participant
+  intonation:
+    - Interrogative
+    - Exclamatory
+  usage_label: Colloqual
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         As good an X as any!
+    - russian: |
+         чем не NP-Nom Cop?
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: General assessment
+        - type: Assessment in relation to norms/expectations
+    - type: Comparison
+      subtypes:
+        - type: Equality
+    - type: Polarity value
+      subtypes:
+        - type: Both Negative and Positive
+    - type: Salient property
+      subtypes:
+        - type: Matching the standard
+12:
+  name: "NP-Dat Cop не до NP-Gen"
+  illustration: "Усім було не до сміху."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція передає модально-заперечне значення небажання чи неможливості [учасника]Participant зайнятися [деякою справою чи питанням]Theme або звернути увагу на [когось/щось]Theme.
+    - english: |
+         The construction conveys the modally negative meaning of the Participant's reluctance or inability to engage in [some business or issue]Theme or to pay attention to [something/someone]Theme.
+    - russian: |
+         Конструкция передает модально-отрицательное значение нежелания или невозможности [участника]Participant заняться [некоторым делом или вопросом]Theme или обратить внимание на [кого-то]Theme.
+  examples:
+    - |
+         - Сергію, ви ж сьогодні пішли з дому не снідавши. -- A-а, не до [сніданку мені зараз]Theme. Потім їстиму. (Анатолій Шиян «Вечірня пісня», 1961)
+    - |
+         Мати скрушно похитала головою і з таким жалем подивилася, наче мене тяжко покалічили на все життя. Бачу, тут уже не до [жартів]Theme. (Борис Антоненко-Давидович «Слово матері», 1964)
+    - |
+         Обом жінкам у ці хвилини було не до [гостя]Theme, і Віктор, піднявши коробку, рушив геть, бажаючи тепер єдиного — як найшвидше зникнути звідси. (Олексій Волков «Переможець отримує все», 2004)
+    - |
+         Але коли наприкінці кліпу боксер, пританцьовуючи, підходить до однієї з жінок у барі, її кавалеру стає не до [сміху]Theme, і він одразу зникає. (Онлайн-ЗМІ «Табло ID», 2009)
+    - |
+         Таке порівняння зовсім не до [речі]Theme. (Олександр Вишнівський «Трагедія 3-ої дивізії армії УНР», 1963)
+  morphology:
+    - NP
+    - Dat
+    - Cop
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Negation Marker
+    - Preposition
+  semantic_roles:
+    - Participant
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: Colloqual
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         be not up to X
+    - russian: |
+         NP-Dat Cop не до NP-Gen
+  common_fillers:
+    - сміху
+    - жартів
+    - ладу
+    - вподоби
+    - новин
+    - того
+  semantic_types:
+    - type: Attitude
+      subtypes:
+        - type: Acceptance
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+13:
+  name: "(NP-Dat) здається/здавалося, (що) Cl"
+  illustration: "Мені здається, що він щасливий."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція вживається для вираження припущення, непевності [того, хто говорить, або іншого учасника]Experiencer в [інформації]Evaluation, яку він повідомляє.
+    - english: |
+         The construction is used to express the assumption, uncertainty [of the speaker or other participant]Experiencer in the [information]Evaluation that he reports.
+    - russian: |
+         Конструкция используется для выражения предположения, неуверенности [говорящего или другого участника]Experiencer в [информации]Evaluation, которую он сообщает.
+  examples:
+    - |
+         Проте [мені]Experiencer здається, [підстав не довіряти йому — немає]Evaluation. (Андрій Гарасим «Борги нашого життя», 2016)
+    - |
+         [Мені]Experiencer здається, [що в уряді є фахові економісти]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2008)
+    - |
+         Наразі цей сценарій, на думку [автора]Experiencer, здається [малоймовірним]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         Я її не бачив трохи більше ніж півроку, а здається, що [вічність]Evaluation. (Світлана Талан «Спокута», 2017)
+    - |
+         Здавалось, [її лист потрапив до іншої людини]Evaluation. (Олексій Волков «Гра у три руки», 2016)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+    - Conjunction
+  semantic_roles:
+    - Experiencer
+    - Evaluation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         it seems/seemed to X that
+    - russian: |
+         (NP-Dat) кажется/казалось, (что) Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: Low degree of certainty
+14:
+  name: "NP-Nom Cop на носі (носу)"
+  illustration: "На носі другий семестр."
+  cefr_level: A1
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що така собі [ситуація]Situation чи [подія]Event вже близько до моменту створення, відбудеться дуже скоро, в найближчому майбутньому.
+    - english: |
+         The construction means that [situation]Situation or [event]Event is already close to the moment of creation, will happen soon, in the near future.
+    - russian: |
+         Конструкция обозначает, что некая [ситуация]Situation или [событие]Event произойдут очень скоро, в ближайшем будущем.
+  examples:
+    - |
+         А я он їздив дещо для бджіл купити — [літо]Situation на носі. (Олексій Волков, «Виконавець», 1993)
+    - |
+         І [випускні екзамени]Event на носі , – слідчий зиркнув на телефон, мабуть, чекав, що він от-от задзвонить. (Віктор Тимчук «Ловці манекенів», 1990)
+    - |
+         А на носі, у 2010 році, [кругла дата]Event – століття виникнення хокею в Україні ....(Інтернет-газета «Український тиждень», 2009)
+    - |
+         На носу [поїздка до Бельгії]Event, симпозіум з підприємництва. (Інтернет-газета «Кримська світлиця», 2002)
+    - |
+         Тобі ж вже [дев'яносто років]Situation на носі! (Анджей Пилип'юк «Хроніки Якуба Вендровича», 2013)
+  morphology:
+    - NP
+    - Nom
+    - Cop
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Situation
+    - Event
+  intonation:
+    - Declarative
+  usage_label: Colloqual
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X around the corner
+    - russian: |
+         NP-Nom Cop на носу
+  common_fillers:
+    - екзамени
+    - залік
+    - поїздка
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Near future
+15:
+  name: "VP (не) з порожніми руками"
+  illustration: "Він не з порожніми руками приходив: гостинці дітям приносив."
+  cefr_level: C1
+  definitions:
+    - ukrainian: |
+         Конструкція вживається, коли в [учасника]Participant будь-якої [ситуації]Action немає [нічого]Theme при собі, що він може передати [іншому учаснику]Recipient або отримати від [нього]Source. Конструкція також описує [ситуацію]Action, коли [учасник]Participant нічого не досяг у результаті деякої [діяльності]Action.
+    - english: |
+         The construction is used when the [participant]Participant of any [situation]Action carries [nothing]Theme that he/she can pass to [another participant]Recipient or receive from [him/her]Source. The construction also describes the [situation]Action when the [participant]Participant has achieved nothing as a result of some [activity]Action.
+    - russian: |
+         Конструкция используется, когда у [участника]Participant некоторой [ситуации]Action нет [ничего]Theme при себе, что он может передать [другому участнику]Recipient или получить от [него]Source. Конструкция также описывает [ситуацию]Action, когда [участник]Participant ничего не достиг в результате некоторой [деятельности]Action.
+  examples:
+    - |
+         [Ми]Participant намагаємося [не приходити в гості]Action з порожніми руками – на подарунки до зимових свят витратили за всі роки майже три мільйони гривень. (Інтернет-газета «Високий замок», 2007)
+    - |
+         Кожної ночі [нападали]Action [вони]Participant на [село]Source і ніколи [не поверталися]Action з порожніми руками. («Угорські народні казки», 1985)
+    - |
+         Від того часу [я]Participant кілька тижнів на роботі з порожніми руками [з цеху]Source не виходив. Тримав або молоток, або довгу викрутку. (Іван Kривуцький «За полярним колом», 2001).
+    - |
+         [Депутати]Participant [вручили малюкам подарунки]Action, та й самі [не пішли]Action з порожніми руками: від [вихованців]Source отримали власноруч виготовлену ялинку. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2011)
+    - |
+         Втім, це все для дорослих роздумів, натомість [малі]Participant теж [не лишаться]Action з порожніми руками – для них автори стрічки пропонують легкий гумор, цікаві пригоди й красиву картинку. (Інтернет-газета «Український тиждень», 2001)
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Negation
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+    - Adjective
+    - Negation Marker
+  semantic_roles:
+    - Participant
+    - Action
+    - Theme
+    - Recipient
+    - Source
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X (not) empty-handed
+    - russian: |
+         VP (не) с пустыми руками
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Caritive
+      subtypes:
+        - type: Manner
+16:
+  name: "VP за допомогою NP-Gen"
+  illustration: "Це легко перевірити за допомогою секундоміра."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція позначає [дія]Action, яку учасник виконує, використовуючи певний [інструмент]Instrument. Як інструмент може виступати фізичний об'єкт, дія, явище.
+    - english: |
+         The construction denotes an [action]Action that a participant performs using a particular [instrument]Instrument. A physical object, action, phenomenon can act as an instrument.
+    - russian: |
+         Конструкция обозначает [действие]Action, которое участник выполняет, используя некоторый [инструмент]Instrument. В качестве инструмента может выступать физический объект, действие, явление.
+  examples:
+    - |
+         За допомогою [28 пластинок доміно]Instrument [складіть]Action показану на малюнку фігуру. (Журнал «Наука і суспільство», 1990)
+    - |
+         Повідомлення такого змісту масово [розсилаються]Action за допомогою [Інтернету]Instrument. (Онлайн-ЗМІ «Zaxid.net», 2007)
+    - |
+         Ми [збираємося говорити]Action про цю проблему за допомогою [медіа]Instrument, зробити інформаційні бюлетні та дні відкритих дверей у поліклініках міста. (Онлайн-ЗМІ «Zaxid.net», 2007)
+    - |
+         За допомогою [відеокамер та екрану пульта управління]Instrument за цим [спостерігає]Action оператор чи керівник навчань. (Онлайн-ЗМІ «Zaxid.net», 2007)
+    - |
+         [Обновити]Action вихідне вбрання, в якому ви вже були на вечірках, можна за допомогою [нових аксесуарів]Instrument. (Інтернет-газета «Високий замок», 2007)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Action
+    - Instrument
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         V with the help of X
+    - russian: |
+         VP с помощью/при помощи NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Cause
+17:
+  name: "NP-Acc звати-Inf NP-Nom/NP-Ins"
+  illustration: "Мене звати Ганна."
+  cefr_level: A1
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що [учасник]Participant має конкретне [ім'я]Property.
+    - english: |
+         The construct denotes that some [participant]Participant has a particular [name]Property.
+    - russian: |
+         Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
+  examples:
+    - |
+         Ми можемо познайомитись, [мене]Participant звати [Андрій]Property... (Неда Неждана «Коли повертається дощ», 2011)
+    - |
+         Його обличчя стає сумним і дитячим, очі наповнюються слізьми, а брови сумирно лягають, розтягнувшись на чолі, [її]Participant звати [Світлана]Property, і , ти розумієш, я люблю її, як життя. (Софія Андрухович «Жінки їхніх чоловіків», 2005)
+    - |
+         [Мене]Participant звати [Райнер Граф]Property, я завідувач лабораторії і вхожу до комісії з розглядів проектів, що подані на грант. (Лариса Денисенко «Відлуння: від загиблого діда до померлого», 2011)
+    - |
+         — [Мене]Participant звати [Юрієм]Property, — сказав я. — [Мене]Participant — [Світланою]Property, — відповіла вона. (Олексій Волков «Виконавець», 2005]
+    - |
+         А там якась річка - Саша, я не знаю, шо це за річка, як [її]Theme звати. («Усна історія Степової України», 2012)
+  morphology:
+    - NP
+    - Acc
+    - Inf
+    - Ins
+    - Nom
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+  semantic_roles:
+    - Participant
+    - Property
+    - Theme
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         Х's name is
+    - russian: |
+         NP-Acc звать Inf NP-Ins/NP-Nom
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Naming
+18:
+  name: "нівроку NP-Dat"
+  illustration: "Tи, молодичко, нівроку тобі, проворна, роботяща."
+  cefr_level: C1
+  definitions:
+    - ukrainian: |
+         Конструкція вживається для вираження побажання не принести горя, не наврочити [кому-небудь]Recipient своїми словами.
+    - english: |
+         The construction is used to express a desire not to wish [anyone]Recipient anything bad, not to offend, jinx [anyone]Recipient with one's words.
+    - russian: |
+         Конструкция используется для выражения пожелания не принести горя, не сглазить [кого-либо]Recipient своими словами.
+  examples:
+    - |
+         А [обиватель]Recipient, нівроку собі, жартами розважається. (Сергій Єфремов «Щоденник», 1925)
+    - |
+         Приступила ближче до постелі: — Тьху-тьху ! Нівроку , аби [тобі]Recipient не наврочила. (Петро Лінтур «Зачаровані казкою: Українські народні казки Закарпаття», 1969)
+    - |
+         Загалом це були [люди]Recipient віком від двадцяти до сорока років, смагляві і зовсім білошкірі, худорляві і нівроку собі. (Віктор Савченко «Діти Мардука», 2014)
+    - |
+         Нівроку, але [вона]Recipient ще зовсім дитина. {Ярема Ткачук «Буревії. Книга пам'яті», 2004)
+    - |
+         [Чоловіки]Recipient ж, нівроку їм, боягузливі, чи не так? (Оскар Уайльд «Як важливо бути поважнимv», 2006)
+  morphology:
+    - NP
+    - Dat
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Adverb
+  semantic_roles:
+    - Recipient
+  intonation:
+    - Not applicable
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         not to jinx X
+    - russian: |
+         не сглазить NP-Dat
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Addressee
+      subtypes:
+        - type: Beneficiary
+19:
+  name: "таким чином, Cl"
+  illustration: "Таким чином, усі задоволені."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція узагальнює наведену інформацію та містить [висновок]Theme.
+    - english: |
+         The construction summarizes the given information and contains [conclusion]Theme.
+    - russian: |
+         Конструкция обобщает приведенную информацию и содержит [вывод]Theme.
+  examples:
+    - |
+         Таким чином, [нарешті Максим лишився на самоті з собою]Theme. (Іван Багряний «Людина біжить над прірвою», 1992)
+    - |
+         Таким чином, [права людини стають необхідним стандартом у стосунках індивідів між собою і державною владою]Theme. (А. Г. Карась «Роль релігійних цінностей у процесі формування права», 2010)
+    - |
+         Таким чином, [ми маємо можливість користуватися реальними даними про радіаційну обстановку в країні в будь-який момент]Theme. (Журнал «Наука і суспільство», 1990)
+    - |
+         Діжа лаштував своє кімнатне майно таким чином, [щоб ранок приносив радість для ока]Theme. (П. Загребельний «День для прийдешнього», 1963) MOVA
+    - |
+         Таким чином, [перетворення речовини в енерґію — це ще не зникнення матерії]Theme. (Микола Руденко «Енерґія проґресу (Нариси з фізичної економії)», 2004)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Noun
+    - Pronoun
+  semantic_roles:
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         so that X
+    - russian: |
+         таким образом, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Summary
+20:
+  name: "NP, в/у тому числі NP"
+  illustration: "Він успішно склав екзамени з усіх предметів, у тому числі з української мови."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція використовується для того, щоб вказати важливий на думку мовника [елемент]Element, який серед інших входить до деякої [множини]Set.
+    - english: |
+         The construction is used to indicate an important [element]Element in the opinion of the speaker, which, among others, is included in some [set]Set.
+    - russian: |
+         Конструкция используется для того, чтобы указать важный по мнению говорящего [элемент]Element, который среди прочих входит в некоe [множество]Set.
+  examples:
+    - |
+         У ньому є хороші [пісні]Set, в тому числі [україномовні]Element. (Інтернет-газета «Високий замок», 2007)
+    - |
+         Автор понад [200 наукових праць]Set, у тому числі [5 монографіElement. (Газета «Слово», 2012)
+    - |
+         Я побував у багатьох [країнах]Set, у тому числі у [наших сусідів]Element. (Газета «День», 1999)
+    - |
+         Він заявляв, що результати його експериментів можуть сприяти пошуку ліків від [цілого ряду захворювань]Set, у тому числі [діабету й хвороби Паркінсона]Element. (Газета «День», 2005)
+    - |
+         Адже [художня література]Set (в тому числі й [історичний її жанр]Element) розвивається за своїми законами, відмінними від законів жанру науково-популярного. (М. Брайченко «Життя Веласкеса», 1967)
+  morphology:
+    - NP
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Preposition
+    - Pronoun
+    - Noun
+    - Particle
+  semantic_roles:
+    - Element
+    - Set
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         including X
+    - russian: |
+         NP, в том числе (и) NP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Inclusive
+21:
+  name: "NP-Nom відрізнятися NP-Ins"
+  illustration: "Новий iPhone відрізняється й іншими функціями, що полегшують роботу з сервісами соцмережі."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція підкреслює, що [об'єкт]Object або [обличчя]Participant не схожий на інші і має будь-яку [відмітну ознаку, особливість]Property, що створює різницю між даною особою, предметом та іншими.
+    - english: |
+         The construction emphasizes that the [object]Object or [person]Participant is not similar to others and has some kind of [distinguishing feature, feature]Property that creates a difference between this person, object and others of this kind.
+    - russian: |
+         Конструкция подчеркивает, что [объект]Object или [лицо]Participant не похож на другие и имеет какой-либо [отличительный признак, особенность]Property, создающий разницу между данным лицом, предметом и другими.
+  examples:
+    - |
+         І навіть якщо Ваше [авто]Object відрізняється [якістю і надійністю]Property, через певний час в ньому все одно доведеться міняти деякі деталі. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2020)
+    - |
+         [Серіали минулого року]Object відрізняються [великою різноманітністю тем]Property. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+    - |
+         Кожен з цих [типів носіїв]Object відрізняється [цілим переліком своїх особливостей]Property. (Онлайн-ЗМІ «Житомир.info», 2021)
+    - |
+         Є декілька рівнів [переговорів]Object, між собою вони відрізняються [рівнем особистої залученості кожного учасників}Property. (Онлайн-ЗМІ «LB.ua», 2020)
+    - |
+         ["Жайворонки"]Participant були менш сонливі і відрізнялися [найшвидшою реакцією]Property під час проведення ранкових тестів. [Вони]Participant також відрізнялися [кращою працездатністю]Property, ніж "сови". (Онлайн-ЗМІ «UNIAN.NET», 2019)
+  morphology:
+    - NP
+    - Nom
+    - Ins
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Verb
+  semantic_roles:
+    - Participant
+    - Property
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X is distinquished by Y
+    - russian: |
+         NP-Nom отличаться NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Property assignment
+22:
+  name: "на той час Cl, NP"
+  illustration: "Однак на той час це було вже неможливо."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що [ситуація]Situation або [дія]Action, відбувається колись у минулому чи в майбутньому; не тепер. Іноді може йтися про [стан або ознаку]Property, властиву об'єкту в минулому (Приклад 5)
+    - english: |
+         The construction means that [situation]Situation or [action]Action takes place sometime in the past or in the future; not now. Sometimes the construction can describe [a state or feature characteristic]Property of an object in the past (Example 5)
+    - russian: |
+         Конструкция означает, что [ситуация]Situation или [действие]Action происходила когда-то в прошлом или произойдет в будущем; не сейчас. Иногда речь может идти о [состоянии или признаке]Property, присущем обьекту в прошлом (Пример 5)
+  examples:
+    - |
+         А мені на той час [було важко ще розбирати українську мову]Action. (Антал Гідаш «Письменник-інтернаціоналіст», 1967)
+    - |
+         Двоюрідна сестра Лешека на той час [мала десять років і весь час сиділа десь у куточку]Situation. (Анна Хома «Терези», 1976)
+    - |
+         На той час [іноземець гостював у родичів]Situation, місцевих жителів. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         І, можливо, відкласти покращення свого соціального рівня на ті часи, [коли економіка почне розвиватися]Situation. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+    - |
+         Саме тоді брат, на той час [військовий льотчик]Property, привіз йому [незвичний]Property на той час подарунок. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2009)
+  morphology:
+    - Cl
+    - NP
+  syntactic_type_of_construction:
+    - Matrix and Sentential Complement Construction
+  syntactic_function_of_anchor:
+    - Matrix Predicate
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Pronoun
+    - Noun
+  semantic_roles:
+    - Situation
+    - Action
+    - Property
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         at that time
+    - russian: |
+         в то время Cl, NP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Past
+23:
+  name: "Cl в/у той час як Cl"
+  illustration: "Вона говорила по телефону, у той час як він готував вечерю."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що дві [ситуації]Situation відбуваються одночасно, або можуть бути протиставлені одна одної.
+    - english: |
+         The construction means that two [situations]Situation occur simultaneously, or can be opposed to each other.
+    - russian: |
+         Конструкция обозначает, что две [ситуации]Situation происходят одновременно, или могут быть противопоставлены друг другу.
+  examples:
+    - |
+         Цього року [головний приз взяла Toyota Corolla]Situation, в той час як [Honda CR-V став першим в категорії кросоверів]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         Тому що ви [можете приймати рішення відразу]Situation в той час, коли [це рішення є найцінніше]Situation. (Журнал «НВ», 2020)
+    - |
+         [Серед інших наук виділив математику]Situation і вже в той час [почав займатися математичним моделюванням]Situation. (Газета «День», 2011)
+    - |
+         В той час як [мистецтво стає фоном]Situation, [Instagram може змінити фон віртуальними засобами]Situation. (Онлайн-ЗМІ «LB.ua», 2020)
+    - |
+         Як показують дослідження, [здоровий сон допомагає поліпшити когнітивні здібності]Situation, в той час як [недолік сну негативно впливає на пам'ять]Situation. (Журнал «НВ», 2016)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Matrix and Sentential Complement Construction
+  syntactic_function_of_anchor:
+    - Matrix Predicate
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Pronoun
+    - Noun
+    - Conjunction
+  semantic_roles:
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X while Y
+    - russian: |
+         Cl в то время как Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Taxis
+      subtypes:
+        - type: Simultaneous action
+24:
+  name: "на відміну від NP-Gen Cl"
+  illustration: "На відміну від інших він не боявся темряви."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується для порівняння чи протиставлення двох об'єктів чи учасників. [Один об'єкт або учасник]Comparee [влаштований]Property або [поводиться]Situation не так, як [інший]Standard, і ця риса відрізняє певний предмет, явище тощо від іншого.
+    - english: |
+         The construction is used to compare or contrast two objects or participants. [One object or participant]Comparee [has]Property or [behaves]Situation not like [another]Standard, and this feature distinguishes a certain object, phenomenon, etc. from another.
+    - russian: |
+         Конструкция используется для сравнения или противопоставления двух объектов или участников. [Один объект или участник]Comparee [устроен]Property или [ведет себя]Situation не так, как [другой]Standard, и эта черта отличает определенный предмет, явление и тому подобное от другого.
+  examples:
+    - |
+         [Він]Comparee, на відміну від [свого батька]Standart, [підтримував зв'язки з ріднею]Situation, що залишилася в далекому селі. (Іво Андрич «Драма в Олуяку», 1961)
+    - |
+         На відміну від [Redmi Note 5 Pro]Standart, [Mi A2]Comparee [буде поставлятися з портом USB C]Situation. (Журнал «НВ», 2018)
+    - |
+         На відміну від [ведмедя]Standart, [борсуки]Comparee [іноді встають серед зими, в теплі дні навіть на сніг вилазять]Situation. (Анатолій Давидов  "Експедиція «Суничка», 1971)
+    - |
+         На відміну від [минулих років]Standard, [ілюмінація]Comparee [горітиме цілодобово]Situation, а не тільки вночі. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         На думку чиновника, [хеві-метал]Comparee [не отримує належної поваги]Situation, на відміну від [класичної музики або джазу]Standard. (Журнал «НВ», 2019)
+  morphology:
+    - NP
+    - Gen
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Comparee
+    - Property
+    - Situation
+    - Standard
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X unlike Y
+    - russian: |
+         в отличие от NP-Gen Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Contrast
+25:
+  name: "Cl у зв'язку з NP-Ins"
+  illustration: "У зв'язку з перекриттям вулиць рух транспорту буде організовано із змінами."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція підкреслює [причину]Cause виникнення деякої [ситуації]Situation, або вказує на відповідність, співвідношення двох ситуацій, їх причинно-наслідкові відносини. Конструкція використовується у офіційно-діловому стилі.
+    - english: |
+         The construction emphasizes the [cause]Cause of the occurrence of some [situation]Situation, or indicates the correspondence, the interdependence of two situations, their cause-and-effect relationship. The construction belongs to formal style.
+    - russian: |
+         Конструкция подчеркивает [причину]Cause возникновения некоторой [ситуации]Situation, или указывает на соответствие, соотношение двух ситуаций, их причинно-следственные отношения. Конструкция используется в официально-деловом стиле.
+  examples:
+    - |
+         "Ми не відчуваємо нервозності у зв'язку з [цим]Cause, [діємо вивірено]Situation", - сказав він. (Інтернет-газета «Європейська правда», 2014)
+    - |
+         Коротше, [ми сьогодні писатимемо рапорти про розірвання контракту]Situation у зв'язку з [недотриманням умов]Cause... (Онлайн-ЗМІ «24 канал», 2022)
+    - |
+         На американському ринку запанувала думка про те, що [землетрус у Японії сильно не порушить світовий ріст і навіть може забезпечити американські компанії замовленнями]Situation, у зв'язку з [усуненням наслідків природної катастрофи]Cause. (Онлайн-ЗМІ «UNIAN.NET», 2011)
+    - |
+         У Китаї у зв'язку з [епідемією смертельного коронавірусу]Cause [почали дезінфікувати цілі райони]Situation.  (Журнал «НВ», 2020)
+    - |
+         Нагадаємо, в Україні у липні у зв'язку з [підвищенням прожиткового мінімуму]Cause [планують підняти пенсії]Situation. (Онлайн-ЗМІ «Апостроф», 2022)
+  morphology:
+    - Cl
+    - NP
+    - Ins
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Cause
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X in connection with Y
+    - russian: |
+         Cl в связи с NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Cause
+26:
+  name: "до того ж XP/Cl"
+  illustration: "До того ж цей вечір видався якийсь незвичайний."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною, прийменниковою чи дієслівною групою.
+    - english: |
+         This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot usually fills with a noun phrase, a prepositional phrase or verb phrase
+    - russian: |
+         Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот ХР обычно заполняется именной, предложной или глагольной группой.
+  examples:
+    - |
+         Маска є фактором захисту, першим бар'єром для потрапляння збудника вірусу до організму", – зазначає експерт. До того ж, [маску не потрібно носити цілодобово]ContentOfSpeech, – заспокоює він. (Онлайн-ЗМІ «Українська правда», 2021)
+    - |
+         Поділився з мамою тими грішми на половину, адже всяке могло статися в дорозі.  До того ж [у мене були свої плани]ContentOfSpeech. (Ярема Ткачук «Буревії. Книга пам'яті», 2004)
+    - |
+         Тому що був різкий підвищений стресовий стан, який акумулював всі обмінні процеси організму. До того ж [тоді багатьом їсти просто не хотілося]ContentOfSpeech. (Онлайн-ЗМІ «20 хвилин», 2022)
+    - |
+         Ми тепер розуміємо, з ким співпрацюємо та готові надати всебічну підтримку вашій громаді. До того ж [ми отримали ще один бонус від цієї поїздки]ContentOfSpeech. (Онлайн-ЗМІ «ЮжкаNews.Сity», 2022)
+    - |
+         Якщо дізнається наша господарка про те, що тут був хлопець, нам усім дістанеться на горіхи. До того ж, [мені було якось ніяково]ContentOfSpeech. (Світлана Талан «Не вурдалаки», 2012)
+  morphology:
+    - XP
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Preposition
+    - Pronoun
+    - Particle
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         besides X
+    - russian: |
+         к тому же XP/Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+27:
+  name: "NP на чолі з NP-Ins"
+  illustration: "Вчора завершився візит делегації на чолі з губернатором міста."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вказує на те, що [групою людей чи організацією]Theme керує певний [учасник]Agent, який зазвичай має особливий статус і повноваження.
+    - english: |
+         The construction indicates that a [group of people or organization]Theme is managed by a particular [participant]Agent, who usually has special status and authority.
+    - russian: |
+         Конструкция указывает, что [группой людей или организацией]Theme руководит определенный [участник]Agent, обычно имеющий особый статус и полномочия.
+  examples:
+    - |
+         До [складу місії]Theme увійшло 14 осіб на чолі з [керівником МАГАТЕ Рафаелем Гроссі]Agent. (Онлайн-ЗМІ «РБК-UA», 2022)
+    - |
+         [Українська делегація]Theme на чолі з [міністром інфраструктури]Agent вже прибула до Стамбула на переговори про розблокування експорту зерна. (Онлайн-ЗМІ «Громадське телебачення», 2022)
+    - |
+         Я побачила [невеличкий загін солдатів у австрійських формах]Theme на чолі з [чоловіком]Agent, який оце запитував]Agent. (Михайло Яворський «Поцілунок Лева», 2006}
+    - |
+         [Вчені]Theme на чолі з [доктором Карін Совада]Agent з Університету Маккуорі вивчили мумію, яка зберігається в музеї Сіднейського університету. (Журнал «НВ», 2021)
+    - |
+         Він оглянувся лише тоді, коли за спиною у нього зібрався [чималий натовп]Theme на чолі з [дідом Зосимом]Agent. (Петро Лущик «Поміж двох орлів», 2017)
+  morphology:
+    - NP
+    - Ins
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Theme
+    - Agent
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X headed by Y
+    - russian: |
+         NP во главе с NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Status
+28:
+  name: "VP на чолі NP-Gen"
+  illustration: "На чолі відділу завжди стояли професіонали."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що деякий учасник [керує]Action певною [організацією чи процесом]Theme.
+    - english: |
+         The construction indicates that some participant [manages]Action of a certain [organization or process]Theme.
+    - russian: |
+         Конструкция обозначает, что некоторый участник [руководит]Action определенной [организацией или процессом]Theme.
+  examples:
+    - |
+         Колишній менеджер Ліверпуля Рой Ходжсон [провів]Action всього півроку на чолі легендарної [команди]Theme. (Журнал «НВ», 2016)
+    - |
+         Бо на чолі [війська]Theme, якого і четвертина не знала польської мови, [стояв]Action польський король. (Юліан Опільський «Сумерк», 1922)
+    - |
+         Відомо, що посланці задунайців таємно [прибували]Action в Україну і [повертались]Action назад на чолі [численних великих загонів втікачів]Theme. (Інтернет-газета «Кримська світлиця», 2008)
+    - |
+         Не випадково під час опитування було запропоновано ще одне запитання, а саме: «Кого з історичних діячів ви [хотіли б бачити]Action на чолі [української держави]Theme?» (Газета «День», 2003)
+    - |
+         На чолі [компанії]Theme [стане]Action Кріс Тейлор, експерт з національної безпеки, який раніше керував іншими компаніями, що співпрацювали з американським урядом. (Онлайн-ЗМІ «Токар», 2022)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Theme
+    - Agent
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         to be at the head of X
+    - russian: |
+         VP во главе NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Status
+29:
+  name: "Cl в/у залежності від NP-Gen"
+  illustration: "Вони люблять змінювати зачіски в залежності від ситуації."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція свідчить про наявність [важливого параметра]Condition, який відіграє основну роль при [оцінці причинної залежності явищ]Situation.
+    - english: |
+         The construction testifies to the presence of [an important parameter]Condition, which plays the main role in [estimating the causal dependence of phenomena]Situation.
+    - russian: |
+         Конструкция указывает на наличие [важного параметра]Condition, который играет основную роль при [оценке причинной зависимости явлений]Situation.
+  examples:
+    - |
+         [На сході і півночі країни очікується дощ і мокрий сніг]Situation в залежності від [температури повітря]Condition. (Журнал «НВ», 2020)
+    - |
+         При цьому [суперники й дати поєдинків можуть змінитися]Situation в залежності від [планів учасників]Condition. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         В залежності від [структури контексту країни]Condition [домінує та чи інша модель жіночого руху]Situation. (Людмила Смоляр «Минуле заради майбутнього», 1998)
+    - |
+         За даними підприємства, [завод працює]Situation в залежності від [постачання комплектуючих і замовлень]Condition. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         В залежності від [об'єму двигуна]Condition [витрати палива складають від 10 до 30 літрів на 100 км]Situation. (Онлайн-ЗМІ «LB.ua», 2021)
+  morphology:
+    - Cl
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Multiword Preposition
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Condition
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         depending on X
+    - russian: |
+         Cl в зависимости от NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Cause
+    - type: Condition
+30:
+  name: "(Cl,) pазом з тим Cl"
+  illustration: "Ця будівля дуже незвичайна, з колонами, і разом з тим проста і гармонійна за формою."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Часто ця інформація суперечить тому, що було сказано раніше.
+    - english: |
+         The construction introduces [information]ContentOfSpeech that complements what has been said before. Often this information contradicts what was said earlier.
+    - russian: |
+         Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Часто эта информация противоречит сказанному ранее
+  examples:
+    - |
+         Медик нагадав, що за рахунок течії морська вода постійно оновлюється. Разом з тим [він назвав ризикованим відпочинок на пляжі, де не дотримується необхідна дистанція]ContentOfSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         У Греноблі арештовані кілька людей, конфісковано вогнепальну зброю. Разом з тим, [газета зазначає, що поки не має офіційних підтверджень інформації, що надходить]ContentOfSpeech. (Журнал «НВ», 2015)
+    - |
+         На сьогодні фактичний ремонт зроблено лише по дорожньому полотну та встановлено бордюри, до тротуарів справа не дійшла. Разом з тим [фактично через рік після укладання асфальту з'явились ями]ContentOfSpeech. (Онлайн-ЗМІ «Наші гроші», 2017)
+    - |
+         Є перелік підприємств, де кількість робочих місць після приватизації навіть збільшилась. Разом з тим, [мали місце і порушення]ContentOfSpeech. (Стенограми засідань Верховної Ради України, 1995)
+    - |
+         Декілька місяців підряд відбувалася непроста, дуже гостра і складна дискусія. Разом з тим, [уряд так і не сформулював зрозумілої для людей пенсійної формули]ContentOfSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2013)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Adverb
+    - Preposition
+    - Pronoun
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X along with Y
+    - russian: |
+         (Cl,) (но/и) вместе с тем Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Contrast
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+31:
+  name: "поки що (не) Cl"
+  illustration: "У компанії поки що не дали коментарів щодо інциденту."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що [ситуація]Situation, актуальна в даний момент, не зміниться в найближчому майбутньому, хоча надалі може змінитися.
+    - english: |
+         The construction means that the [situation]Situation current at the moment will not change in the near future, although it may change in the future.
+    - russian: |
+         Конструкция обозначает, что [ситуация]Situation, актуальная в данный момент, не поменяется в ближайшем будущем, хотя может поменяться в дальнейшем.
+  examples:
+    - |
+         У компанії поки що [не дали коментарів щодо інциденту]Situation. (Журнал «НВ», 2017)
+    - |
+         Він повільно йшов слідом, мабуть, [останні сумніви поки що не залишали його]Situation. (Станіслав Стеценко «Чорна акула в червоній воді», 1993)
+    - |
+         А поки що [сумненько, невесело на душі]Situation. (Володимир Качкан «Опішня», 1991)
+    - |
+         Але далі цього плану поки що [справа не заходить]Situation. (Журнал «НВ», 2018)
+    - |
+         Причини вибуху та його наслідки офіційно поки що [не прокоментували]Situation. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+  semantic_roles:
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         yet, stil X
+    - russian: |
+         пока что Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Phase of action
+      subtypes:
+        - type: Continuative
+    - type: Temporal expression
+      subtypes:
+        - type: Temporal boundary
+32:
+  name: "з точки зору NP-Gen/ з PronPoss-Gen точки зору, Cl"
+  illustration: "З моєї точки зору питання полягає в наступному."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція висловлює думку [говорящего]Speaker або іншого [учасника ситуації]Participant з деякого питання і зазвичай вводить [оцінний вислів]Evaluation. Конструкція також може вказувати на [яке поняття]Theme, з якою пов'язане наступне твердження.
+    - english: |
+         The construction expresses the opinion of the [speaker]Speaker or another participant of the situation]Participant on some issue and usually introduces an [evaluative statement]Evaluation. The construction can also indicate [the concept]Theme which the following statement is related to.
+    - russian: |
+         Конструкция выражает мнение [говорящего]Speaker или иного [участника ситуации]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция также может указывать на [некое понятие]Theme, с которой связано последующее утверждение.
+  examples:
+    - |
+         З [моєї]Speaker точки зору, [все це — прихована реклама, незалежно від форми]Evaluation. (Газета «День», 2017)
+    - |
+         Тому, з [економічної]Theme точки зору, [аукціон слід оцінити як вдалий для держави]Evaluation. (Інтернет-газета «Дзеркало тижня», 2018)
+    - |
+         З точки зору [моралі і фінансів]Theme, [я не можу дати цьому оцінку]Evaluation. (Журнал «НВ», 2019)
+    - |
+         А вголос сказав: — Може, з точки зору [медицини]Theme [все так, як ви кажете]Evaluation. (Олесь Бердник, «Зоряний корсар», 1971)
+    - |
+         Коли я вперше побачив танцювальні колективи, всі вони здалися мені прекрасними і з [хореографічної]Theme точки зору [подібними одна до одної]Evaluation. (Тадеуш Бреза «Листи з Гавани», 1963)
+  morphology:
+    - NP
+    - Gen
+    - PronPoss
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Speaker
+    - Participant
+    - Evaluation
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         from X point of view
+    - russian: |
+         с точки зрения NP-Gen/с PronPoss-Gen точки зрения, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Topic
+    - type: Source of opinion
+      subtypes:
+        - type: Expressing opinion
+33:
+  name: "Cl в порівнянні з NP-Ins"
+  illustration: "Ціни в цьому сезоні виросли приблизно на 30% в порівнянні з минулим роком."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція означає порівняння і протиставлення будь-яких предметів чи явищ, виявлення у яких подібності чи відмінності, переваг чи недоліків тощо. Конструкція вказує на те, що [деякі характеристики]Property [якогось об'єкта або учасника]Comparee виражені більшою або меншою мірою, ніж [інші]Standard.
+    - english: |
+         The construction denotes the comparison and opposition of any objects or phenomena, revealing in them the similarities or differences, advantages or shortcomings and so on. The construction indicates that [certain characteristics]Property [of some object or participant]Comparee are expressed to a greater or lesser extent than [other]Standard.
+    - russian: |
+         Конструкция обозначает сравнение и противопоставление каких-либо предметов или явлений, выявление в них сходства или различия, достоинств или недостатков и т.д. Конструкция указывает на то, что [некоторые характеристики]Property [какого-либо объекта или участника]Comparee выражены в большей или меньшей степени, чем [другие]Standard.
+  examples:
+    - |
+         І в порівнянні з [цим сяйвом]Standart [берег]Comparee [здавався темносинім, вкритим імлистим покривалом]Property. (Ніколай Панов «Боцман з «Тумана», 1957)
+    - |
+         [Норвегія]Comparee в порівнянні з [іншими країнами Європи]Standart до теперішнього часу [успішно справляється з пандемією коронавирусу]Property. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+    - |
+         Також [зменшився]Property [рівень оптимізму]Comparee в порівнянні з [попередніми двома роками]Standart. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         Та що [варті]Property [сліди]Comparee якогось там слона чи навіть мамонта, коли хочете знати, в порівнянні з [його відкриттям]Standart! (Андрій Гуляшки, «Коштовний камінь», 1958)
+    - |
+         В порівнянні з [іншими слов'янськими мовами]Standart [розвиток сучасної української мови]Comparee [має багато паралелей з історією сербо-хорватської літературної мови]Property. (Юрій Шевельов «Внесок Галичини у формування української літературної мови», 1944)
+  morphology:
+    - Cl
+    - NP
+    - Ins
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Property
+    - Comparee
+    - Standard
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X in comparison with Y
+    - russian: |
+         Cl по сравнению с NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Contrast
+34:
+  name: "VP/NP по відношенню до NP-Gen"
+  illustration: "Бути справедливим по відношенню до всіх і відповідальним."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що деяка [дія]Action спрямована на [учасника]Addressee або [групу учасників]Addressee. Конструкція може також вказувати на [учасника або об'єкт]Parameter, про який висловлюється [певна думка]Evaluation.
+    - english: |
+         The construction means that some [action]Action is directed to [participant]Addressee or [participant group]Addressee. The construct can also point to the [participant or object]Parameter about which the [certain opinion]Evaluation is expressed.
+    - russian: |
+         Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee. Конструкция может также указывать на [участника или объект]Parameter, о котором высказывается [определенное суждение]Evaluation.
+  examples:
+    - |
+         «[Моя надмірно емоційна реакція і нестримана поведінка]Action по відношенню до [журналістів]Addressee не мають виправдання», — заявив він. (Журнал «НВ», 2021 )
+    - |
+         Ці компанії [повели себе невідповідально]Action по відношенню до [своїх клієнтів]Addressee, виставили їм рахунки, які не мали права виставляти. (Онлайн-ЗМІ «Главком», 2022)
+    - |
+         Ми ж зі своєї сторони поводимося вкрай толерантно й просимо своїх сусідів [поводитися]Action по відношенню до [нашої країни]Addressee так само толерантно. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         [Це не дуже правильно]Action по відношенню до [читачів]Addressee. (Онлайн-ЗМІ «UNIAN.NET», 2010)
+    - |
+         По відношенню до [тих керівників]Addressee, що не виконають завдань, я [буду ініціювати самі різноманітні заходи кадрового і правового порядку]Action. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2011)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Action
+    - Addressee
+    - Parameter
+    - Evaluation
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X in relation to Y
+    - russian: |
+         VP/NP в отношении NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Addressee
+      subtypes:
+        - type: Core Addressee
+    - type: Salient property
+      subtypes:
+        - type: Domain
+35:
+  name: "незважаючи на NP-Acc, Cl"
+  illustration: "Незважаючи на втому, ніяк не можу заснути."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+    - english: |
+         The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+    - russian: |
+         Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+  examples:
+    - |
+         Hезважаючи на [такі застереження]Situation, [будинок таки був зведений]Event. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         Однак незважаючи на [не найкращі умови для гри після опадів]Situation, [команди заграли результативніше]Action. (Журнал «НВ», 2020)
+    - |
+         Та, незважаючи на [обіцянки й погрози]Situation, [справа просувається вперед дуже повільно]Event. (Ярослав Галан «Годі!», 1950)
+    - |
+         Чорнобильська зона, незважаючи на [всі небезпеки, які вона таїть у собі]Situation, [як магнітом притягує туристів]Action. (Інтернет-газета «Україна молода», 2017)
+    - |
+         Незважаючи на [втішні дані і невелику кількість носіїв вірусу]Situation, влада поки не скасовує масковий режим. (Інтернет-газета «Високий замок», 2021)
+  morphology:
+    - NP
+    - Acc
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Negation
+    - Multiword Preposition
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Situation
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         despite X, in spite of X
+    - russian: |
+         Несмотря/Невзирая на NP-Acc, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+36:
+  name: "з іншого боку XP/Cl"
+  illustration: "З іншого боку, що ж їй було робити... перед нею не було ніякого іншого виходу."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція вводить [ствердження]ContentOfSpeech, яке дозволяє подивитися на тему з різних, часто протилежних, точок зору. Мовець, озвучує альтернативну позицію. Іноді у першій частині конструкції можуть бути слова "З одного боку".
+    - english: |
+         The construction introduces [assertions]ContentOfSpeech, which allow to look at the topic from different, often opposing, points of view. The speaker voices  alternatives. Sometimes The construct introduces the [statement] ContentOfSpeech, which allows you to look at the topic from different, often opposite, points of view. The speaker voices an alternative position. Sometimes the constructions can have the words "on the one hand" in the first part.
+    - russian: |
+         Конструкция вводит [утверждение]ContentOfSpeech, позволяющее посмотреть на тему с разных, часто противоположных, точек зрения. Говорящий  озвучивает альтернативную позицию. Иногда в первой части конструкции могут быть слова "с одной стороны".
+  examples:
+    - |
+         З одного боку [ми будуємо церви – і це добре]ContentOfSpeech, але з іншого боку [ми не будуємо шкіл, дошкільних закладів – і це дуже погано]ContentOfSpeech. (Інтернет-газета «Фіртка», 2012)
+    - |
+         Звісно, нам іще багато вчитися, працювати, зростати, і зараз є висока готовність західних викладачів безкоштовно вчити й супервізувати нас. З іншого боку, [ми стаємо психотерапевтами не на семінарах, а у роботі з нашими пацієнтами]ContentOfSpeech, коли здобуваємо практичний досвід допомоги. (Онлайн-ЗМІ «The Ukrainians», 2022)
+    - |
+         А з іншого боку, [якщо навіть гіпотетично припустити, що одне колесо можна замінити на запасне]ContentOfSpeech, то що робити з другим? (Брати Капранови «Забудь-річка», 2016)
+    - |
+         З огляду на критичну ситуацію в економіці, війну на сході країни та анексію Криму, вже другий рік поспіль українці шукають нові локації для дослідження та відпочинку. З іншого боку, [це дає хороший шанс детальніше вивчити туристичний потенціал України] ContentOfSpeech. (Газета «День», 2015)
+    - |
+         В глибині душі я розумію його зневіру і образу на лідерів, які бездарно втратили те, що ми здобули. Але, з іншого боку, [мене обурює така безвідповідальність]ContentOfSpeech. (Інтернет-газета «Високий замок», 2010)
+  morphology:
+    - XP
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         on the other hand X
+    - russian: |
+         С одной стороны, XP/Cl. С другой (стороны), XP/Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Contrast
+    - type: Discourse structure
+      subtypes:
+        - type: Sequence
+37:
+  name: "NP-Nom включає в себе NP-Acc"
+  illustration: "Дослідження включає в себе три фази."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція позначає або перераховує [кілька елементів]Element, що входять до деякої [множини]Set. Зазвичай елементами є неживі об'єкти або абстрактні поняття.
+    - english: |
+         The construction denotes or enumerates [multiple elements]Element included in some [set]Set. Usually, elements are inanimate objects or abstract concepts.
+    - russian: |
+         Конструкция обозначает или перечисляет [несколько элементов]Element, входящих в некоторое [множество]Set. Обычно элементами являются неодушевленные объекты или абстрактные понятия.
+  examples:
+    - |
+         [Програма]Set включає в себе [розробку нових видів ліків і засобів боротьби з малярією]Element. (Онлайн-ЗМІ «Громадське телебачення», 2016)
+    - |
+         [Алгоритм реєстрації]Set транспортного засобу включає в себе також [закріплення за транспортним засобом номерних знаків]Element. (Онлайн-ЗМІ «Вінниця.інфо», 2022)
+    - |
+         [Документ]Set, зокрема, включає в себе [виділення $ 300 млн]Element на потреби української армії. (Журнал «НВ», 2019)
+    - |
+         [Акватлон]Set включає в себе лише [плавання та біг]Element. (Онлайн-ЗМІ «ПРОЧЕРК.інфо», 2014)
+    - |
+         [Внутрішній трудовий розпорядок]Set, що встановлюється кожним роботодавцем, включає в себе [режим робочого часу]Element. (Ірина Саленко, «ПРАВОВЕ РЕГУЛЮВАННЯ РАЦІОНАЛЬНОГО ВИКОРИСТАННЯ РОБОЧОГО ЧАСУ», 2019)
+  morphology:
+    - NP
+    - Nom
+    - Acc
+  syntactic_type_of_construction:
+    - Predicate Argument Construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - Argument Structure
+  part_of_speech_of_anchor:
+    - Verb
+    - Preposition
+    - Pronoun
+  semantic_roles:
+    - Element
+    - Set
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X includes Y
+    - russian: |
+         NP-Nom включать в себя NP-Acc
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Inclusive
+      subtypes:
+        - type: Inclusive
+    - type: Salient property
+      subtypes:
+        - type: Property assignment
+    - type: Subset
+38:
+  name: "час від часу Cl"
+  illustration: "Час від часу він подає на академічні виставки свої роботи."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що [деяка ситуация]Situation має місце багаторазово, але рідше, ніж очікується, не часто, іноді.
+    - english: |
+         This construction indicates that a given [situation]Situation occurs multiple times, but not as often as expected, only sometimes.
+    - russian: |
+         Конструкция обозначает, что [некоторая ситуация]Situation имеет место многократно, но реже, чем ожидается, не часто, иногда.
+  examples:
+    - |
+         Думки Софії час від часу [поверталися до цього питання]Situation, але вона залишала його на потім. (Сергій Шарик «Двічі графиня та двічі генерал», 2014)
+    - |
+         Час від часу письменник [висвітлює]Action події в Україні на своїй сторінці в соцмережах. (Онлайн-ЗМІ «ТСН», 2022)
+    - |
+         Біля банкетного залу є великий танцювальний майданчик, де час від часу [грає жива музика]Situation. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2012)
+    - |
+         Час від часу вони [поглядали на хату]Situation, з якої долітали крики і музика. (Дмитро Білий «Басаврюк XX», 1999)
+    - |
+         Настя намагалася уникати розмов про розбіжності у поглядах, але час від часу вони знову [поверталися]Action до неприємних обом бесід. (Світлана Талан «Оголений нерв», 2015)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Reduplication
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         from time to time X
+    - russian: |
+         время от времени Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Pluractionality
+      subtypes:
+        - type: Raritive
+39:
+  name: "VP відповідно до NP-Gen"
+  illustration: "Переходимо до розгляду питань відповідно до порядку денного."
+  cefr_level: C1
+  definitions:
+    - ukrainian: |
+         Конструкція застосовується для позначення узгодженості між [об'єктом]Topic та [затвердженням]ContentOfSpeech.
+    - english: |
+         This construction is used to indicate congruence between an [object]Topic and an [assertion]ContentOfSpeech.
+    - russian: |
+         Конструкция применяется для обозначения согласованности между [объектом]Topic и [утверждением]ContentOfSpeech.
+  examples:
+    - |
+         [Я діяв]ContentOfSpeech відповідно до [батькових бажань]Topic і навіть не думав, щоб хоч якось обмовитись про те, що хочу стати актором. (Артем Чех «Пластик», 2008)
+    - |
+         Відповідно до [вимог]Topic, які встановило Міністерство охорони здоров'я, [у таких містах заборонена робота магазинів і торгових центрів]ContentOfSpeech. (Онлайн-ЗМІ «Zaxid.net», 2020)
+    - |
+         [На першому етапі оберуть кількість дільниць]ContentOfSpeech відповідно до [відсотка виборців у цій області]Topic. (Інтернет-газета «Високий замок», 2019)
+    - |
+         Він підтвердив, що відповідно до [контрактів]Topic [група працівників має отримати 1 % від виграних грошей]ContentOfSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         Також, відповідно до [цієї концепції]Topic, [він не намагався об'єднати та систематизувати різні ідеї власного вчення]ContentOfSpeech. (Микола Рик «СИМВОЛІЗМ У ТВОРЧОСТІ Г. СКОВОРОДИ: РЕЛІГІЄЗНАВЧИЙ АНАЛІЗ», 2019)
+  morphology:
+    - VP
+    - NP
+    - Ins
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Adverb
+  semantic_roles:
+    - Topic
+    - ContentOfSpeech
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X according to Y
+    - russian: |
+         VP в соответствии с NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Manner
+    - type: Source of information
+40:
+  name: "незважаючи на те, що Cl, Cl"
+  illustration: "І незважаючи на те, що ситуація є складною, треба зберігати спокій."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+    - english: |
+         The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+    - russian: |
+         Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+  examples:
+    - |
+         Так, незважаючи на те, що [зверху невпинно смалило сонце]Situation, ноги у всіх задубіли. (Сергій Плачинда «Космоград», 1959)
+    - |
+         Я прийшов на цю акцію, незважаючи на те, що [у нас можуть бути різні погляди]Situation. (Журнал «НВ», 2020).
+    - |
+         Але я одягнув пальто й помчав щодуху додому, незважаючи на те, що [на мені був мокрий одяг, а надворі був мороз і вітер]Situation. (Леонід Смілянський «Сашко», 1950)
+    - |
+         Багатьох журналістів затримували, незважаючи на те, що [у них були прескарти, редакційні завдання і жилети з написом «Преса»]Situation. (Онлайн-ЗМІ «LB.ua», 2021)
+    - |
+         Незважаючи на те, що [я зараз відчуваю себе щасливим]Situation і знаю про безліч переваг, які я отримав, я в той же час наляканий. (Журнал «НВ», 2020).
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+    - Negation
+  part_of_speech_of_anchor:
+    - Converb
+    - Preposition
+    - Pronoun
+  semantic_roles:
+    - Situation
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         despite the fact that X
+    - russian: |
+         несмотря/невзирая на то, что Cl, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+41:
+  name: "за рахунок NP-Gen"
+  illustration: "Бібліотека зростала тільки за рахунок пожертв громадян та обміну з іншими науковими установами."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція вказує на те, що [деяка ситуація]Situation має місце за наявності [певних супутніх обставин]Condition.
+    - english: |
+         This construction indicates that [certain circumstances]Condition make it possible for a [certain]Situation to occurs.
+    - russian: |
+         Конструкция указывает на то, что [некоторая ситуация]Situation имеет место при наличии [определенных сопутствующих обстоятельств]Condition.
+  examples:
+    - |
+         За рахунок [цього фонду]Condition [було придбано одяг та взуття]Situation для 34 дітей. (Іван Клімаш та ін. «Історія міст і сіл Української РСР. Волинська область», 1970)
+    - |
+         Атомний годинник не є сьогоднішнім відкриттям. Такий механізм [вимірює час]Situation, за рахунок [впливу лазера на атоми металу]Condition, які миттєво переходять з одного енергетичного стану в інший. (Журнал «НВ», 2018)
+    - |
+         Такого [результату досягнуто]Situation, перш за все, за рахунок [зростання обсягів транзиту газу]Condition. (Онлайн-ЗМІ «Економічна правда», 2017).
+    - |
+         [Купівля іноземної валюти]Situation за рахунок [власних коштів банків]Condition не допускається. (Онлайн-ЗМІ «Zaxid.net», 2009)
+    - |
+         Для того, щоб працювати на повну силу і тверезо оцінювати можливості, організму потрібне якісне і постійне підживлення. [Забезпечте її собі]Situation за рахунок [позитивних емоцій і здорового способу життя]Condition. (Журнал «НВ», 2020).
+  morphology:
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Situation
+    - Condition
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         thanks to, due to X
+    - russian: |
+         за счет NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Condition
+42:
+  name: "та ще й NP Cl"
+  illustration: "І дитина, і дорослий завжди зрадіють ласощам, та ще й в гарній упаковці!"
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот ХР зазвичай заповнюється іменною чи дієслівною групою або прикметником.
+    - english: |
+         Thе construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The most common filler for the XP slot is a noun phrase, a verb phrase or an adjective.
+    - russian: |
+         Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот ХР обычно заполняется именной или глагольной группой или прилагательным.
+  examples:
+    - |
+         Сама ті вареники й виробила, та ще й [рідних пригостила]ContentofSpeech. (Газета «Вінниччина», 2015)
+    - |
+         Подивіться, яку класну сукню представили дизайнери. Та ще й [колір, який в тренді]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         То як зорієнтуватися, де купити житло, та ще й [зробити це вигідно]ContentofSpeech? (Онлайн-ЗМІ «Економічна правда», 2018)
+    - |
+         Я був вельми подивований: гість, та ще й [така поважна людина]ContentofSpeech, і такий простий, доступний. (Любомир Полюга «Шляхами спогадів», 1990)
+    - |
+         Більшість новоприбулих до Канади були людьми неосвіченими. Якщо й говорили англійською, то ледь-ледь, та ще й [зі страшним акцентом]ContentofSpeech. (Інтернет-газета «Україна молода», 2011)
+  morphology:
+    - NP
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Adverb
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         and even X
+    - russian: |
+         да еще и NP Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+43:
+  name: "XP/Cl так само як XP/Cl"
+  illustration: "Подати заявки батьки зможуть зразу у декілька дитсадків, так само як зі школою."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція виражає порівняння і підкреслює ідентичність [стану одного учасника або його манери виконувати дію]Comparee подібно до [стану іншого учасника або його манері виконувати дію]Standard. Конструкція може позначати ідентичність стану або манери виконання дії одним і тим же учасником у різні моменти часу, як раніше.
+    - english: |
+         The construction expresses a comparison and emphasizes the identity of [the state of one participant or his manner of performing an action]Comparee similar to [the state of another participant or his manner of performing an action]Standard. The construction can denote the identity of the state or manner of performing an action by the same participant at different moments in time, as before
+    - russian: |
+         Конструкция выражает сравнение и подчеркивает идентичность [состояния одного участника или его манеры выполнять действие]Comparee подобно [состоянию другого участника или его манере выполнять действие]Standard. Конструкция может обозначать идентичность состояния или манеры выполнения действия одним и тем же участником в разные моменты времени, как раньше.
+  examples:
+    - |
+         Коли долоня відмилась від бруду, там так само як і [раніше]Standart [залишився напис]Comparee, здається, він навіть світився. (Василь Тибель «Примари Пустомитського болота», 2016)
+    - |
+         [Куплені раніше старі квитки на проїзд у наземному транспорті чинні до кінця липня]Comparee, так само як і [раніше куплені проїзні]Standart. (Газета «Свобода», 2018)
+    - |
+         Так само як і [раніше]Standart, [абсолютна більшість відмов стаються на наземному кордоні]Copmaree. (Онлайн-ЗМІ «Європейська правда», 2019)
+    - |
+         [Акторка]Comparee тримала у секреті цю новину, так само як і [її близькі друзі та рідні]Standart. (Онлайн-ЗМІ «Табло ID», 2010)
+    - |
+         Жодних імен правоохоронці [не уточнили]Comparee, так само як і [не зазначили]Standart чи затримано усіх учасників схеми. (Онлайн-ЗМІ «Zaxid.net», 2020)
+  morphology:
+    - XP
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Pronoun
+    - Particle
+    - Conjunction
+  semantic_roles:
+    - Comparee
+    - Standard
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X the same as Y
+    - russian: |
+         XP/Cl так же, как (и) XP/Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Equality
+44:
+  name: "так би мовити, XP"
+  illustration: "Коментарі, так би мовити, зайві."
+  cefr_level: C1
+  definitions:
+    - ukrainian: |
+         Конструкція вживається при бажанні висловитися більш точно, точніше охарактеризувати [що-небудь]Theme. Також вживається як [застереження]Theme, пом'якшувальну рішучість якого л. затвердження.
+    - english: |
+         The construction is used when the speaker wants to express their thoughts more precisely, to characterize [something]Theme more precisely. Also the construction is used as a [disclaimer]Theme to soften one's resolution.
+    - russian: |
+         Конструкция используется при желании выразиться более точно, точнее охарактеризовать [что-нибудь]Theme. Также используется как [оговорка]Theme, смягчающую решимость некого утверждения.
+  examples:
+    - |
+         Одне з питань розглядатиметься, так би мовити, [заднім числом]Theme. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2017)
+    - |
+         Це для мене, як журналіста, був буденний факт, [робочий, так би мовити, момент]Theme. (Газета «День», 2002)
+    - |
+         Зрештою, всі ми живемо, так би мовити, [у спільній оселі]Theme — Європі, на одній планеті. (Євген Пащенко «На шляху до взаємного пізнання», 1950)
+    - |
+         Вона повинна запам'ятовуватися, бути яскравою, концертною і бути, так би мовити, [«на слуху»]Theme. (Онлайн-ЗМІ «Житомир.info», 2009)
+    - |
+         Вже весною ці рослини мають знову, так би мовити, [“ожити”]Theme. (Онлайн-ЗМІ «Індустріалка», 2022)
+  morphology:
+    - XP
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Pronoun
+    - Verb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         so to say X
+    - russian: |
+         так сказать, XP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Intersubjectivity
+45:
+  name: "VP в повному обсязі"
+  illustration: "Відсотки також будуть нараховані в повному обсязі."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що деяка [подія]Action виконується без будь-яких обмежень, повністю, нічого не виключаючи.
+    - english: |
+         The construction means that some [action]Action is performed without any restrictions, completely, with nothing excluded.
+    - russian: |
+         Конструкция означает, что некоторое [действие]Action выполняется без каких-либо ограничений, полностью, ничего не исключая.
+  examples:
+    - |
+         Усім їм було в повному обсязі [надано невідкладну медичну допомогу]Action. (Онлайн-ЗМІ «UNIAN.NET», 2014)
+    - |
+         На жаль, я [не можу пояснити ситуації]Action в повному обсязі, бо й сам керуюся лише вказівками згори. (Юрій Дольд-Михайлик «У чорних лицарів», 1964)
+    - |
+         Уряд [забезпечить їх усіма необхідними засобами індивідуального захисту]Action в повному обсязі. (Онлайн-ЗМІ «LB.ua», 2020)
+    - |
+         Після оформлення декретної відпустки на батька [грошова допомога буде надаватися йому]Action в повному обсязі. (Онлайн-ЗМІ «LB.ua», 2019).
+    - |
+         Українські фахівці в повному обсязі [забезпечили виконання всіх операцій]Action у своєму секторі відповідальності. (Онлайн-ЗМІ «Мілітарний», 2021)
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Adjective
+    - Noun
+  semantic_roles:
+    - ~
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X in full
+    - russian: |
+         VP в полной мере
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Measure
+      subtypes:
+        - type: Unrestricted domain
+46:
+  name: "у випадку NP-Gen Cl"
+  illustration: "Відпустки надаються лише у випадку хвороби."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція вказує на те, що [деяка ситуація]Situation має місце за наявності [певних супутніх обставин]Condition.
+    - english: |
+         The construction indicates that [certain]Situation occurs under [certain circumstances]Condition.
+    - russian: |
+         Конструкция указывает на то, что [некоторая ситуация]Situation имеет место при наличии [определенных сопутствующих обстоятельств]Condition.
+  examples:
+    - |
+         Крім цього, створено достатній запас ліків, і у випадку [якогось гострого захворювання]Condition [пацієнту буде чим допомогти]Situation. (Газета «Вінниччина», 2015)
+    - |
+         [Інформація на карті буде оновлюватися]Situation у випадку [отримання людиною певних пільг або послуг]Condition. (Онлайн-ЗМІ «Економічна правда», 2011)
+    - |
+         Він закликав громадян утриматися від відвідання лісів у період пожежної небезпеки, а у випадку, [якщо вони все-таки йдуть у ліс]Condition, [дотримуватися заходів пожежної безпеки]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2010)
+    - |
+         У випадку, [якщо хоча б один член комісії не згоден з рішенням]Condition, яке пропонується до ухвалення, [воно вважається не прийнятим]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         Крім цього, у випадку [лиха]Condition [реєстрація туристичних груп скорочує час пошуку заблукалих чи постраждалих]Situation у незнайомій місцевості людей. (Інтернет-газета «Версії», 2019)
+  morphology:
+    - NP
+    - Gen
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Situation
+    - Condition
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         in case of X
+    - russian: |
+         в случае NP-Gen Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Condition
+47:
+  name: "(мова) (NP-Nom) йдеться про (те, що) ХР, Cl"
+  illustration: "А в цьому проекті мова йдеться про дуже прості речі."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція виділяє деяке [ствердження]ContentOfSpeech як важливе для того, хто говорить, яке він хоче пояснити або наголосити.
+    - english: |
+         The construction singles out some [statement]ContentOfSpeech as important to the speaker that he wants to explain or highlight.
+    - russian: |
+         Конструкция выделяет некоторое [утверждение]ContentOfSpeech как важное для говорящего, которое он хочет объяснить или выделить.
+  examples:
+    - |
+         Тому від України на цьому етапі вимагаються передусім терпіння та витривалість, оскільки йдеться про [довгострокову стратегію]ContentofSpeech. (Максим Віхров «Геополітика. Втримати штурвал», 2019)
+    - |
+         В угоді також йдеться про [намір зберегти транзит газу через Україну]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+    - |
+         Але залежними від погодних умов нерідко є й представники сильної статі. Передусім йдеться про тих, [хто страждає на хвороби серцево-судинної системи]ContentofSpeech. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2013)
+    - |
+         Франція пожертвує удвічі більше вакцин від коронавірусу, ніж планувала. Йдеться про [60 млн доз]ContentofSpeech. (Онлайн-ЗМІ «LB.ua», 2021)
+    - |
+         Зокрема, в заяві йдеться про те, що [створення нового турніру шкідливо вплине на розвиток футболу]ContentofSpeech. (Онлайн-ЗМІ «LB.ua», 2021)
+  morphology:
+    - ХР
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Verb
+    - Object
+  part_of_speech_of_anchor:
+    - Noun
+    - Verb
+    - Preposition
+    - Pronoun
+    - Conjunction
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         the topic is about X
+    - russian: |
+         речь Cop о том, что Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Emphasis
+48:
+  name: "Cl, (але) швидше за все Cl"
+  illustration: "Швидше за все, це відбудеться 11 серпня."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція позначає [ситуацію]Situation, яка з великою ймовірністю може статися на думку мовця.
+    - english: |
+         The construction denotes a [situation]Situation, which, according to the speaker, is highly likely to occur.
+    - russian: |
+         Конструкция обозначает [ситуацию]Situation, которая с большой вероятностью может произойти по мнению говорящего.
+  examples:
+    - |
+         Швидше за все, [саме ці люди вже повірили в себе й у свою країну]Situation. (Газета «День», 2006)
+    - |
+         Справа, швидше за все, [буде передана на подальший розгляд до Верховного Суду]Situation. (Газета «День», 2011)
+    - |
+         Причому, [як і у випадку з готелями]Situation, швидше за все, [туристів будуть цікавити найбільш доступні пропозиції]Situation. (Онлайн-ЗМІ «Економічна правда», 2012)
+    - |
+         За словами міністра, запис, швидше за все, [був зроблений та оприлюднений в інтернеті на чиєсь замовлення]Situation. (Онлайн-ЗМІ «Європейська правда», 2018)
+    - |
+         Якщо у вас ще немає відносин, швидше за все [ви зустрінете свою другу половинку]Situation. (Журнал «НВ», 2012)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Adverb
+    - Pronoun
+  semantic_roles:
+    - Situation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         most likely X
+    - russian: |
+         Cl, а/но скорее всего Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: High degree of certainty
+49:
+  name: "як то кажуть XP"
+  illustration: "У житті все може статися. Як то кажуть, ніколи не кажи ніколи."
+  cefr_level: C2
+  definitions:
+    - ukrainian: |
+         Конструкція виділяє у тексті [формулювання]Theme, яку вибирає мовець для висловлювання своєї думки. Мовець апелює до широко відомого поширеного виразу, що вживається в переносному значенні, є ідіомою або терміном.
+    - english: |
+         The construction highlights in the text [an expression]Theme that the speaker chooses to express his opinion. The speaker refers to a well-known common expression used in a figurative sense, is an idiom or a term.
+    - russian: |
+         Конструкция выделяет в тексте [некоторую формулировку]Theme, которую выбирает говорящий для выражения своей мысли. Говорящий апеллирует к широко известному расхожему выражению, которое употребляется в переносном смысле, является идиомой или термином.
+  examples:
+    - |
+         Може, я щось пропустив, таж ні, немає нічого. Як то кажуть, [коментарі тут зайві]Theme. (Газета «День», 2016)
+    - |
+         І це ж, навєрно, не буде нікого вже? Це вже як то кажуть, [кінець світа чи шо]Theme? («Усна історія Степової України. Том 8», 2001)
+    - |
+         Та тепер нічого не вдієш. Як то кажуть, [від долі не втечеш нікуди]Theme. (Валентин Ціпко «Азербайджанські народні казки», 1991)
+    - |
+         Суддя зафіксував положення поза грою. [Йому, як то кажуть, видніше]Theme. (Газета «День», 1998)
+    - |
+         Так Міша відбув служби цілий рік на місці — [від дзвінка, як то кажуть, до дзвінка]Theme. (Ірина Вовк «На щиті. Спогади родин загиблих воїнів. Дебальцеве», 202)
+  morphology:
+    - XP
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Pronoun
+    - Verb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         as they say
+    - russian: |
+         как говорится, XP
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Intersubjectivity
+50:
+  name: "не лише XP, а (й) XP"
+  illustration: "Яна і Віталій — не лише колеги по роботі, а й давні друзі."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція вводить [інформацію]ContentOfSpeech, яка доповнює сказане раніше. Слот XP заповнюється іменною групою, прийменниковою групою, прикметником або дієслівною групою.
+    - english: |
+         This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot fills with a noun phrase, a prepositional phrase, an adjective or a verb phrase.
+    - russian: |
+         Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот XP заполняется именной группой, предложной группой, прилагательным или глагольной группой.
+  examples:
+    - |
+         Це невеличкий театр-студія для молоді. Там працювали і вчилися не лише [діти]ContentofSpeech, а й [дорослі]ContentofSpeech. (Інтернет-газета «Високий замок», 2012)
+    - |
+         Тут можна не лише [мріяти]ContentofSpeech, а й [реально будувати плани]ContentofSpeech, (Інтернет-газета «Високий замок», 2006)
+    - |
+         У межках святкування відбуваються не лише [лекції та освітні заходи]ContentofSpeech, а й [яскраві торжества, ярмарки та кінопокази]ContentofSpeech. (Інтернет-газета «День», 2020)
+    - |
+         Оскаржуючи це рішення я намагаюсь не лише [захистити свої права]ContentofSpeech, але й [відстояти принципи правосуддя]ContentofSpeech. (Онлайн-ЗМІ «UNIAN.NET», 2011)
+    - |
+         Це війна не лише [за майбутнє України]ContentofSpeech, а й [за долю цивілізації]ContentofSpeech. (Онлайн-ЗМІ «Детектор медіа», 2020)
+  morphology:
+    - XP
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Coordinator
+  syntactic_structure_of_anchor:
+    - Negation
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Negation Marker
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         not only X, but also Y
+    - russian: |
+         не только XP, но и XP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Discourse additive
+51:
+  name: "на перший погляд, Cl"
+  illustration: "На перший погляд удома нічого не змінилося."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується для визначення початкової, часто суб'єктивної [оцінки]Evaluation об'єкта або учасника, яка не завжди відповідає дійсності та в наслідку може змінитися.
+    - english: |
+         The construction is used to determine the initial, often subjective [estimate]Evaluation of an object or participant, which does not always correspond to reality and may change as a result.
+    - russian: |
+         Конструкция используется для выражения первоначальной, часто субъективной [оценки]Evaluation объекта или участника, которая не всегда соответствует действительности и впоследствии может измениться.
+  examples:
+    - |
+         На перший погляд, [процес переходу відбувається не дуже швидко]Evaluation. Між тим, це зрозуміло, бо перехід – справа не одного дня. (Онлайн-ЗМІ «Челайн», 2022)
+    - |
+         На перший погляд [може здатися, що рецепт щастя для автомобілістів знайдений]Evaluation. Проте, масової відмови від звичайного пального не спостерігається. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+    - |
+         На перший погляд, [руйнувань у місті не видно]Evaluation. Але достатньо відійти від вокзалу й починають частіше траплятися житлові будинки з вибитим склом і почорнілими від пожеж стінами. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+    - |
+         [Злодії]Agent [діють]Action від імені [магазину, компанії чи соціальної установи]Counteragent. (Онлайн-ЗМІ «Gazeta.ua», 2022)
+    - |
+         Цей візит на перший погляд [міг би здатися звичайним дипломатичним візитом]Evaluation в азійському турне делегації конгресменів. (Онлайн-ЗМІ «Європейська правда», 2022)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Numeral
+    - Noun
+  semantic_roles:
+    - Evaluation
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         at first glance
+    - russian: |
+         на первый взгляд, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Contrast
+    - type: Discourse structure
+      subtypes:
+        - type: Equivocate
+52:
+  name: "VP від імені NP-Gen"
+  illustration: "Я хочу вам подякувати від себе і від імені всіх тих, хто мене сюди направив."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що [учасник]Agent [говорить або діє]Action замість [групи людей або організації]Counteragent, за їх згодою або за їх дорученням.
+    - english: |
+         The construction denotes that the [participant]Agent [speaks or performs]Action instead of [group of people or organization]Counteragent, with their consent or on their behalf.
+    - russian: |
+         Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [группы людей или организации]Counteragent, с их согласия или по их поручению.
+  examples:
+    - |
+         При цьому [він]Agent підкреслив, що [не може говорити]Action від імені [всієї асоціації]Counteragent. (Журнал «НВ», 2019)
+    - |
+         Тому [представники київських профспілок]Agent кажуть, що [виступають]Action від імені [всіх працівників ВНЗ та студентів країни]Counteragent. (Інтернет-газета «Україна молода», 2013)
+    - |
+         Що про неї [можна сказати]Action, крім похвали і подяки від імені [науки]Counteragent! (Ольга Гончар «Микола Костомаров: постать історика на тлі епохи», 2017)
+    - |
+         А від імені [народу]Counteragent [виступає]Action Верховна Рада. (Стенограми засідань Верховної Ради України, 1994)
+    - |
+         З новин в українських медіа [мені]Agent [стало відомо]Action, що Вам було направлено лист, написаний нібито від імені [трудового колективу телеканалу]Counteragent. (Онлайн-ЗМІ «LB.ua», 2013)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Agent
+    - Action
+    - Counteragent
+  intonation:
+    - Not applicable
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         on behalf of X
+    - russian: |
+         VP от имени NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Non-Standard Subject
+      subtypes:
+        - type: Subject substitution
+53:
+  name: "NP імені NP-Gen"
+  illustration: "У парку імені Івана Франка у Львові тривають масштабні роботи з благоустрою парку."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що [будь-яка громадська територія (вулиця, площа тощо), установа або колектив людей]Theme названі на честь [відомої людини, якої, найчастіше, вже немає в живих.]Name
+    - english: |
+         The construction means that [any public area (street, square, etc.), institution or group of people]Theme is named after [a famous person, who, most often, is no longer alive.]Name
+    - russian: |
+         Конструкция обозначает, что [какая-либо общественная территория (улица, площадь и т. п.), учреждение или коллектив людей]Theme названы в честь [известного человека, которого, чаще всего, уже нет в живых.]Name
+  examples:
+    - |
+         Святкові заходи відбудуться також у [Центральному парку культури та відпочинку]Theme імені [Лесі Українки]Name та в Луцькому замку. (Онлайн-ЗМІ «UNIAN.NET», 2013)
+    - |
+         Раніше повідомлялося, що в Києві до 30 серпня частково обмежать рух транспорту на [мосту]Theme імені [Патона]Name. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+    - |
+         У Вінниці відзавтра відновлює роботу [академічний театр]Theme імені [Садовського]Name. (Онлайн-ЗМІ «Вежа», 2022)
+    - |
+         Про це інформує [Полтавська обласна лікарня]Theme імені [М. В. Скліфосовського]Name. (Онлайн-ЗМІ «Kolo.news», 2022)
+    - |
+         Бо він працював на [шахті]Theme імені [Засядька]Name. (Газета «День», 2016)
+  morphology:
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Noun
+  semantic_roles:
+    - Theme
+    - Name
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X named by Y
+    - russian: |
+         NP имени NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Naming
+54:
+  name: "в результаті VP"
+  illustration: "Батьки забезпечують добробут дітей, а ті в результаті виростають успішнішими."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що така ситуація відбувається внаслідок деяких дій, будучи їх [закономірним результатом]Result.
+    - english: |
+         The construction is used to denote that a certain situation occurs as a result of some actions, being their [predictable result]Result.
+    - russian: |
+         Конструкция обозначает, что описываемая ситуация происходит вследствие некоторых действий, являясь их [закономерным итогом]Result.
+  examples:
+    - |
+         КомпаніяAndaAir, рейс якої раніше призначили на 11:00, також переносили безліч разів. В результаті [пасажирам оголосили, що вони зможуть вилетіти в 00:00, проте попередили, що час може знову змінитися]Result. (Журнал «НВ», 2018)
+    - |
+         Канада і Мексика висловили невдоволення новим законом, оскільки в результаті [США скоротили імпорт великої рогатої худоби і свиней]Result із цих країн. (Онлайн-ЗМІ «LB.ua», 2015)
+    - |
+         Нагадаємо, що 15 квітня в соборі Нотр-Дам в Парижі спалахнула пожежа. В результаті [обвалилися шпиль та дах собору]Result. (Журнал «НВ», 2019)
+    - |
+         Громадянська війна в Сирії триває з 2011 року, в результаті [загинули понад 400 тисяч осіб]Result. (Онлайн-ЗМІ «LB.ua», 2019)
+    - |
+         Киянка випробувала на собі німецькі і американські ліки. В результаті [вона забула про колишні болі]Result. (Oнлайн-ЗМІ «UNIAN.NET», 2008)
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Result
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         as a result of X
+    - russian: |
+         в результате VP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Result
+      subtypes:
+        - type: Achieved Result
+55:
+  name: "VP в результаті NP-Gen"
+  illustration: "В результаті інциденту поранення отримали чотири людини."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що деяка [дія]Action або [подія]Event призводить до [певної ситуації]Result.
+    - english: |
+         The construction is used to denote that some [action]Action or [event]Event leads to a [certain situation]Result.
+    - russian: |
+         Конструкция обозначает, что некоторое [действие]Action или [событие]Event приводит к [определенной ситуации]Result.
+  examples:
+    - |
+         В результаті [вибуху]Event [були розбиті кілька вікон]Result. (Журнал «НВ», 2019)
+    - |
+         В результаті [професійних дій]Action в ході пошукових заходів [правоохоронці вийшли на слід нападника]Result. (Інтернет-газета «Фіртка», 2018)
+    - |
+         Попередньо встановлено, що [пожежа сталася]Result в результаті [замикання електромережі]Event, повідомляється на сайті поліції. (Онлайн-ЗМІ «LB.ua», 2016)
+    - |
+         В результаті [утеплення]Event [вартість опалення зменшиться на 25 %]Result. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         В результаті [дії вогню та високої температури]Event [знищено два та пошкоджено три автомобілі]Result, йдеться у повідомленні. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Action
+    - Event
+    - Result
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         Y as a result of X
+    - russian: |
+         VP в результате NP-Gen
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Cause
+    - type: Result
+      subtypes:
+        - type: Achieved Result
+56:
+  name: "XP само як (і) XP"
+  illustration: "Моє містечко було маленьким,так само як і його мислення."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція виражає порівняння та підкреслює рівнозначність [одного об'єкта, учасника, властивості або дії]Comparee [іншому об'єкту, учаснику, властивості або дії]Standard.
+    - english: |
+         This construction expresses a comparison and emphasizes an equivalence between [one object, participant, property, or action]Comparee and [another object, participant, property, or action]Standard.
+    - russian: |
+         Конструкция выражает сравнение и подчеркивает равнозначность [одного объекта, участника, свойства или действия]Comparee [другому объекту, участнику, свойству или действию]Standard.
+  examples:
+    - |
+         Подати заявки батьки зможуть зразу [у декілька дитсадків]Comparee, так само як [зі школою]Standart. (Онлайн-ЗМІ «Версії», 2021)
+    - |
+         [Від мови]Comparee багато що залежить, так само як і [від культури.]Standart. (Інтернет-газета «Високий замок», 2007)
+    - |
+         [Кількість людей]Comparee змінюється щомісяця, так само як і [кількість власників житла]Standart, які їм його надают. (Онлайн-ЗМІ «Полтава 365», 2022)
+    - |
+         Сама ж [супермодель]Comparee, так само як і [її рідні]Standart, замовчує історію про розлучення. (Онлайн-ЗМІ «Табло ID», 2010)
+    - |
+         [Америка і Європа]Comparee, так само як і [міжнародні інституції]Standart, занурені в боротьбу з пандемією, яка йде поки по наростаючій. (Журнал «НВ», 2020)
+  morphology:
+    - XP
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Adverb
+  semantic_roles:
+    - Comparee
+    - Standard
+  intonation:
+    - Not applicable
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X iqually as Y
+    - russian: |
+         XP, равно как (и) XP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comparison
+      subtypes:
+        - type: Equality
+57:
+  name: "на думку NP-Gen, Cl"
+  illustration: "На думку експертів ціни на житло будуть рости й надалі."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція висловлює думку [учасника ситуації]Participant з деякого питання і зазвичай вводить [оцінний вислів]Evaluation.
+    - english: |
+         The construction expresses the opinion of [participant in the situation]Participant on some issue and usually introduces [evaluative statement]Evaluation.
+    - russian: |
+         Конструкция выражает мнение [участника ситуации]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation.
+  examples:
+    - |
+         На думку [медиків]Participant, [у багатьох випадках визначити брак вітамінів у організмі жінка може навіть не звертаючись до лікаря]Evaluation. (Журнал «НВ», 2020)
+    - |
+         На думку [Президента]Participant, [школа має навчитись враховувати індивідуальні особливості кожної дитини]Evaluation. (Онлайн-ЗМІ «Чернiгiвщина: події і коментарі», 2017)
+    - |
+         На думку [експертів]Participant, [пожежа могла виникнути в результаті підпалу або через коротке замикання електропроводкиEvaluation. (Онлайн-ЗМІ «UNIAN.NET», 2011)
+    - |
+         На думку [журналістів]Participant, [бум попиту на залізничні рейси далекого прямування можна напряму пов'язати з проблемами в аеропортах]Evaluation. (Онлайн-ЗМІ «Європейська правда», 2022)
+    - |
+         [Мені]Participant не раз спадало на думку [отаким чином утекти від себе]Evaluation. (Галина Пагутяк «Записки Білого Пташка», 2011)
+  morphology:
+    - NP
+    - Gen
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Participant
+    - Evaluation
+  intonation:
+    - Declarative
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         according X's point of view
+    - russian: |
+         по мнению NP-Gen, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Source of opinion
+      subtypes:
+        - type: Expressing opinion
+58:
+  name: "VP з нагоди NP-Gen"
+  illustration: "З нагоди відкриття салону діють суттєві знижки."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція вказує на те, що одна [дія або ситуація]Cause є причиною іншої [дії]Action або [ситуації]Situation.
+    - english: |
+         The construction indicates that one [action or situation]Cause is the cause of another [action]Action or [situation]Situation.
+    - russian: |
+         Конструкция указывает на то, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation.
+  examples:
+    - |
+         З нагоди [свята]Cause [ми підготували декілька привітань та листівок]Action, якими ви можете поділитися з близькими. (Журнал «НВ», 2020)
+    - |
+         [Він довго не міг з дива вийти, звідки ж отакі люди беруться]Action, що не користаються з нагоди [помститися]Cause і відмовляються від волі. (Роман Іваничук «Журавлиний крик», 1973)
+    - |
+         З нагоди [Дня Незалежності]Cause [вітаю всіх українців]Action! (Інтернет-газета «Кримська світлиця», 2005)
+    - |
+         Неля вибрала годину, коли в Річинських з нагоди [дня народження Олени]Cause [зібралася вся ближча родина.]Situation. (Ірина Вільде «Сестри Річинські», 1964)
+    - |
+         Дякуємо всім, хто долучився до [створення святкової атмосфери]Action з нагоди [30-річчя школи]Cause. (Інтернет-газета «Фіртка», 2018)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Cause
+    - Action
+    - Situation
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X on the occasion of Y
+    - russian: |
+         VP по случаю NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Cause
+59:
+  name: "VP разом з NP-Ins"
+  illustration: "На даний час дитина перебуває разом з батьками."
+  cefr_level: A1
+  definitions:
+    - ukrainian: |
+         Конструкція виражає спільну [дію]Action, яку виконує деякий [учасник]Agent разом з іншим [учасником або групою учасників]Associated. Конструкція також може вказувати на те, що деякий [учасник]Agent разом з іншим [учасником або групою учасників]Associated є об'єктами цієї [дії]Action (приклади 3, 4).
+    - english: |
+         The construction expresses a joint [action]Action performed by some [participant]Agent together with another [participant or group of participants]Associated. The construction may also indicate that some [participant]Agent together with another [participant or group of participants]Associated are the objects of this [action]Action (examples 3, 4).
+    - russian: |
+         Конструкция выражает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Associated. Конструкция также может указывать на то, что некоторый [участник]Agent вместе с другим [участником или группой участников]Associated являются объектами этого [действия]Action (примеры 3, 4).
+  examples:
+    - |
+         Разом з [нашими колегами]Associated [ми]Agent [виявили]Action ці дві нові акули під час дослідження дрібного рибальства на узбережжях Мадагаскару і Занзібару. (Журнал «НВ», 2020)
+    - |
+         Так, камери відеоспостереження одного із торгових центрів зафіксували, як [хлопчик]Agent [іде]Action разом з [якимось чоловіком]Associated. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         Також сонливість можлива, якщо разом з [антигістамінними]associated ви [приймаєте]Action [алкоголь]Associated. (Онлайн-ЗМІ «Українська правда», 2020)
+    - |
+         Але вперше на лікування [їх]Agent [запросили]Action разом з [дружинами та дітьми]Associated. (Інтернет-газета «Фіртка», 2016)
+    - |
+         [Він]Agent майструє для неї іграшки, разом з [нею]Associated [вивчає]Action італійську мову, яку почав забувати. (Юрій Дольд-Михайлик «У чорних лицарів», 1964)
+  morphology:
+    - VP
+    - NP
+    - Ins
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Multiword Preposition
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Action
+    - Agent
+    - Associated
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X together with Y
+    - russian: |
+         VP вместе с NP-Ins
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Comitative
+      subtypes:
+        - type: Comitative
+60:
+  name: "VP в рамках NP-Gen"
+  illustration: "Діємо в рамках закону."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція означає, що деякий [об'єкт]Theme або [учасник]Participant характеризується через [область, обмежену фізичною або абстрактною межею]Limit.
+    - english: |
+         This construction indicates that an [object]Theme or [participant]Participant is characterised through an [area bounded by a physical or abstract limit]Limit.
+    - russian: |
+         Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant характеризуется через [область, ограниченную физическим или абстрактным пределом]Limit.
+  examples:
+    - |
+         В рамках [розслідування]Limit кримінальної справи призначено [ряд експертиз]Theme для з'ясування причин ДТП. (Онлайн-ЗМІ «UNIAN.NET», 2012)
+    - |
+         В рамках [флешмобу]Limit [зірки]Participant також розповідають, заради кого вони залишаються вдома #IStayHomeFor. (Журнал «НВ», 2020)
+    - |
+         "Наші ж [дії]Theme – в рамках [міжнародного права та міжнародних зобов'язань]Limit", - наголосив Столтенберг.  (Інтернет-газета «Європейська правда», 2014)
+    - |
+         [Поєдинок]Theme відбувся в рамках [благодійного турне]Limit киян "MatchforPeace! StoptheWar!" (Онлайн-ЗМІ «ТСН», 2022)
+    - |
+         Про фінансування батальйону [це питання]Theme не в рамках [такого інтерв'ю]Limit. (Онлайн-ЗМІ «Громадське телебачення», 2015)
+  morphology:
+    - VP
+    - NP
+    - Gen
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Theme
+    - Participant
+    - Limit
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X as a part of Y
+    - russian: |
+         VP в рамки NP-Gen
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Salient property
+      subtypes:
+        - type: Domain
+61:
+  name: "як на мене, (так) Cl"
+  illustration: "Хоча, як на мене, це досить цікавий вибір."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція висловлює думку того, хто говорить з деякого питання і зазвичай вводить [оцінний вислів]Evaluation.
+    - english: |
+         This construction expresses the speaker’s opinion on some issue and usually introduces an [evaluative statement]Evaluation.
+    - russian: |
+         Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation.
+  examples:
+    - |
+         Але два національні університети в одному місті це, як на мене, [трошки забагато]Evaluation. (Інтернет-газета «Високий замок», 2002)
+    - |
+         Думаю, надзвичайно складно обробити таку кількість інформації, [але вони справляються]Evaluation, як на мене. (Онлайн-ЗМІ «LB.ua», 2019)
+    - |
+         Він увійшов в історію і був одним з найвидатніших боксерів. Як на мене, [його повернення не буде виграшним сценарієм]Evaluation. (Онлайн-ЗМІ «UNIAN.NET», 2019)
+    - |
+         На цій фотовиставці, як на мене, [було забагато політики]Evaluation, але сама політика давала такі приклади. (Газета «День», 2010)
+    - |
+         Можливо, я дещо згущую фарби, але, як на мене, [у Львові працюють переважно ринки]Evaluation. (Інтернет-газета «Високий замок», 2011)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Preposition
+    - Pronoun
+  semantic_roles:
+    - Evaluation
+  intonation:
+    - Declarative
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         as for me
+    - russian: |
+         (как) по мне, (так) Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Source of opinion
+      subtypes:
+        - type: Expressing opinion
+62:
+  name: "під час NP-Gen VP"
+  illustration: "Під час зустрічей вони говорили німецькою мовою, спільною для них трьох."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що [деякое действие]Action відбувається у протягом [певної ситуації]Situation чи в один із її моментів.
+    - english: |
+         The construction means that [some action]Action takes place during [a certain situation]Situation or at one of its moments.
+    - russian: |
+         Конструкция обозначает, что [некоторое действие]Action происходидит на всем протяжении [определённой ситуации]Situation или в один из её моментов.
+  examples:
+    - |
+         Тепер іноземні туристи [зможуть одержати]Action безплатну медичну страховку під час [бронювання готелю або проживанні в ній]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2009)
+    - |
+         Програмою заходу передбачено практичне [навчання виживанню]Action в екстремальних умовах і поведінці під час [військових дій]Situation. (Онлайн-ЗМІ «UNIAN.NET», 2013)
+    - |
+         Насправді коли ми виходимо на доріжку разом, кожна з нас [біжить]Action швидше, ніж під час [індивідуальних змагань]Situation. (Інтернет-газета «Україна молода», 2013)
+    - |
+         Під час [однієї з акцій протесту]Situation протестувальники [пошкодили]action Тріумфальну арку. (Журнал «НВ», 2018)
+    - |
+         Якщо скоєно правопорушення, всі обставини [будуть вивчені]Action під час [розслідування справи]Situation. (Онлайн-ЗМІ «LB.ua», 2014)
+  morphology:
+    - NP
+    - Gen
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+    - Nominal Pattern
+  part_of_speech_of_anchor:
+    - Preposition
+    - Noun
+  semantic_roles:
+    - Action
+    - Situation
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         at the time of X, under X
+    - russian: |
+         во время NP-Gen VP
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Temporal expression
+      subtypes:
+        - type: Time period
+63:
+  name: "Cl, тим не менш, Cl"
+  illustration: "І, тим не менш, це вже зовсім інша історія."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується як вступне словосполучення, що вводить [інформацію]ContentOfSpeech і підкреслює протиставлення попередньому висловлюванню.
+    - english: |
+         The construction is used as an introductory phrase that introduces [information]ContentOfSpeech and emphasizes the contrast with the previous utterance.
+    - russian: |
+         Конструкция используется в качестве вводной фразы, которая вводит [information]ContentOfSpeech и подчеркивает контраст с предыдущим высказыванием.
+  examples:
+    - |
+         З кінця минулого місяця інтенсивність протестів дещо зменшилася. Тим не менш, [вони ні на мить не зупинялися]ContentofSpeech. (Онлайн-ЗМІ «Главком», 2022)
+    - |
+         Досліджень на цю тему проведено не так вже й багато, тому до їх результатів потрібно ставитися обережно. Тим не менш, [поки вони виглядають обнадійливо]ContentofSpeech. (Журнал «НВ», 2016)
+    - |
+         Решта антибіотиків не мають суворих протипоказань щодо алкоголю. Тим не менш, [лікарі радять від них утриматись]ContentofSpeech. (Онлайн-ЗМІ «РБК-UA», 2022)
+    - |
+         Ці докази ми надали в суд. Тим не менш, [суддя його відпускає]ContentofSpeech, – зазначив Луценко. (Онлайн-ЗМІ «Zaxid.net», 2017)
+    - |
+         Їх мотиви оцінювати складно. Тим не менш, [з часом до цього питання доведеться повернутися]ContentofSpeech. (Онлайн-ЗМІ «LB.ua», 2019)
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Clause or XP with parentheticals
+  syntactic_function_of_anchor:
+    - Parenthetical
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Negation Marker
+  semantic_roles:
+    - ContentOfSpeech
+  intonation:
+    - Declarative
+  usage_label: Formal
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         nonetheless
+    - russian: |
+         Cl, тем не менее, Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+64:
+  name: "не дивлячись на NP-Acc"
+  illustration: "Та не дивлячися на втому, були усі радісні та веселі."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+    - english: |
+         The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+    - russian: |
+         Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+  examples:
+    - |
+         Не дивлячись на [труднощі та виклики]Situation, професію інфекціоніста називає завжди актуальною. (Онлайн-ЗМІ «Новини Хмельницького «Є»», 2021)
+    - |
+         І не дивлячись на [таку кількість біженців]Situation, у нас не зросла криміногенна ситуація в країні. (Онлайн-ЗМІ «LB.ua», 2022)
+    - |
+         Не дивлячись на [обідню пору]Situation, в шинку було малолюдно. (Юрій Сорока «Іван Богун», 2008)
+    - |
+         Гідне проведення чемпіонату, не дивлячись на [об'єктивні труднощі]Situation, буде нашою спільною величезною перемогою. (Журнал «НВ», 2020)
+    - |
+         Під акомпанемент оркестру, який не дивлячись на [конфлікт]Situation продовжував грати, колона намагалася рухатися далі. (Онлайн-ЗМІ «LB.ua», 2016)]
+  morphology:
+    - NP
+    - Acc
+    - Cl
+  syntactic_type_of_construction:
+    - Clause and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Negation
+    - Multiword Preposition
+  part_of_speech_of_anchor:
+    - Preposition
+  semantic_roles:
+    - Situation
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         despite X
+    - russian: |
+         Несмотря/Невзирая на NP-Acc, Cl
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+65:
+  name: "не дивлячись на те, що Cl, Cl"
+  illustration: "Не дивлячись на те, що не всі приїхали з перемогами, спортсмени отримали багато досвіду."
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція використовується при позначенні [предметів, явищ, понять]Situation, всупереч яким відбуваються [дія]Action.
+    - english: |
+         The construction is used when marking [objects, phenomena, concepts]Situation against which [action]Action takes place.
+    - russian: |
+         Конструкция используется при обозначении [предметов, явлений, понятий]Situation, по которой происходит [действие]Action.
+  examples:
+    - |
+         Кімнатні рослини, не дивлячись на те, [що ростуть в оселі]Situation, також потребують підготовки й особливої уваги взимку. (Онлайн-ЗМІ «Gazeta.ua», 2022)]
+    - |
+         Не дивлячись на те, що [там сталось]Situation, я рвонув з місця, до межі втупивши ногою педаль газу. (Олексій Кацай «Пекло», 1999)
+    - |
+         І, не дивлячись на те, що [сухофрукти містять багато волокон]Situation, більшість вітаміну C руйнується при сушці. (Онлайн-ЗМІ «UNIAN.NET», 2008)
+    - |
+         Адже не дивлячись на те, що [в Греції багато проблем]Situation, країни єврозони не кидають цю країну напризволяще. (Газета «День», 2012)
+    - |
+         Не дивлячись на те, що [прогнозована температура води очікується не більше 3 градусів]Situation, заплив в крижаній воді буде здійснено без гідрокостюму. (Інтернет-газета «Фіртка», 2018)]
+  morphology:
+    - Cl
+  syntactic_type_of_construction:
+    - Connection Construction
+  syntactic_function_of_anchor:
+    - Subordinator
+  syntactic_structure_of_anchor:
+    - Multiword Conjunction
+    - Negation
+  part_of_speech_of_anchor:
+    - Converb
+    - Preposition
+    - Pronoun
+  semantic_roles:
+    - Situation
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         despite the fact that X
+    - russian: |
+         Несмотря/Невзирая на то, что Cl, Cl
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+66:
+  name: "анітрохи/анітрішки не VP"
+  illustration: "Але я анітрохи про це не шкодую."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція з подвійним запереченням передає значення категоричного (повного) заперечення [дії]Action.
+    - english: |
+         The construction with double negation conveys the meaning of the complete negation of an [action]Action.
+    - russian: |
+         Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action.
+  examples:
+    - |
+         Ми ходили в цей похід в дощову погоду, але це анітрохи не [завадило]Action. Ми ходили в цей похід в дощову погоду, але це анітрохи не завадило. (Онлайн-ЗМІ «UNIAN.NET», 2020)
+    - |
+         Сильні морози і короткий день анітрохи не [бентежили]Action мандрівників. (Сергій Шарик «Двічі графиня та двічі генерал», 2014)
+    - |
+         Прем'єр анітрохи не [хвилюється]Action, навпаки, через запитання відповідає жартом. (Онлайн-ЗМІ «LB.ua», 2017)
+    - |
+         Олександр дивився на все те й чомусь анітрішки не [дивувався]Action. (Радій Радутний «Важка чоловіча робота», 2012)
+    - |
+         Дарма що попередні 15 років його анітрохи не [турбували]Action мої мовні права. (Андрій Бондар «Ласощі для Медора: мала проза», 2020)
+  morphology:
+    - VP
+  syntactic_type_of_construction:
+    - Head and Modifier Construction
+  syntactic_function_of_anchor:
+    - Modifier
+  syntactic_structure_of_anchor:
+    - Double Negation
+  part_of_speech_of_anchor:
+    - Adverb
+    - Negation Marker
+  semantic_roles:
+    - Action
+  intonation:
+    - Not applicable
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         in no way X
+    - russian: |
+         ничуть не VP
+  common_fillers:
+    - NA
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Minimizer
+67:
+  name: "(NP-Dat) не варто VP-Ipfv.Inf"
+  illustration: "Не варто забувати, що в холодну пору року слід одягатися у кілька шарів."
+  cefr_level: B2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується, коли мовець спонукає учасника ситуації не виконувати деяку [дія]Action. Ця дія може відбутися в майбутньому або відбувається зараз. Той, хто говорить, вважає, що виконання дії не виправдане розумними причинами. Заохочування мовця звучить у формі поради.
+    - english: |
+         This construction is used when the speaker politely prompts the participant in a situation to not carry out an [action]Action. This action may occur in the future or is ongoing. The speaker does not see any sensible reason to carry out the action. The prompting of the speaker comes in the form of advice.
+    - russian: |
+         Конструкция используется, когда говорящий побуждает участника ситуации не выполнять некоторое [действие]Action. Это действие может произойти в будущем или происходит в данный момент. Говорящий считает, что выполнение действия не оправдано разумными причинами. Побуждение говорящего звучит в форме совета.
+  examples:
+    - |
+         Також не варто [забувати про дуже низьку температуру зовнішнього повітря]Action в цей період. (Газета «7 днів», 2017)
+    - |
+         Ну, а в активних іграх не варто [ігнорувати такий захист як шолом]Action. (Журнал «НВ», 2019)
+    - |
+         І що – не було ніяких застережень, що не варто [цього робити]Action? («Zaxid.net», 2021)
+    - |
+         Не варто [радити їй нічого]Action, поки сама не попросить. (Христина Лукащук «Жити сьогодні», 2014)
+    - |
+         Я живу і працюю за принципом, що не варто [розкривати свої плани на перед]Action. (Онлайн-ЗМІ «Чернiгiвщина: події і коментарі», 2014)
+  morphology:
+    - NP-Dat
+    - VP-Ipfv.Inf
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Negation
+  part_of_speech_of_anchor:
+    - Negation Marker
+    - Adverb
+  semantic_roles:
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         Х is not worth Y, one should not X
+    - russian: |
+         (NP-Dat) не стоит VP-Ipfv.Inf
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Prohibition
+      subtypes:
+        - type: Attenuated prohibitive
+68:
+  name: "(NP-Dat) варто VP-Inf"
+  illustration: "Варто лише зменшити рівень стресу в житті."
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція позначає, що мовець спонукає іншого [учасника чи себе]Causee виконати деяке [дія]Action, яке мовець вважає доречним і необхідним у певній ситуації.
+    - english: |
+         The construction indicates that the speaker induces another [participant or himself]Causee to perform some [action]Action, which the speaker considers appropriate and necessary in a certain situation.
+    - russian: |
+         Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
+  examples:
+    - |
+         Він також пояснив, як [водію]Causee варто [реагувати на такі дії]. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+    - |
+         Тому [вам]Causee варто [надавати перевагу їжі]Action, яка позитивно впливатиме на ваш настрій. (Онлайн-ЗМІ «Українська правда», 2021)
+    - |
+         [Нам]Causee варто [спробувати все почати з чистого листка]Action. (Газета «День», інтерв'ю, 2007)
+    - |
+         Tакож варто [відзначити]Action, що на сайті авіакомпанії можна знайти дуже вигідні пропозиції по Європі. (Онлайн-ЗМІ «UNIAN.NET», 2018)
+    - |
+         Варто [відзначити]Action, що за останній час співачка значно схудла. (Онлайн-ЗМІ «UNIAN.NET», 2021)
+  morphology:
+    - NP-Dat
+    - VP-Ipfv.Inf
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Adverb
+  semantic_roles:
+    - Causee
+    - Action
+  intonation:
+    - Declarative
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         X is worth Y, one should X
+    - russian: |
+         (NP-Dat) стоить VP-Inf
+  common_fillers:
+    - відзначити
+    - зазначити
+    - очікувати
+    - зауважити
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Indirect
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+69:
+  name: "оце тобі/вам і/й NP-Nom!"
+  illustration: "Оце тобі і друг!"
+  cefr_level: B1
+  definitions:
+    - ukrainian: |
+         Конструкція виражає здивування мовця [об'єктом]Theme, [учасником]Participant або [подією]Event, які виявилися не такими, як він очікував. Підкреслюється невідповідність очікуваного та реального. Конструкція зазвичай несе негативну оцінку.
+    - english: |
+         This construction expresses the speaker's surprise over an [object]Theme, [participant]Participant or [event]Event, that has not turned out as the speaker had expected. Тhe discrepancy between what is expected and reality is emphasised. This construction normally carries a negative evaluation.
+    - russian: |
+         Конструкция выражает удивление говорящего [объектом]Theme, [участником]Participant или [событием]Event, которые оказались не такими, как он ожидал. Подчеркивается несоответствие ожидаемого и реального. Конструкция обычно несет отрицательную оценку.
+  examples:
+    - |
+         Оце тобі і [свобода слова]Theme! (Андрій Кондратюк «Краса зникаюча і вічна», 2007)
+    - |
+         Оце тобі і [прилетіли]Event... (Інтернет-газета «Кримська світлиця», 2005)
+    - |
+         Оце тобі і [цінності]Theme! (Євген Сверстюк «Духові джерела української літератури», 1999)
+    - |
+         Оце вам і [уся«комунікація» з громадою]Event. (Інтернет-газета «День», 2021)
+    - |
+         Оце вам і [реформа на користь селянина]Theme! (Стенограми засідань Верховної Ради України, 2003)
+  morphology:
+    - NP-Nom
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Discourse Particle
+  syntactic_structure_of_anchor:
+    - Not Applicable
+  part_of_speech_of_anchor:
+    - Particle
+  semantic_roles:
+    - Theme
+    - Participant
+    - Event
+  intonation:
+    - Exclamatory
+  usage_label: Colloquial
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         So much for an X!
+    - russian: |
+         вот тебе/вам и NP-Nom!
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Assessment
+      subtypes:
+        - type: Assessment in relation to quantification
+    - type: Mirative
+    - type: Polarity value
+      subtypes:
+        - type: Negative
+70:
+  name: "(а) до чого тут Cop NP-Nom?"
+  illustration: "До чого тут мій вік?"
+  cefr_level: A2
+  definitions:
+    - ukrainian: |
+         Конструкція використовується для вираження здивування або нерозуміння мовцем логічного зв'язку між темою дискусії і останнім наведеним [аргументом]Theme.
+    - english: |
+         This construction is used to express the speaker’s confusion or lack of awareness of the logical connection between the topic of discussion and the last stated [argument]Theme.
+    - russian: |
+         Конструкция используется для выражения недоумения или непонимания говорящим логической связи между темой дискуссии и последним приведенным [аргументом]Theme.
+  examples:
+    - |
+         Ви скажете, до чого тут [віра]Theme? (Інтернет-газета «Україна молода», 2013)
+    - |
+         Втім до чого тут [гендерна приналежність]Theme, адвокати так і не зрозуміли. (Онлайн-ЗМІ «Народна правда», 2022)
+    - |
+         Тоді до чого тут [мої статті та дослідження]Theme? (Лора Підгірна Омбре. «Над темрявою і світлом», 2016)
+    - |
+         Якщо це свято весни, то до чого тут [політика]Theme? (Інтернет-газета «Кримська світлиця», 2008)
+    - |
+         А до чого тут [«соцмережа для школярів»]Theme? (Iнтернет-газета «Дзеркало тижня», 2021)
+  morphology:
+    - NP-Nom
+  syntactic_type_of_construction:
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - Praedicative Expression
+  syntactic_structure_of_anchor:
+    - Prepositional Phrase
+  part_of_speech_of_anchor:
+    - Conjunction
+    - Preposition
+    - Pronoun
+    - Adverb
+  semantic_roles:
+    - Theme
+  intonation:
+    - Interrogative
+    - Exclamatory
+  usage_label: ~
+  comment: |
+      'No comment yet'
+  equivalents:
+    - english: |
+         What does X have to do with Y?
+    - russian: |
+         (а) при чём здесь/тут Cop NP-Nom?
+  common_fillers:
+    - ~
+  semantic_types:
+    - type: Reaction to the previous discourse
+      subtypes:
+        - type: Surprise
