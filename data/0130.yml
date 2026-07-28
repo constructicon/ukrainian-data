@@ -1,0 +1,52 @@
+---
+record: 130
+name: "ніде не VP"
+illustration: "Ми ніде не можемо його знайти."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Kонструкція позначає, що певну [дію]Action неможливо виконати в жодному місці.
+  - english: |
+       This construction indicates that a certain [action]Action cannot be performed in any place.
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action невозможно совершить ни в каком месте.
+examples:
+  - |
+       Ніде не [було видно]Action й найменших слідів присутності людини.
+  - |
+       Чоловік ніде не [працює]Action, живе на соціальну допомогу.
+  - |
+       Особисто він ніде не [з'являвся]Action, вирішував питання по телефону.
+  - |
+       Він узяв електричну кавоварку, хотів віднести її в підвал, але ніде не [міг знайти]Action кришку.
+  - |
+       Оскільки ніде не [видно]Action сканера відбитків пальців, то він, швидше за все, вбудований в дисплей.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negative Marker
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not anywhere
+  - russian: |
+       нигде не VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location

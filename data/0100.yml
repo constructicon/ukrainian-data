@@ -1,0 +1,54 @@
+---
+record: 100
+name: "практично XP"
+illustration: "Tака погода протримається практично до кінця січня."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Kонструкція позначає фактичну або наближену до реальності характеристику [дії]Action, [стану]State, [кількості]Quantity чи [властивостProperty, тобто коли щось відбувається або існує майже повністю, фактично, переважно або регулярно.
+  - english: |
+       The construction indicates an actual or near-to-reality characteristic of a [action]Action, [state]State, [quantity]Quantity, or [property]Property, that is, when something occurs or exists almost completely, in fact, predominantly, or regularly.
+  - russian: |
+       Конструкция обозначает фактическую или приближенную к реальности характеристику [действия]Action, [состояния]State, [количества]Quantity или [свойства]Property, то есть когда что-то происходит или существует почти полностью, фактически, преимущественно или регулярно.
+examples:
+  - |
+       Mенш ніж за два роки лікарня побудована практично [з нуля]State.
+  - |
+       Практично [всі сучасні автівки]Property мають системи безпеки.
+  - |
+       Через велику кількість дзвінків телефонний зв'язок у посольстві був практично [паралізований]State.
+  - |
+       А це будівництво практично [зруйнувало]Action озера.
+  - |
+       Хелловін — одне з найстаріших свят у світі, що дійшли до наших днів, практично [не змінившись]Action.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       almost
+  - russian: |
+       почти/практически XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Result
+    subtypes:
+      - type: Achieved Result

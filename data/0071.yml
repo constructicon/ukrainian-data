@@ -1,0 +1,50 @@
+---
+record: 71
+name: "Cl незалежно від NP-Gen"
+illustration: "незалежно від професії"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [певна потенційна умова]Condition не має значення для ухвалення рішення або в межах певної [ситуації]Situation.
+  - english: |
+       The construction indicates that [a certain potential condition]Condition is irrelevant to decision-making or within the context of a given [situation]Situation.
+  - russian: |
+       Конструкция указывает на то, что [некое потенциальное условие]Condition не имеет значения для принятия решения или в рамках некоторой [ситуации]Situation.
+examples:
+  - |
+       Незалежно від [обставин]Condition, [кіно завжди викликає найсильніші емоції]Situation. (НВ, 2020)
+  - |
+       [Мистецтво єднає нас усіх]Situation, незалежно від [політичних уподобань]Condition. (Високий замок, 2003)
+  - |
+       Незалежно від [захворювань і ступенів ризику]Condition [нижній тиск повинен залишатися в межах 80 мм. рт. cтовпа]Situation. (UNIAN.NET, 2019)
+  - |
+       Ще пізніше [моя супутниця і другиня бачила аналогічне видіння]Situation незалежно від [мене]Condition. (Бердник, 1993)
+  - |
+       [Антибіотики приймають]Situation незалежно від [їжи]Condition. (Кримська світлиця, 2004)
+morphology:
+  - Cl
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       regardless of X
+  - russian: |
+       Cl вне зависимости от NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Condition

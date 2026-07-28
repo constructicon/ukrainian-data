@@ -1,0 +1,52 @@
+---
+record: 151
+name: "NP-Nom COP того вартий"
+illustration: "Їхня праця справді того варта."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція оцінки позначає,  що певна [діяльність, подія або результат]Result виправдовує витрачені зусилля, час чи складність, незважаючи на труднощі або витрати. Присудкова частина «того вартий» узгоджується в роді та числі та означає: «це/він/вона/воно варте таких зусиль».
+  - english: |
+       The construction indicates that [a certain activity, event, or result]Result justifies the effort, time, or difficulty involved]Rwsult; despite the challenges or costs. The predicative part “того вартий” agrees in gender and number and means: “this/he/she/it is worth such effort.”
+  - russian: |
+       Оценочная конструкция выражает, что [определённая деятельность, событие или результат]Result оправдывают затраченные усилия, время или сложность; несмотря на трудности или затраты. Предикативная часть «того вартий» согласуется в роде и числе и означает: «это/он/она/оно стоит таких усилий».
+examples:
+  - |
+       Звичайно, треба докласти зусиль, але [воно]Result того варто.
+  - |
+       Багаторічна [праця над архівними матеріалами]Result безумовно того варта.
+  - |
+       [Поїздка до віддаленого гірського села]Result була того варта хоча б заради краєвидів на світанку.
+  - |
+       [Ризик інвестування в нову технологію]Result може бути того вартий у довгостроковій перспективі.
+  - |
+       [Усі труднощі експедиції]Result були того варті, коли дослідники дісталися вершини.
+morphology:
+  - NP-Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb and Object
+part_of_speech_of_anchor:
+  - Pronoun
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       be worth it
+  - russian: |
+       NP-Nom того стоить
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Positive

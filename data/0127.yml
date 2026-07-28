@@ -1,0 +1,53 @@
+---
+record: 127
+name: "VP на NumCrd-Acc гривня"
+illustration: "На дві тисячі гривень вони організували невелике свято."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Kонструкція позначає [бюджет]Measure або [суму грошей]Quantity, у межах якої виконується дія (зазвичай купівля). Вона виражає, що і в якій кількості можна придбати/зробити за вказану суму. Окрім гривень, у цій конструкції використовуються й інші грошові одиниці.
+  - english: |
+       The construction denotes a [budget]Measure or an [amount of money]Quantity within which an action (usually a purchase) is carried out. It expresses what and in what quantity can be bought or done for the specified amount.
+  - russian: |
+       Конструкция обозначает [бюджет]Measure или [сумму денег]Quantity, в пределах которой выполняется действие (обычно покупка). Она выражает, что и в каком количестве можно приобрести или сделать за указанную сумму.
+examples:
+  - |
+       Нам вдалося приготувати вечерю на всю родину на [двісті]Quantity [гривень]Measure.
+  - |
+       На [двадцять]Quantity [гривень]Measure зараз майже нічого не купиш.
+  - |
+       На [триста]Quantity [гривень]Measure діти набрали солодощів у супермаркеті.
+  - |
+       На [п’ятсот]Quantity [гривень]Measure можна заправити автомобіль лише частково.
+  - |
+       На [триста]Quantity [доларів]Measure можна знайти недорогий смартфон.
+morphology:
+  - VP
+  - NumCrd-Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       for NumCrd hryvnia
+  - russian: |
+       VP на NumCrd-Acc рубль
+common_fillers:
+  - ~
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Money

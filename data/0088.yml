@@ -1,0 +1,58 @@
+---
+record: 88
+name: "на жаль, Cl"
+illustration: "На жаль, врятувати його не вдалося"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження негативної оцінки або жалю щодо того, що [ситуація]Situation склалася невдало або не на користь; акцент робиться на емоційному ставленні мовця до небажаного результату, розчаруванні щодо ситуації, яку не можна змінити.
+  - english: |
+       The construction is used to express a negative evaluation or regret that the [situation]Situation turned out unsuccessfully or not in one’s favor; the emphasis is on the speaker’s emotional attitude toward the undesirable outcome and on disappointment about a situation that cannot be changed.
+  - russian: |
+       Конструкция используется для выражения негативной оценки или сожаления о том, что [ситуация]Situation сложилась неудачно или не в пользу кого-либо; акцент делается на эмоциональном отношении говорящего к нежелательному результату и разочаровании по поводу ситуации, которую невозможно изменить.
+examples:
+  - |
+       Великі люди, на жаль, [іноді роблять великі помилки]Situation.
+  - |
+       Внаслідок терористичних атак, на жаль, [є загиблі та поранені серед цивільного населення]Situation.
+  - |
+       На жаль, у січні ціни на електроенергію знову зросли, на цей раз на 4%.
+  - |
+       На жаль, [далеко не всі мають силу волі для домашніх тренувань]Situation, а фігуру і форму підтримувати хочеться.
+  - |
+       На жаль, [багато магазинних фруктів та овочів заморожують зеленими або переспілими]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Unfortunately
+  - russian: |
+       к (PronPoss) (Adj) сожалению, Cl , увы
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Routine
+    subtypes:
+      - type: Apology

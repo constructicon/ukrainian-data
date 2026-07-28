@@ -1,0 +1,53 @@
+---
+record: 108
+name: "(NP-Dat) Cop можна VP-Inf"
+illustration: "Тут можна фотографувати."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження можливості, дозволу або допустимості виконання певної [дії або ситуації]Theme. Конструкція показує, що виконання цієї дії дозволяється, допускається або вважається можливим у певних умовах.
+  - english: |
+       The construction is used to express the possibility, permission, or acceptability of performing a certain [action or situation]Theme. The construction indicates that performing the action is allowed, permitted, or considered possible under certain conditions.
+  - russian: |
+       Конструкция используется для выражения возможности, разрешения или допустимости выполнения определённого [действия или ситуации]Theme. Конструкция показывает, что выполнение этого действия разрешается, допускается или считается возможным при определённых условиях.
+examples:
+  - |
+       Цю проблему можна [вирішити лише через суд]Theme.
+  - |
+       [Подати заяву на отримання виплати]Theme можна через додаток.
+  - |
+       На сайті уже можна [подивитись два фільма]Theme.
+  - |
+       Зараз можна [збирати чорницю]Theme і заготовлювати її на зиму.
+  - |
+       Якщо хочете, можна [відсвяткувати ювілей]Theme.
+morphology:
+  - NP-Dat
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       ia allowed
+  - russian: |
+       (NP-Dat) Cop можно VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect

@@ -1,0 +1,53 @@
+---
+record: 139
+name: "за словами NP-Gen, Cl"
+illustration: "За словами очевидців, кількість постраждалих перевищила 30 чоловік."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція передає [зміст висловлювання, думки або повідомлення]ContentOfSpeech, що приписується вказаному [джерелу]Source, при цьому мовцем не береться відповідальність за істинність повідомлюваного, а лише здійснюється посилання на джерело інформації.
+  - english: |
+       This construction conveys [the content of a statement, opinion, or message]ContentOfSpeech attributed to a specified [source]Source, while the speaker does not take responsibility for the truth of the reported information and merely refers to the source of the information.
+  - russian: |
+       Конструкция передаёт [содержание высказывания, мнения или сообщения]ContentOfSpeech, приписываемого указанному [источнику]Source, при этом говорящий не берёт на себя ответственность за истинность сообщаемого, а лишь указывает на источник информации.
+examples:
+  - |
+       За словами [експерта]source, [ситуація на ринку праці поступово стабілізується]ContentOfSpeech.
+  - |
+       За словами [очевидців]Source, [інцидент стався раптово й тривав лише кілька хвилин]ContentOfSpeech.
+  - |
+       За словами [міністра освіти]Source, [реформа шкільної системи буде впроваджуватися поступово]ContentOfSpeech.
+  - |
+       За словами [місцевих жителів]Source, [ця дорога перебуває в аварійному стані вже багато років]ContentOfSpeech.
+  - |
+       За словами [чиновників]Source, [забудовник порушував будівельні норми при веденні робіт]ContentOfSpeech.
+morphology:
+  - NP-Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       according to X
+  - russian: |
+       по словам NP-Gen, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Source of information
+    subtypes:
+      - type: Sourse of information

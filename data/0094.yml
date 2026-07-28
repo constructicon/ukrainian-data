@@ -1,0 +1,51 @@
+---
+record: 94
+name: "Cl, будь ласка"
+illustration: "Будь ласкa, колеги, займайте свої місця!"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для ввічливого прохання, пропозиції, дозволу на виконання [дії]Action або для привернення уваги до [ситуації]Situation. Конструкція не передбачає обов’язковості дії, а лише подає її як чемну, добровільну або соціально прийнятну.
+  - english: |
+       The construction is used to make a polite request, offer, or grant permission to perform an [Action], or to draw attention to a [Situation]. It does not imply that the action is obligatory; rather, it frames it as courteous, voluntary, or socially appropriate.
+  - russian: |
+       Конструкция используется для вежливого запроса, предложения или разрешения на выполнение [действия]Action, либо для привлечения внимания к [ситуации]Situation. Она не подразумевает обязательности действия, а представляет его как вежливое, добровольное или социально приемлемое.
+examples:
+  - |
+       [Розкажи трохи про фільм]Action, будь ласка.
+  - |
+       [Скажіть]Action, будь ласка: це паспорт вашого чоловіка?
+  - |
+       [Пригадайте]action, будь ласка, що ви робили в цей день?
+  - |
+       Якщо до 13.00 у вашій квартирі не з'явиться вода – [лишайте]Action, будь ласка, заявки у кол-центрі.
+  - |
+       Будь ласка, [розумно споживайте електроенергію]Action.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Compound
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       please
+  - russian: |
+       Cl, пожалуйста
+common_fillers:
+  - ~
+semantic_types:
+  - type: Request
+    subtypes:
+      - type: Request

@@ -1,0 +1,54 @@
+---
+record: 146
+name: "під час NP-Gen VP"
+illustration: "Під час переговорів сторони дійшли згоди."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [певна дія]Action відбувалася протягом усього періоду [певної ситуації]Situation.
+  - english: |
+       The construction indicates that [some action]Action was occurring throughout the entire duration of [a specific situation]Situation.
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action происходило на всем протяжении [определённой ситуации]Situation.
+examples:
+  - |
+       Під час [роботи з медичними відходами]Situation, слід суворо [дотримуватися санітарних норм і правил]Action.
+  - |
+       Під час [сну]Situation наш мозок [обробляє одержану інформацію]Action.
+  - |
+       Під час [перевірки]Situation [встановлено, що комп'ютери працювали на всю потужність]Action.
+  - |
+       Під час [ремонту будівлі]Situation працівники [запізнилися через погодні умови]Action.
+  - |
+       Під час [клінічного дослідження]Situation [було встановлено, що новий препарат демонструє вищу ефективність у порівнянні з існуючими аналогами]Action.
+morphology:
+  - NP-Gen
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       during X, while X
+  - russian: |
+       во время NP-Gen VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Time period

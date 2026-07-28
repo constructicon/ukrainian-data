@@ -1,0 +1,52 @@
+---
+record: 134
+name: "так званий NP"
+illustration: "Вони переїхали до так званого “екологічного району”."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [назва]Rephrasing використовується умовно або неточно. Мовець показує, що він не повністю погоджується з цією назвою або ставиться до неї з дистанцією. Вона може передавати сумнів, іронію або просто узагальнене позначення об’єкта.
+  - english: |
+       The construction is used when [a name]Rephrasing is used in a conditional or imprecise way. The speaker shows that they do not fully agree with the name or keep some distance from it. It can express doubt, irony, or simply a general way of referring to something.
+  - russian: |
+       Конструкция используется, когда [название]Rephrasing применяется условно или неточно. Говорящий показывает, что он не полностью согласен с этим названием или дистанцируется от него. Она может выражать сомнение, иронию или просто обобщённое обозначение объекта.
+examples:
+  - |
+       Ми обговорювали так званий [“ефект доміно”]Rephrasing у політиці.
+  - |
+       У новинах часто згадують так звані [«фейкові новини»]Rephrasing, хоча не завжди пояснюють, що саме мається на увазі.
+  - |
+       Він працює в так званій [«креативній індустрії»]Rephrasing, яка насправді охоплює дуже різні види діяльності.
+  - |
+       Вони живуть у так званому [«спальному районі»]Rephrasing, де мало магазинів і розваг.
+  - |
+       Це явище називають так званим [«ефектом плацебо»]Rephrasing, хоча багато людей не до кінця його розуміють.
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Participle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       so-called X
+  - russian: |
+       так называемый NP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment

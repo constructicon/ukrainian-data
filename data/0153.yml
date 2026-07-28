@@ -1,0 +1,51 @@
+---
+record: 153
+name: "щойно / тільки-но + VP-Pfv.Pst"
+illustration: "Вона щойно прийшла додому."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що певна [дія]Action була здійснена зовсім недавно, безпосередньо перед моментом мовлення або іншою точкою в часі.
+  - english: |
+       This construction means that some [action]Action was recently executed, just before the moment of speech or at another point in time.
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action было совершено совсем недавно, перед самым моментом речи или другой точкой во времени.
+examples:
+  - |
+       Мама щойно [приготувала вечерю]Action.
+  - |
+       Делегація щойно [прибула до Києва після тривалих переговорів у Брюсселі]Action.
+  - |
+       Дослідники щойно [опублікували результати експерименту, який проводився протягом останніх трьох років]Action.
+  - |
+       Ми щойно [отримали інформацію про те, що рейс затримується через несприятливі погодні умови]Action.
+  - |
+       Я щойно [згадав деталі розмови, які раніше здавалися мені незначними]Action.
+morphology:
+  - VP-Pfv.Pst
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       just now, a moment ago, a short while ago
+  - russian: |
+       только что + VP-Pfv.Pst
+common_fillers:
+  - ~
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Recent past

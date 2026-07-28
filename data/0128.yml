@@ -1,0 +1,53 @@
+---
+record: 128
+name: "NP/VP за NumCrd-Acc гривня"
+illustration: "Ми взяли каву за 45 гривень і пішли гуляти до парку."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що певний [товар або послуга]Theme, який купують, має ціну, виражену як [кількість]Quantity [грошових одиниць]Measure. Окрім гривень, у цій конструкції використовуються й інші грошові одиниці.
+  - english: |
+       This construction indicates that some [item or service]Theme that is purchased, has a price that is expressed by a [quantity]Quantity of [monetary units]Measure. Apart from hryvnias other monetary units and currencies are used in this construction.
+  - russian: |
+       Конструкция обозначает, что при покупке некоторый [товар или услуга]Theme имеет цену, которая выражена [количеством]Quantity [денежных единиц]Measure. Кроме гривень, в конструкции используются названия других денежных единиц.
+examples:
+  - |
+       Я купив [свіжий хліб]Theme за [30]Quantity [гривень]Measure у невеликій пекарні біля дому.
+  - |
+       Олена придбала [квиток]Theme за [120]Quantity [гривень]Measure на вечірній кіносеанс.
+  - |
+       Ми купили [підписку]Theme за [99]Quantity [гривень]Measure на місяць, щоб дивитися фільми без реклами і мати доступ до нових серіалів.
+  - |
+       Андрій поїв [обід]Theme за [120]Quantity [гривень]Measure у маленькому кафе в центрі міста, де завжди готують домашні страви за старими рецептами.
+  - |
+       Подружжя орендувало [велосипеди]Theme за [200]Quantity [гривень]Measure на цілий день, щоб об’їхати набережну і зробити кілька фотографій на заході сонця.
+morphology:
+  - NP/VP
+  - NumCrd-Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X at the price of Y  hryvnia
+  - russian: |
+       NP/VP за NumCrd-Acc рубль
+common_fillers:
+  - ~
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Money

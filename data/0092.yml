@@ -1,0 +1,52 @@
+---
+record: 92
+name: "наприклад, XP/Cl"
+illustration: "У Ізраїлі, наприклад, майбутні абітурієнти, перед університетом проходять службу в армії."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для конкретизації попереднього висловлення за допомогою окремого прикладу. У ролі такого приклади може виступати як розгорнутий опис [ситуації]Situation, так і згадка про окремий її [елемент]Theme. Приклад має ілюстративний характер і слугує лише одним із можливих варіантів, не обмежуючи коло подібних явищ.
+  - english: |
+       The construction is used to specify a preceding statement by means of a single example. Such an example may take the form of an extended description of a [situation]Situation or a reference to one of its [elements]Theme. The example is illustrative in nature and serves as only one of several possible options, without limiting the range of similar phenomena.
+  - russian: |
+       Конструкция используется для конкретизации предшествующего высказывания посредством отдельного примера. В роли такого примера может выступать как развернутое описание [ситуации]Situation, так и упоминание отдельного ее [элемента]Theme. Пример носит иллюстративный характер и служит лишь одним из возможных вариантов, не ограничивая круг сходных явлений.
+examples:
+  - |
+       Особливістю Греції є те, що країна розташована на островах. Тому, наприклад, [щоб доставити людину до клініки, потрібно скористатися поромом]Theme.
+  - |
+       Серед пацієнтів кардіохірурга — люди різного віку.  Найстаршому, наприклад, [був 91 рік]Theme, а наймолодшому — 31.
+  - |
+       Вимоги до віку водія можуть відрізнятися залежно від країни.  Наприклад, [у більшості європейських держав мінімальний вік становить 21 рік, проте в Ісландії та Італії — 23 роки]Theme.
+  - |
+       Чи існують протипоказання до введення вакцини? - Tак. Наприклад, [тривале лікування преднізолоном є одним із таких протипоказань]Theme.
+  - |
+       На території України є величезна кількість археологічних, історично ціннісних речей. Наприклад, [гірський Крим знаменитий тим, що там найдовше в Європі жили неандертальці]Theme.
+morphology:
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Interjection
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       for example
+  - russian: |
+       например, XP/Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Exemplification

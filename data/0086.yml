@@ -1,0 +1,55 @@
+---
+record: 86
+name: "на щастя, Cl"
+illustration: "На щастя, всі пасажири залишилися живими."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується, щоб виразити позитивну оцінку або полегшення з приводу того, що [ситуація]Situation склалася добре або не стала гіршою; акцент робиться на емоційному ставленні мовця до ситуації.
+  - english: |
+       This construction is used to express a positive assessment or relief regarding the fact that the [situation]Situation turned out well or did not get worse; the emphasis is on the speaker’s emotional attitude toward the situation.
+  - russian: |
+       Эта конструкция используется, чтобы выразить положительную оценку или облегчение по поводу того, что [ситуация]Situation сложилась хорошо или не ухудшилась; акцент делается на эмоциональном отношении говорящего к ситуации.
+examples:
+  - |
+       На щастя, [у результаті обстрілу люди не постраждали]Situation.
+  - |
+       На щастя, [цей час до кафе прибули поліцейські охорони та затримали правопорушника]Situation.
+  - |
+       На щастя, [мати в мене спокійна й великодушна]Situation.
+  - |
+       На щастя, [тоді для пасажирів та екіпажу все обійшлося лише синцями]Situation.
+  - |
+       На щастя, [вчені поки не виявили жодного випадку зараження людини новим вірусом]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       fortunately
+  - russian: |
+       к счастью, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Mirative
+    subtypes:
+      - type: Mirative

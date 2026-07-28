@@ -1,0 +1,55 @@
+---
+record: 148
+name: "NP-Nom Cop Adj-Cmp, ніж NP-Nom/VP Adv-Cmp, ніж NP-Nom"
+illustration: "Ця книжка цікавіша, ніж попередня."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає порівняння й підкреслює відмінність між учасниками або об’єктами за певною ознакою. У [першого об’єкта або учасника]Comparee [ця ознака]Parameter виявляється більшою мірою, у порівнянні зі [другим]Standard.
+  - english: |
+       The construction expresses comparison and emphasizes the difference between participants or objects with respect to a certain feature. In the [first object or participant]Comparee, the given [feature]Parameter is manifested to a greater degree than in the [second]Standard.
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [второго]Standard.
+examples:
+  - |
+       [Рівень безробіття]Comparee в цьому регіоні [виявився]Action [нижчим]Parameter, ніж [прогнозували аналітики на початку року]Standard.
+  - |
+       [Молодша сестра]Comparee [адаптувалася]Action до життя у новому місці набагато [легше]Parameter, ніж [батьки]Standard.
+  - |
+       [Електропотяг]Comparee [рухався]Action [повільніше]Parameter, ніж [пасажири сподівалися]Standard.
+  - |
+       Її [аргументи]Comparee [звучали]Action [переконливіше]Parameter, ніж [офіційна позиція представників міністерства]Standard.
+  - |
+       [Супутникові знімки]Comparee виявилися [чіткішими]Parameter, ніж [очікували дослідники]Standard.
+morphology:
+  - NP-Nom
+  - Cop
+  - Adj-Cmp
+  - VP Adv-Cmp
+  - NP-Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       more than
+  - russian: |
+       NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality

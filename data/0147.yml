@@ -1,0 +1,53 @@
+---
+record: 147
+name: "NP-Dat Cop не до NP-Gen"
+illustration: "Олені зараз не до жартів."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що в [учасника]Experiencer немає бажання, часу або можливості зайнятися [певною справою чи питанням]Theme або звернути увагу на [певний об’єкт чи іншого учасника]Theme.
+  - english: |
+       This construction means that the [participant]Experiencer does not have the desire, opportunity or time to do [something]Theme or pay attention to [someone or something]Theme.
+  - russian: |
+       Конструкция обозначает, что у [участника]Experiencer нет желания, времени или возможности, чтобы заняться [некоторым делом или вопросом]Theme или обратить внимание на [некоторый объект или другого участника]Theme.
+examples:
+  - |
+       Після тридцятигодинного чергування [лікарям]Experiencer було не до [обговорення адміністративних змін]Theme.
+  - |
+       Після новини про скорочення [працівникам]Experiencer стало не до [корпоративних святкувань]Theme.
+  - |
+       [Нам]Experiencer учора було не до [підготовки презентації]Theme через аварійне вимкнення електрики.
+  - |
+       [Матері]Experiencer не до [відпочинку]Theme, поки дитина перебуває в реанімації.
+  - |
+       Після нічної евакуації [мешканцям]Experiencer було не до [ремонту пошкоджених квартир]Theme.
+morphology:
+  - NP-Dat Cop
+  - NP-Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not to be in the mood for
+  - russian: |
+       NP-Dat Cop не до NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Unwilling

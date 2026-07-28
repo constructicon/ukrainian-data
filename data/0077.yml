@@ -1,0 +1,52 @@
+---
+record: 77
+name: "VP разом з NP-Ins"
+illustration: "Ми співали разом з ним"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення спільної [дії]Action, яку виконує певний [учасник або група учасників]Agent разом з іншим [учасником або групою учасників]Associated. Учасники рівною мірою беруть участь у здійсненні дії.
+  - english: |
+       The construction is used to denote a joint [action]Action performed by a certain [participant or group of participants]Agent together with another [participant or group of participants]Associated. The participants equally take part in carrying out the action.
+  - russian: |
+       Конструкция используется для обозначения совместного [действия]Action, которое выполняет некоторый [участник или группа участников]Agent вместе с другим [участником или группой участников]Associated. Участники в равной степени участвуют в осуществлении действия.
+examples:
+  - |
+       Разом з [новими друзями]Associated [ми]Agent [святкували Пасху]Action.
+  - |
+       У своїх інста-сторіс зірка розповіла, що разом з [чоловіком]Associated [вони]Agent [вирушили у похід]Action.
+  - |
+       У спеціалізованій школі тепер разом з [першачками]Associated на уроки [ходять]Action і [їхні батьки]Agent.
+  - |
+       [Команда]Agent разом з [італійським фахівцем]Associated [встигла провести]Action лише 30 офіційних матчів.
+  - |
+       [Вона]Agent разом з [колективом редакції]Associated [активний учасник волонтерської діяльності]Action.
+morphology:
+  - VP
+  - NP-Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Х together with Y
+  - russian: |
+       VP вместе с NP-Ins
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comitative
+    subtypes:
+      - type: Comitative

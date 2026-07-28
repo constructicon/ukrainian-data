@@ -1,0 +1,54 @@
+---
+record: 117
+name: "VP на півночі/півдні/заході/сході(-Loc) (NP-Gen)"
+illustration: "На заході України багато гір."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [дія]Action відбувається у північній, східній, південній або західній частині певного орієнтира, яким є [географічний об’єкт]Landmark (приклади 1, 2). Якщо орієнтир не названо (приклад 3), конструкція означає, що дія відбувається північніше, східніше, західніше або південніше того місця, де знаходиться сам мовник. Конструкції “на Заході” та “на Сході” (з великої літери) означають “у країнах Західної Європи та Америки” і “у країнах Азії” відповідно (приклади 4, 5).
+  - english: |
+       The construction indicates that [action]Action takes place in the northern, eastern, southern, or western part of a certain reference point, which is [geographical object]Landmark (examples 1, 2). If the reference point is not specified (example 3), the construction indicates that the action occurs north, east, west, or south of the location of the speaker. The constructions “на Заході” and “на Сході” (with capital letters) mean “in the countries of Western Europe and America” and “in the countries of Asia,” respectively (examples 4, 5).
+  - russian: |
+       Конструкция обозначает, что [действие]Action происходит в северной, восточной, южной или западной части некоторого ориентира, которым является [географический объект]Landmark (примеры 1, 2). Если ориентир не указан (пример 3), конструкция обозначает, что действие происходит севернее, восточнее, западнее или южнее того места, где находится сам говорящий. Конструкции “на Заходе” и “на Востоке” (с заглавной буквы) означают “в странах Западной Европы и Америки” и “в странах Азии” соответственно (примеры 4, 5).
+examples:
+  - |
+       Два заводи на заході України [зупинилися]Action.
+  - |
+       На півночі Венесуели [стався]Action потужний землетрус магнітудою 7.0.
+  - |
+       Лише на півдні вночі [будуть]Action короткочасні дощі, подекуди грози.
+  - |
+       Наші фахівці з математики успішно [працюють]Action сьогодні на Заході.
+  - |
+       Багато традиційних страв, які популярні на Сході, зараз [набирають]Action популярності і в Україні.
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       in the north/south/west/east
+  - russian: |
+       VP на севере/юге/западе/востоке (NP-Gen)
+common_fillers:
+  - ~
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location

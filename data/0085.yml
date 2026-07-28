@@ -1,0 +1,52 @@
+---
+record: 85
+name: "VP не раз"
+illustration: "Вона не раз про це йому казала."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується, щоб показати, що [дія]Action відбувалася або відбуватиметься багаторазово, повторюючись у різні моменти часу; при цьому увага акцентується на факті повторюваності, а не на точній кількості разів.
+  - english: |
+       This construction is used to indicate that the [action]Action has happened or will happen repeatedly, occurring multiple times at different moments; the focus is on the fact of repetition rather than the exact number of times.
+  - russian: |
+       Эта конструкция используется, чтобы показать, что [действие]Action происходило или будет происходить многократно, повторяясь в разные моменты времени; при этом акцент делается на факте повторяемости, а не на точном количестве раз.
+examples:
+  - |
+       Сам Гаррі не раз [потрапляв до лікарні]Action після своїх виступів.
+  - |
+       Того пана з бородою не раз [бачила у місті]Action.
+  - |
+       У нас не раз [зривалися концерти]Action через погані погодні умови.
+  - |
+       Мої діти не раз [опинялися в таких ситуаціях]Action, коли вони повинні були їхати в лікарню.
+  - |
+       Не раз [люди питали]Action, як нам вдається так мирно жити.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       more than once X, many times X
+  - russian: |
+       VP не раз
+common_fillers:
+  - ~
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative

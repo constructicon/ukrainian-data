@@ -1,0 +1,56 @@
+---
+record: 144
+name: "на перший погляд, Cl"
+illustration: "На перший погляд, це рішення є очевидним."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає початкову, часто поверхневу та суб’єктивну [оцінку]Evaluation об’єкта або учасника, яка не повністю відповідає дійсності і згодом може змінитися.
+  - english: |
+       The construction denotes an initial, often superficial and subjective [evaluation]Evaluation of an object or participant, which does not fully correspond to reality and may subsequently change.
+  - russian: |
+       Конструкция обозначает первоначальную, часто поверхностную и субъективную [оценку]Evaluation объекта или участника, которая не вполне соответствует действительности и впоследствии может измениться.
+examples:
+  - |
+       На перший погляд, [в цьому проекті немає нічого нового]Evaluation.
+  - |
+       На перший погляд, [це рішення здається простим]Evaluation, але на практиці виникає багато труднощів.
+  - |
+       Усі малюнки Хорхе, на перший погляд, [видаються доволі дитячими]Evaluation, але за ними ховаються потужні інформаційні повідомлення.
+  - |
+       На перший погляд [здалося, що це сліди крові]Evaluation, але, вочевидь, Тео просто облився вином.
+  - |
+       На перший погляд, [цей будинок старий і незручний]Evaluation, але всередині він сучасний і добре обладнаний.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       at first glance
+  - russian: |
+       на первый взгляд, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Discourse structure
+    subtypes:
+      - type: Equivocate

@@ -1,0 +1,52 @@
+---
+record: 125
+name: "Cl через NP-АСС"
+illustration: "Вогонь швидко поширився через суху погоду та вітер."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Kонструкція вказує на [причину]Cause певної [ситуації]Situation.
+  - english: |
+       This construction indicates the [cause]Cause of a certain [situation]Situation.
+  - russian: |
+       Конструкция указывает на [причину]Cause возникновения некоторой [ситуации]Situation.
+examples:
+  - |
+       Вже сьогодні через [брак ресурсів]Cause [виникають воєнні конфлікти]Situation.
+  - |
+       [Кількість поліцейських патрулів зменшується]Situation через [неробочі автомобілі]Cause.
+  - |
+       [Пожежа сталася]Situation через [загоряння літієвих акумуляторів]Cause.
+  - |
+       Європейські університетські ігри проводять раз на два роки, однак через [пандемію]Cause [попередні змагання відбувалися ще у 2018 році]Situation.
+  - |
+       У поліції кажуть, що через [виявлені в нього наркотики]Cause [розпочали кримінальну справу]Situation.
+morphology:
+  - Cl
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       because of X
+  - russian: |
+       Cl из-за NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause

@@ -1,0 +1,52 @@
+---
+record: 101
+name: "не надто  XP"
+illustration: "Вигляд у них був не надто веселий."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для пониження ступеня прояву [ознаки]Property або [дії]Action у формальній чи письмовій мові, тобто показує, що щось виявляється слабкіше, менш інтенсивно або менш виразно, ніж можна було б очікувати, без додаткового емоційного забарвлення.
+  - english: |
+       The construction is used to reduce the degree of manifestation of a [property]Property or [action]Action in formal or written language, that is, it shows that something appears weaker, less intense, or less pronounced than might be expected, without additional emotional coloring.
+  - russian: |
+       Конструкция используется для понижения степени проявления [признака]Property или [действия]Action в формальной или письменной речи, то есть показывает, что что-то проявляется слабее, менее интенсивно или менее выраженно, чем можно было бы ожидать, без дополнительной эмоциональной окраски.
+examples:
+  - |
+       Блендер не дуже потужний, але досить компактний, не надто [гучний]Property.
+  - |
+       Татові справи на біржі йшли не надто [добре]property.
+  - |
+       Останнім часом ти не надто [старався]Action.
+  - |
+       Пасажири, які летіли на відпочинок авіарейсом Львів-Шарм-ель-Шейх, через птахів пережили не надто [приємні]Property емоції.
+  - |
+       Сильний вітер і температура води в 16° C не надто [налаштовують]Action на купання.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not so
+  - russian: |
+       не очень(-то)/не слишком(-то) XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher

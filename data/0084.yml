@@ -1,0 +1,51 @@
+---
+record: 84
+name: "VP про/на всяк випадок"
+illustration: "Посигналили про всяк випадок"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [дія]Action здійснюється з метою передбачення можливих обставин або непередбачуваних ситуацій, тобто на випадок, якщо щось станеться.
+  - english: |
+       The construction indicates that [an action]Action is performed to anticipate possible circumstances or unforeseen situations, that is in case something happens.
+  - russian: |
+       Конструкция указывает на то, что [действие]Action совершается с целью предвидения возможных обстоятельств или непредвиденных ситуаций, то есть на случай, если что-то произойдет.
+examples:
+  - |
+       Я вирішив про всяк випадок [перепаркувати машину]Action.
+  - |
+       Жінка вирішила про всяк випадок [зателефонувати сину]Action.
+  - |
+       Я про всяк випадок [подивилася на дату]Action.
+  - |
+       Мешканцям столиці слід про всяк випадок [тримати теплі речі під рукою]Action.
+  - |
+       Поліція про всяк випадок [вжила підвищених заходів безпеки]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X just in case
+  - russian: |
+       VP на всякий (пожарный) (случай)
+common_fillers:
+  - ~
+semantic_types:
+  - type: Condition

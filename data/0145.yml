@@ -1,0 +1,56 @@
+---
+record: 145
+name: "PronInt завгодно"
+illustration: "Хто завгодно може це зробити."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає вільний вибір [об’єкта]Theme, [учасника]Participant, [часу]Time або [місця]Location із набору можливих варіантів, наданих певному учаснику ситуації. Зазвичай вона передає або невизначеність у виборі, або байдужість мовця до конкретного варіанту.
+  - english: |
+       The construction denotes a free choice of [object]Theme, [participant]Participant, [time]Time, or [place]Location from a set of possible options provided to a participant in the situation. It usually expresses either uncertainty in the choice or the speaker’s indifference toward a specific option.
+  - russian: |
+       Конструкция обозначает свободный выбор [объекта]Theme, [участника]Participant, [времени]Time или [места]Location из набора возможных вариантов, предоставленных какому-либо участнику ситуации. Обычно она передаёт либо неопределённость при выборе, либо безразличие говорящего к конкретному варианту.
+examples:
+  - |
+       Ти можеш сказати [що]Theme завгодно, але це не змінить мого рішення залишитися.
+  - |
+       Можеш запросити [кого]Participant завгодно, але відповідальність за організацію все одно буде на тобі.
+  - |
+       Вона може виглядати [як]Manner завгодно впевненою, але всередині вона все ще сумнівається.
+  - |
+       Ми можемо почати роботу [коли]Time завгодно, але завершити її потрібно до кінця тижня.
+  - |
+       Він готовий жити [де]Location завгодно, якщо там є можливість розвивати кар’єру.
+morphology:
+  - PronInt
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       any X at all
+  - russian: |
+       PronInt угодно
+common_fillers:
+  - що
+  - хто
+  - який
+  - коли
+  - де
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+      - type: Free choice

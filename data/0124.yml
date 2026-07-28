@@ -1,0 +1,56 @@
+---
+record: 124
+name: "NP-Nom знати NP-Acc за NP-Inst"
+illustration: "Він знав цього актора за фільмами."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Kонструкція вказує на те, що [учасник]Experiencer має уявлення про іншого [учасника]Participant або [об’єкт]Оbject на основі певного [джерела]Source.
+  - english: |
+       This construction indicates that a [participant]Experiencer has some knowledge about another [participant]Participant or [object]Object based on a certain [source]Source.
+  - russian: |
+       Kонструкция указывает на то, что [участник]Experiencer имеет представление о другом [участнике]Participant или [объекте]Оbjectна основе определённого [источника]Source.
+examples:
+  - |
+       Уже тоді [його]Participant знали за [чудовими віршами]Source.
+  - |
+       У США [її]Participant знають за [виконання сучасної музики]Source на фортепіано.
+  - |
+       У фільмі знімається [Ольга Гришина]Participant, яку [глядач]Experiencer може знати за [серіалами]Source.
+  - |
+       Зірка Голлівуду [Кірк Дуглас]Participant, якого [ми]Experiencer знаємо за [фільмом “Спартак”]Source, почав розпродаж своєї знаменитої колекції картин.
+  - |
+       Крім того, [Коддінгтон]Participant також знають за [її захопленням художньою фотографією]Source.
+morphology:
+  - NP-Nom
+  - NP-Acc
+  - NP-Inst
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       be acquainted with Х based on Y
+  - russian: |
+       NP-Nom знать NP-Acc по NP-Dat
+common_fillers:
+  - ~
+semantic_types:
+  - type: Source of information
+    subtypes:
+      - type: Source of information

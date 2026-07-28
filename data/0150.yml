@@ -1,0 +1,52 @@
+---
+record: 150
+name: "NP-Dat вдалося VP-Inf"
+illustration: "Мені вдалося знайти потрібну книжку."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [учасник]Agent зміг успішно виконати певну [дію]Action, попри труднощі, перешкоди або малоймовірність її здійснення.
+  - english: |
+       The construction indicates that the [participant]Agent was able to successfully perform a certain [action]Action despite difficulties, obstacles, or the low likelihood of accomplishing it.
+  - russian: |
+       Конструкция обозначает, что [участнику]Agent удалось успешно выполнить некоторое [действие]Action, несмотря на трудности, препятствия или малую вероятность его осуществления.
+examples:
+  - |
+       [Рятувальникам]Agent не вдалося [дістатися до віддаленого села]Action через сильний снігопад.
+  - |
+       [Нам]Agent нарешті вдалося [завершити реконструкцію будівлі в межах запланованого бюджету]Action.
+  - |
+       Попри сильний вітер [пілотові]Agent вдалося [безпечно посадити літак на резервному аеродромі]Action.
+  - |
+       [Юристам компанії ]Agentне вдалося [оскаржити рішення апеляційного суду]Action.
+  - |
+       [Редакції]Agent вдалося [отримати ексклюзивний коментар від міністра перед пресконференцією]Action.
+morphology:
+  - NP-Dat
+  - VP-Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       manage to do, succeed in doing
+  - russian: |
+       NP-Dat удалось VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Actuality
+    subtypes:
+      - type: Result

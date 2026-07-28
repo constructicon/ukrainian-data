@@ -1,0 +1,49 @@
+---
+record: 74
+name: "ледве XP"
+illustration: "Він ледве ходить."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція знижує інтенсивність дії або ознаки. Якщо слот XP заповнюється дієсловом, вона вказує на те, що учасник виконує [певну дію]Action з труднощами та з низьким ступенем успішності (приклади 1, 2). Якщо ж слот XP заповнюється прикметником або прислівником, конструкція виражає слабкий ступінь прояву [певної ознаки]Property (приклади 4, 5).
+  - english: |
+       The construction reduces the intensity of an action or a property. When the XP slot is filled by a verb, it indicates that the participant performs [a certain action]Action with difficulty and with a low degree of success (examples 1, 2, 3). When the XP slot is filled by an adjective or an adverb, the construction expresses a weak degree of manifestation of [a certain property]Property (examples 4, 5).
+  - russian: |
+       Конструкция снижает интенсивность действия или признака. При заполнении слота XP глаголом она указывает на то, что участник выполняет [некоторое действие]Action с трудом и это действие получается плохо (примеры 1, 2, 3). Если слот XP заполняется прилагательным или наречием, конструкция выражает слабую степень проявления [некоторого признака]Property (примеры 4, 5).
+examples:
+  - |
+       Микита ледве [стримував]Action сміх, але Даші було не до веселощів. (Левада, 2020)
+  - |
+       Жінка, прийшовши трохи до тями, ледве [вийшла]Action на сходову і подзвонила у двері сусідам. (Фіртка, 2017)
+  - |
+       Жителі столиці скаржаться, що батареї часом ледве [теплі]Property. (Економічна правда, 2013)
+  - |
+       Граф Станіслав знову замовк, ледве [помітно]Property усміхаючись. (Шарик, 2014)
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       hardly X / barely X / have a hard time X-ing
+  - russian: |
+       еле XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer

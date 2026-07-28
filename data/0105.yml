@@ -1,0 +1,56 @@
+---
+record: 105
+name: "NP-Dat бракує NP-Gen inf?????"
+illustration: "Мені бракує часу."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження нестачі або відсутності [певного елементу]Theme, якого потребує дія, ситуація або оцінка. Конструкція показує, що певний елемент необхідний, але його не вистачає. Конструкція виражає недостатність, а не повну відсутність.
+  - english: |
+       The construction is used to express the lack or absence of [a certain element]Theme that is required by an action, situation, or evaluation. The construction indicates that a particular element is necessary, but it is missing. The construction expresses insufficiency, not absolute non-existence.
+  - russian: |
+       Конструкция используется для выражения нехватки или отсутствия [определённого элемента]Theme, который требуется действием, ситуацией или оценкой. Конструкция показывает, что определённый элемент необходим, но его не хватает. Конструкция выражает недостаточность, а не полное отсутствие.
+examples:
+  - |
+       Йому бракує [досвіду і знань]Theme. У минулому!!!!!
+  - |
+       Автори проєкту нарікали, що в мікрорайоні бракує [місць відпочинку]Theme.
+  - |
+       Мені бракує [його слушних життєвих порад, його оптимізму]Theme.
+  - |
+       Також він повідомив, що в місті [бракує лікарів і фармацевтів]Theme.
+  - |
+       Аби зрозуміти цей процес, вченим бракує [попередніх даних]Theme.
+morphology:
+  - NP-Dat
+  - NP-Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X lacks Y
+  - russian: |
+       NP-Dat не хватает NP-Gen
+common_fillers:
+  - часу
+  - досвіду
+  - терпіння
+  - грошей
+  - уваги
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification

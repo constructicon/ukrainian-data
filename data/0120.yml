@@ -1,0 +1,52 @@
+---
+record: 120
+name: "NP-Acc звати/звали/звуть NP-Nom/NP-Ins"
+illustration: "Мене звати Оксана."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція означає, що в [деякого учасника]Participant є конкретне [ім’я]Name.
+  - english: |
+       The construction indicates that a [participant]Participant has a specific [name]Name.
+  - russian: |
+       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Name.
+examples:
+  - |
+       Як [тебе]Participant звати, хлопчику?
+  - |
+       [Його]Participant звати [Микита]Property, лише 11 років дитині, учень шостого класу.
+  - |
+       У Артура [дружину]Participant звуть [Ларою]Property.
+  - |
+       Звати [його]Participant [Сергій]Property, він — зі Львова, має бізнес за кордоном.
+  - |
+       Мама завжди хотіла, щоб звали [мене]Participant [Костянтином]Property, як батька.
+morphology:
+  - NP-Acc
+  - NP-Nom/Ins
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is called
+  - russian: |
+       NP-Acc зовут NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming

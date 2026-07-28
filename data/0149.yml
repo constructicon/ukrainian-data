@@ -1,0 +1,58 @@
+---
+record: 149
+name: "(NP-Dat) (не) варто VP-Inf"
+illustration: "Студентам варто уважніше слухати лекції."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що мовець спонукає іншого [учасника або самого себе]Causee виконати певну [дію]Action, яку мовець вважає доречною та необхідною в певній ситуації. У заперечній формі конструкція використовується, коли мовець ввічливо спонукає учасника ситуації не виконувати певну [дію]Action.
+  - english: |
+       The construction indicates that the speaker encourages another [participant or themselves]Causee to perform a certain [action]Action that the speaker considers appropriate and necessary in a given situation. In the negative form, the construction is used when the speaker politely encourages the participant not to perform a certain [action]Action.
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации. При отрицании конструкция используется, когда говорящий вежливо побуждает участника ситуации не выполнять некоторое [действие]Action.
+examples:
+  - |
+       [Тобі]Causee не варто [погоджуватися на такі умови контракту]Action без консультації з юристом.
+  - |
+       [Нам]Causee не варто [недооцінювати]Action наслідки різкого підвищення цін на енергоносії.
+  - |
+       [Керівникам проєкту]Causee варто [оцінити]Action ризики міжнародного партнерства.
+  - |
+       [Тобі]Causee не варто [відповідати]Action на провокаційні коментарі в соціальних мережах.
+  - |
+       Варто уважніше [поставитися до захисту персональних даних клієнтів]Action.
+morphology:
+  - NP-Dat
+  - VP-Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       (not) worth doing, should do
+  - russian: |
+       (NP-Dat) стоит VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Prohibition
+    subtypes:
+      - type: External prohibition
+  - type: Root modality
+    subtypes:
+      - type: Root modality

@@ -1,0 +1,53 @@
+---
+record: 152
+name: "на завершення VP/Cl"
+illustration: "На завершення хочу побажати всім миру та добробуту."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для завершення мовлення, вводить [заключну частину висловлювання]Theme.
+  - english: |
+       This construction is used to conclude a statement, providing [the concluding portion of a statement]Theme.
+  - russian: |
+       Конструкция используется для завершения речи, вводит [заключительную часть высказывания]Theme.
+examples:
+  - |
+       На завершення [учасники занять отримають сертифікати про проходження тренінгу]Theme.
+  - |
+       На завершення [я хочу подякувати всім учасникам конференції]Theme.
+  - |
+       На завершення доповіді [дозвольте коротко підсумувати основні результати]Theme.
+  - |
+       На завершення [міністр відповів на запитання журналістів]Theme.
+  - |
+       На завершення [сторони висловили взаємну зацікавленість у співпраці]Theme.
+morphology:
+  - VP
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to sum up, in conclusion
+  - russian: |
+       в заключение VP/Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Sequence

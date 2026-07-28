@@ -1,0 +1,52 @@
+---
+record: 131
+name: "ніяк не VP"
+illustration: "Я ніяк не можу знайти свої ключі вже другу годину."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що певну [дію]Action неможливо виконати за жодних умов, навіть у найменшій мірі.
+  - english: |
+       The construction indicates that a particular [action]Action cannot be carried out under any circumstances, not even to the slightest degree.
+  - russian: |
+       Конструкция указывает на то, что определённое [действие]Action невозможно выполнить ни при каких условиях и даже в самой незначительной степени.
+examples:
+  - |
+       Він ніяк не [може заснути]Action через шум за вікном.
+  - |
+       Команда ніяк не [досягає]Action консенсусу щодо кінцевої версії проєкту.
+  - |
+       Я уважно перечитував його повідомлення і все ніяк не [міг зрозуміти]Action, що саме він має на увазі.
+  - |
+       Я перевіряв усі можливі джерела інформації, але ніяк не [знаходив]Action потрібного документа в архіві.
+  - |
+       Я кілька разів намагався її заспокоїти, але вона ніяк не [реагувала]Action на мої слова.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negative Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       it cannot be done, not capable of doing it (Fut)
+  - russian: |
+       никак не VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Conative

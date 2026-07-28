@@ -1,0 +1,53 @@
+---
+record: 109
+name: "(NP-Dat) Cop не можна VP-Inf"
+illustration: "Тут не можна так поводитися!"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження заборони або недопустимості виконання певної [дії або ситуації]Theme. Конструкція показує, що виконання цієї дії не дозволяється, вважається неправильним або забороненим у певних умовах.
+  - english: |
+       The construction is used to express the prohibition or unacceptability of performing a certain [action or situation]Theme. The construction indicates that performing the action is not allowed, considered inappropriate, or forbidden under certain conditions.
+  - russian: |
+       Конструкция используется для выражения запрета или недопустимости выполнения определённого [действия или ситуации]Theme. Конструкция показывает, что выполнение этого действия не разрешается, считается неправильным или запрещённым в определённых условиях.
+examples:
+  - |
+       Є речі, які дітям не можна [дивитися]Theme.
+  - |
+       Не можна [брати воду в літак]Theme.
+  - |
+       У момент, коли ви відчуваєте стрес, не можна [приймати важливі рішення]Theme.
+  - |
+       Коли мені було 9 років, мені не можна було [їсти чипси]Theme.
+  - |
+       Він уже й так опізнився, тож не можна [гаяти ні хвилини]Theme!
+morphology:
+  - NP-Dat
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       is prohibited
+  - russian: |
+       (NP-Dat) Cop нельзя VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Prohibition

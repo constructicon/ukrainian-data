@@ -1,0 +1,54 @@
+---
+record: 156
+name: "все ще VP"
+illustration: "Компанія все ще шукає інвесторів для реалізації нового проєкту."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція означає тривалу [дію]Action, яка почалася в минулому. Очікувалося, що ця дія мала закінчитися, але вона триває.
+  - english: |
+       The construction indicates an ongoing [action]Action that started in the past. It was expected that this action would have ended, but it is still continuing.
+  - russian: |
+       Конструкция обозначает продолжительное [действие]Action, которое началось в прошлом. Ожидалось, что это действие должно было закончиться, но оно продолжается.
+examples:
+  - |
+       Він усе ще [сподівається знайти документи]Action, які зникли під час переїзду.
+  - |
+       Вона все ще [не може звикнути до життя в іншій країні]Action.
+  - |
+       Пацієнт усе ще [перебуває під наглядом лікарів після складної операції]Action.
+  - |
+       Я все ще [пам’ятаю нашу першу зустріч у Києві багато років тому]Action.
+  - |
+       Уряд усе ще [розглядає кілька варіантів реформування податкової системи]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       still
+  - russian: |
+       всё ещё VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Phase of action
+    subtypes:
+      - type: Continuative

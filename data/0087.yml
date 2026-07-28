@@ -1,0 +1,56 @@
+---
+record: 87
+name: "що означає Cl?"
+illustration: "Що означає "визнати свої помилки"?"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для переосмислення або уточнення [значення слова, виразу чи висловлювання]Rephrasing, яке мовцеві здається неясним, неточним або умовним; часто після запитання подається пояснення, переформулювання або альтернативна інтерпретація.
+  - english: |
+       The construction is used to challenge or clarify [the meaning of an expression]Rephrasing that the speaker considers unclear, imprecise, or tentative; the question is often followed by an explanation, a rephrasing, or an alternative interpretation.
+  - russian: |
+       Конструкция используется для переосмысления или уточнения [смысла слова, выражения или высказывания]Rephrasing, которое говорящий считает неясным, неточным или условным; часто за вопросом следует пояснение, переформулировка или альтернативная интерпретация.
+examples:
+  - |
+       Невже нарешті з'являться дівчата у проекті?  — Що означає [«нарешті»]Rephrasing?
+  - |
+       Що означає [доступне житло]Rephrasing? Дешеве з точки зору орендної плати.
+  - |
+       — Брешеш!  — Що означає «брешеш»? — поцікавився хлопчик. — Це значить — неправду кажеш.
+  - |
+       Що означає: [«я хочу, щоб людина хотіла...»]Rephrasing? Але як можна «хотіти, щоб людина хотіла»? Така ось ненав'язлива маніпуляція з підміною чужих бажань своїми вимогами.
+  - |
+       Але ось такий факт: що означає [рубльова зона]Rephrasing, коли немає рубля?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Verb Predicate???
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       What does it mean X?
+  - russian: |
+       что значит Cl?
+common_fillers:
+  - ~
+semantic_types:
+  - type: Mirative
+    subtypes:
+      - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise

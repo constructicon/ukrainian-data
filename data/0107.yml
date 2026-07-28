@@ -1,0 +1,53 @@
+---
+record: 107
+name: "NP-Dat (Cop) (не) до вподоби VP-Inf/ NP-Nom"
+illustration: "Мені до вподоби ця музика."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [мовець]Experiencer сприймає певний [об’єкт, діяльність або ситуацію]Theme як приємний, бажаний або такий, що викликає схвалення.
+  - english: |
+       The construction indicates that the [speaker] Experiencer perceives a certain [object, activity, or situation] Theme as pleasant, desirable, or as something that elicits approval.
+  - russian: |
+       Конструкция обозначает, что [говорящий] Experiencer воспринимает определённый [объект, деятельность или ситуацию] Theme как приятный, желательный или вызывающий одобрение.
+examples:
+  - |
+       [Така музика]Theme була [йому]Experiencer до вподоби.
+  - |
+       [Дітям]Experiencer дуже до вподоби [гратися разом]Theme.
+  - |
+       [Вуличний спорткомплекс]Theme [усім]Experiencer до вподоби.
+  - |
+       [Гостям міста]Experiencer найбільше до вподоби [різноманітні срібні сувеніри]Theme.
+  - |
+       Як і багатьом жінкам, [їй]experiencer до вподоби [вишукані страви]Theme.
+morphology:
+  - NP-Dat
+  - VP-Inf
+  - NP-Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X likes Y
+  - russian: |
+       NP-Dat (не) нравится VP-Inf/ NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude

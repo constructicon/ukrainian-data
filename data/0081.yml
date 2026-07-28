@@ -1,0 +1,55 @@
+---
+record: 81
+name: "(у)весь час VP"
+illustration: "Микола весь час працює."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Kонструкція вказує на те, що, з точки зору мовця, [певна дія]Action відбувається постійно (має регулярний характер) або [певний стан]State зберігається протягом тривалого часу.
+  - english: |
+       The construction indicates that, from the speaker’s point of view, [a certain action]Action occurs on a regular basis, or [a certain state]State persists over a long period of time.
+  - russian: |
+       Kонструкция указывает на то, что, с точки зрения говорящего, [некоторое действие]Action происходит постоянно (имеет регулярный характер) или [некоторое состояние]State сохраняется на протяжении длительного времени.
+examples:
+  - |
+       Увесь час [ідуть]Action щоденні дощі.
+  - |
+       Я увесь час [роблю]Action, що мені велять!
+  - |
+       І вона, і її чоловік увесь час [були разом]State в Україні.
+  - |
+       Одна дівчинка їхала у кареті й увесь час [повторювала]Action мамі, що вона королева.
+  - |
+       Мама часто поливала дерева і увесь час [переносила]Action шланг з одного місця на інше.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       all the time X
+  - russian: |
+       всё время VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period

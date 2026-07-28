@@ -1,0 +1,52 @@
+---
+record: 95
+name: "VP замість NP-Gen"
+illustration: "Замість нього премію отримала його сестра Наталія."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що певний [учасник]Agent здійснює [дію]Action замість іншого [учасника]Deputy. Дійсний виконавець дії відрізняється від того, хто зазвичай або очікувано мав би її виконати.
+  - english: |
+       The construction indicates that a certain [participant]Agent performs an [action]Action in place of another [participant]Deputy. The actual performer of the action is different from the one who would normally or expectedly perform it. One [thing, action or person] can be substituted for another [one].
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent выполняет [действие]Action вместо другого [участника]Deputy. Фактический исполнитель действия отличается от того, кто обычно или ожидаемо должен был его выполнить.
+examples:
+  - |
+       [Мати]Agent [прийшла]Action на збори замість [батька]Deputy, який був на роботі.
+  - |
+       [Тренер]Agent [відповів]Action на запитання журналістів замість [капітана команди]Deputy.
+  - |
+       [Він]Agent [брав участь]Action у нараді замість [начальника відділу]Deputy.
+  - |
+       [Депутат]Agent [проголосував]Action замість [відсутнього колеги]Deputy.
+  - |
+       Замість [обіцяних трьох днів]??, [водоканал]Agent тримав центр міста без води лише один.
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       instead of, in place of
+  - russian: |
+       VP вместо NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Subject substituition

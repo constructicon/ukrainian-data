@@ -1,0 +1,53 @@
+---
+record: 93
+name: "на кшталт XP/Cl"
+illustration: "Іван порвав футболку на кшталт бинтів і зробив Яні перев'язку."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вживається для вказівки на те, що предмет, явище чи ситуація мають спільні ознаки з [іншим предметом, явищем або ситуацією]Theme, який виступає зразком порівняння. Конструкція не виражає повної тотожності, а лише вказує на наявність окремих спільних рис.
+  - english: |
+       The construction is used to indicate that an object, phenomenon, or situation shares certain features with [another object, phenomenon, or situation]Theme, which serves as a model for comparison. The construction does not express complete identity but only points to the presence of certain common traits.
+  - russian: |
+       Конструкция используется для указания на то, что предмет, явление или ситуация имеют общие черты с [другим предметом, явлением или ситуацией]Theme, который выступает в качестве образца для сравнения. Конструкция не выражает полной тождественности, а лишь указывает на наличие отдельных общих признаков.
+examples:
+  - |
+       На мою думку, це можна трактувати на кшталт [національної катастрофи]Theme.
+  - |
+       Українцям доводиться орендувати житло за велику ціну або жити десь на кшталт [спортзалу]Theme.
+  - |
+       Деякі програми, на кшталт [YouTube і Hangouts]Theme, продовжують функціонувати коректно.
+  - |
+       У великих містах на кшталт [Нью-Калькутти]Theme метро було найкращим способом пересування.
+  - |
+       Масла на кшталт [арганового і макадамії]Theme не можуть коштувати дешево.
+morphology:
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       as, like
+  - russian: |
+       как (пример)
+common_fillers:
+  - ~
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Exemplification

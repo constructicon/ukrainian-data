@@ -1,0 +1,52 @@
+---
+record: 82
+name: "не дуже/не надто ХР"
+illustration: "Я не дуже добре підготувалася."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [ознака]Property або [дія]Action проявляється не в повній мірі/меншою мірою.
+  - english: |
+       The construction indicates that a [property]Property or an [action]Action is manifested not fully/to a lesser degree.
+  - russian: |
+       Конструкция указывает на то, что [признак]Property или [действие]Action проявляется не в полной мере/в меньшей степени.
+examples:
+  - |
+       Виблискував сніг, було не дуже [темно]Property.
+  - |
+       Вигляд у них був не надто [веселий]Property.
+  - |
+       Моя творчість теж не надто [мала успіх]Action.
+  - |
+       Проект для Києва не дуже [дорогий]Property - кілька мільярдів гривень.
+  - |
+       Є вітчизняний препарат, але його українські діабетики не дуже [хочуть купувати]Action.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not very, not too
+  - russian: |
+       не очень(-то)/не слишком(-то) XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher

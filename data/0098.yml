@@ -1,0 +1,56 @@
+---
+record: 98
+name: "(NP-Dat) Cop потрібно VP-Inf"
+illustration: "Мені потрібно поговорити з батьком."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення того, що певному [учаснику]Recipient необхідно виконати певну [дію]Action. Вона виражає необхідність або доцільність і часто сприймається як більш формальна, нейтральна або об’єктивна форма висловлювання.
+  - english: |
+       The construction is used to indicate that a certain [participant]Recipient needs to perform a particular [action]Action. It expresses necessity or advisability and is often perceived as more formal, neutral, or objective.
+  - russian: |
+       Конструкция  используется для обозначения того, что определённому [участнику]Recipient необходимо выполнить определённое [действие]Action. Она выражает необходимость или целесообразность и часто воспринимается как более формальная, нейтральная и официальная.
+examples:
+  - |
+       [Україні]Participant [потрібно стати]Action країною, якій би довіряли іноземні інвестори.
+  - |
+       Кожен ранок потрібно [починати]Action зі склянки води, краще теплої.
+  - |
+       Якщо [вам]Participant потрібно [надолужити сон]Action, просто лягайте раніше.
+  - |
+       Ігнат вважає, що потрібно не менше ніж півроку на навчання пілотів.
+  - |
+       З 1 червня частину медичних препаратів потрібно [отримувати]Action за електронним рецептом.
+morphology:
+  - NP-Dat
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       need, have to
+  - russian: |
+       (NP-Dat) Cop надо/нужно VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity
