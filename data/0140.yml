@@ -1,0 +1,52 @@
+---
+record: 140
+name: "VP як треба"
+illustration: "Після ремонту все працює як треба"
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що певна [дія]Action виконується за всіма правилами. У мовця є уявлення про певний стандарт, відповідно до якого, на його думку, має виконуватися ця дія.
+  - english: |
+       The construction indicates that a certain [action]Action is performed according to all established rules. The speaker has an idea of a certain standard according to which, in their opinion, this action should be carried out.
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action выполняется по всем правилам. У говорящего есть представление об определенном стандарте, в соответствии с которым, по его мнению, должно выполняться это действие.
+examples:
+  - |
+       Якщо робиш усе сама, то все [виходить]Action як треба.
+  - |
+       Попри обмежений час і складні умови, команда [завершила]Action проєкт як треба.
+  - |
+       Після кількох невдалих спроб майстер нарешті [відрегулював]Action механізм як треба.
+  - |
+       Oрганізатори [провели]Action конференцію як треба, залучивши міжнародних спікерів.
+  - |
+       Хоча погода різко погіршилася, туристи [організували]Action табір як треба.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to X just right
+  - russian: |
+       VP как надо
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Positive

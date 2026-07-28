@@ -1,0 +1,55 @@
+---
+record: 129
+name: "як (NP-Dat) не соромно Cop VP-Inf!"
+illustration: "Як не соромно обдурювати жінку?"
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що мовець критикує [поведінку]Action [учасника]Experiencer у ситуації з погляду моральних принципів.
+  - english: |
+       This construction indicates that the speaker is criticising the [behaviour]Action of the [participant]Experiencer in the situation from the point of view of moral principles.
+  - russian: |
+       Конструкция обозначает, что говорящий критикует [поведение]Action [участника]Experiencer ситуации с точки зрения моральных принципов.
+examples:
+  - |
+       Як [тобі]Experiencer не соромно так [поводитися]Action з людьми, які тобі не раз допомагали!?
+  - |
+       Як не соромно [вам]Experiencer було [вимагати підвищення оплати]Action, знаючи, що компанія ледве тримається на плаву після останньої кризи?
+  - |
+       Як не соромно [говорити]Action такі речі про колег, з якими вона працює вже понад десять років.
+  - |
+       Як [йому]Experiencer  не соромно [критикувати]Action роботу інших?!
+  - |
+       Як не соромно [компаніїї]Experiencer [робити вигляд]Action, що нічого не сталося, після того як вона публічно поширила неправдиву інформацію про своїх конкурентів.
+morphology:
+  - (NP-Dat)
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloqual
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       How shameful it is to X!
+  - russian: |
+       как (NP-Dat) не стыдно/совестно Cop VP-Inf!
+common_fillers:
+  - ~
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Negative

@@ -1,0 +1,55 @@
+---
+record: 80
+name: "щонайменше XP"
+illustration: "Постраждали щонайменше три людини."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція виражає мінімальну кількісну або якісну межу та називає найменшу [кількість]Quantity об’єктів або учасників.
+  - english: |
+       The construction expresses a minimum quantitative or scalar limit and indicates the smallest or least [quantity or level]Quantity of objects or participants.
+  - russian: |
+       Конструкция выражает минимальную количественную или качественную границу и обозначает наименьшее [количество]Quantity объектов или участников.
+examples:
+  - |
+       В результаті теракту загинули щонайменше [20 людей]Quantity.
+  - |
+       У середу ще двоє боксерів гарантували собі щонайменше [бронзові нагороди]Quantity.
+  - |
+       Щонайменше [150 терористів]Quantity знищено, 6 опорних пунктів бойовиків зруйновано.
+  - |
+       Спробуйте відмовитися від використання смартфона чи ноутбука щонайменше [за годину ]Quantity до сну.
+  - |
+       На виготовлення одного робота у майстрів йде щонайменше [два місяці]Quantity кропіткої роботи та мінімум тисяча доларів.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       at least X
+  - russian: |
+       как минимум XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Concession
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain

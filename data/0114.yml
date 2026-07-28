@@ -1,0 +1,52 @@
+---
+record: 114
+name: "зараз же VP-Pfv"
+illustration: "Вона зараз же покличе лікаря."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження вимоги, наміру або рішення виконати певну [дію]Action негайно. Конструкція часто підкреслює терміновість, наполегливість або наказовість виконання.
+  - english: |
+       The construction is used to express a demand, intention, or decision to perform a certain [action]Action immediately. The construction often emphasizes urgency, insistence, or the imperative nature of carrying out the action.
+  - russian: |
+       Конструкция используется для выражения требования, намерения или решения выполнить определённое [действие]Action немедленно. Конструкция часто подчёркивает срочность, настойчивость или приказной характер выполнения действия.
+examples:
+  - |
+       Вона зараз же [знайде потрібну книгу]Action.
+  - |
+       Я зараз же [зателефоную вам]Action.
+  - |
+       Якщо інформація підтвердиться, журналісти зараз же [опублікують новину]Action.
+  - |
+       Вона сказала, що зараз же [прийде]Action, щойно закінчить розмову.
+  - |
+       Зараз же вона [опублікувала в своєму інста-блозі пост]Action, в якому принесла свої вибачення.
+morphology:
+  - VP-Pfv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       right now
+  - russian: |
+       сейчас же VP-Pfv
+common_fillers:
+  - ~
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual

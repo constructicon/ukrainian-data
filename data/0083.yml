@@ -1,0 +1,51 @@
+---
+record: 83
+name: "доволі/достатньо Adv VP Adj"
+illustration: "Ми бачилися доволі/достатньо часто."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція вказує на те, що [ознака]Property або [дія]Action досягає певного рівня або міри, але не перевищує його; іншими словами, щось відбувається або проявляється у  помірній мірі.
+  - english: |
+       The construction indicates that a [property]Property or an [action]Action reaches a certain level or degree, but does not exceed it; in other words, something happens or is manifested to a sufficient or moderate extent.
+  - russian: |
+       Конструкция указывает на то, что [признак]Property или [действие]Action достигает определённого уровня или степени, но не превышает его; другими словами, что-то происходит или проявляется в достаточной или умеренной мере.
+examples:
+  - |
+       Для роботи корабля буде достатньо [екіпажу з 50 осіб]Property.
+  - |
+       За життя митець встиг зняти доволі [багато фільмів]Property, які принесли йому світову славу.
+  - |
+       Я теж їздила до Києва, ми бачилися доволі [часто]Property.
+  - |
+       На початку епідемії Австралія доволі [успішно]Property боролася з коронавірусом.
+  - |
+       Людина вже достатньо [визначилася]Action, вона налаштована голосувати.
+morphology:
+  - Adv VP Adj
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       quite/fairly/sufficiently/enough
+  - russian: |
+       довольно/достаточно Adv VP Adj
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator

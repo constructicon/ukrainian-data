@@ -1,0 +1,56 @@
+---
+record: 116
+name: "NP-Nom вміти VP-Inf"
+illustration: "Я вмію плавати."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, что [некоторый участник]Agent має знання, здібності, знає як робити [певні дії]Action.
+  - english: |
+       The construction indicates that [a certain participant]Agent is knowledgeable, has the skills and knows how to perform [certain actions]Action.
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Agent обладает знаниями и знает, как выполнять [определённые действия]Action.
+examples:
+  - |
+       [Я]Agent вмію [ходити]Action по горах уночі.
+  - |
+       Соромно, що [він]Agent не вміє [читати]Action.
+  - |
+       [Автор]Agent вміє [розповідати]Action про огидні речі з усмішкою.
+  - |
+       [Наш бізнес]Agent вміє швидко [адаптуватися]Action до змін.
+  - |
+       Щоб мати фінансування, потрібно вміти [писати]Action гранти.
+morphology:
+  - NP-Nom
+  - VP-Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       can, have skills
+  - russian: |
+       NP-Nom уметь VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+      - type: Permission

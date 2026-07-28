@@ -1,0 +1,53 @@
+---
+record: 133
+name: "на думку NP-Gen, Cl"
+illustration: "На думку викладача, студент виконав завдання правильно."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає [оцінку] Evaluation  [учасника ситуації] Participant щодо певного питання.
+  - english: |
+       The construction expresses the opinion of a [participant in the situation] Participant on a certain issue and typically introduces an [evaluative statement] Evaluation.
+  - russian: |
+       Конструкция выражает мнение [участника ситуации]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation.
+examples:
+  - |
+       На думку [експерта]Participant, [ситуація може погіршитися найближчим часом]Evaluation.
+  - |
+       На думку [дослідників]Participant, [ця теорія потребує додаткових доказів]Evaluation.
+  - |
+       На думку [багатьох жителів міста]Participant, [транспортна система працює недостатньо ефективно]Evaluation.
+  - |
+       На думку [авторитетних букмекерів]Participant, [найбільш ймовірний рахунок — перемога Барселони 2:1]Evaluation.
+  - |
+       На думку [аналітиків банку]Participant, [золото продовжить зростання до нових максимумів]Evaluation.
+morphology:
+  - NP-Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       in X's opinion
+  - russian: |
+       по мнению NP-Gen, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion

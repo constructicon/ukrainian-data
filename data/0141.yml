@@ -1,0 +1,51 @@
+---
+record: 141
+name: "видимо/очевидно/вочевидь, Cl"
+illustration: "Вочевидь, проєкт потребує додаткового фінансування для завершення."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає припущення мовця про [певну ситуацію]ContentOfSpeech, яке він робить із високим ступенем упевненості. Ситуація оцінюється як ймовірна або дуже ймовірна.
+  - english: |
+       The construction expresses the speaker’s assumption about [a certain situation]ContentOfSpeech, which they make with a high degree of confidence. The situation is assessed as probable or very probable.
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная.
+examples:
+  - |
+       Очевидно, [ситуація вийшла з-під контролю ще на ранньому етапі]ContentOfSpeech.
+  - |
+       Видно, [він не зовсім зрозумів умови завдання]ContentOfSpeech.
+  - |
+       Вочевидь [рішення було прийнято без достатнього обговорення]ContentOfSpeech.
+  - |
+       Вочевидь [у співака депресія – через розлучення з дружиною]ContentOfSpeech.
+  - |
+       Очевидно, [обставини змінилися після останнього засідання комісії]ContentOfSpeech.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       it seems that
+  - russian: |
+       видно/видимо/очевидно, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty

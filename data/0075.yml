@@ -1,0 +1,53 @@
+---
+record: 75
+name: "NP-Dat Cop час VP-Inf"
+illustration: "Мені час іти."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція виражає необхідність або доцільність виконання дії, зумовлену настанням відповідного моменту.  Конструкція вказує на те, що для [учасника]Participant настала пора виконати [певну дію]Action, часто з відтінком неминучості або нормативного очікування.
+  - english: |
+       The construction expresses the necessity or expediency of performing an action determined by the arrival of an appropriate moment. It indicates that for [a given participant]Participant, the time has come to carry out [a certain action]Action, often with a nuance of inevitability or normative expectation.
+  - russian: |
+       Конструкция выражает необходимость или целесообразность выполнения действия, обусловленную наступлением соответствующего момента. Она указывает на то, что для [участника]Participant настала пора выполнить [определённое действие]Action, часто с оттенком неизбежности или нормативного ожидания.
+examples:
+  - |
+       І бізнесмен вирішив, що [йому]Participant час [зайнятися]Action у Києві нерухомістю. (НВ, 2019)
+  - |
+       І взагалі, [мені]Participant час [іти]Action — родичі будуть хвилюватися. (Одала, 2011)
+  - |
+       Ну, а тепер вибачайте, [мені]Participant час [вертатися]Action до інституту. (Літовченко, 2020)
+  - |
+       І [нам]Participant час [визначатися]Action, яку роль ми будемо далі відігравати в Європі. (UNIAN.NET, 2020)
+  - |
+       І зараз [вам]Participant час [вибирати]Action. (НВ, 2022)
+morphology:
+  - NP-Dat
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X has to Y / It's time for X to Y / X gotta Y
+  - russian: |
+       NP-Dat Cop пора VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Proper time

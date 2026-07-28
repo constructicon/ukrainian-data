@@ -1,0 +1,55 @@
+---
+record: 79
+name: "до NP-Gen!"
+illustration: "До побачення/зустрічі!"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція є формулою прощання, яка вживається для завершення контакту або спілкування. Виражає побажання майбутньої зустрічі або продовження взаємодії з адресатом.  Іменник у родовому відмінку (NP-Gen) позначає [точку зустрічі або момент прощання]Landmark, до якого відноситься побажання або прощання. Має стійкий, етикетний характер і не є повноцінним реченням.
+  - english: |
+       The construction is a farewell formula used to close contact or communication. It expresses a wish for a future meeting or the continuation of interaction with the addressee. The noun in the genitive case (NP-Gen) denotes a [meeting point or moment]Landmark to which the wish or farewell refers. The construction is fixed and etiquette-based and does not form a complete sentence.
+  - russian: |
+       Конструкция является формулой прощания, которая используется для завершения контакта или общения. Она выражает пожелание будущей встречи или продолжения взаимодействия с адресатом. Существительное в родительном падеже (NP-Gen) обозначает [точку встречи или моментa]Landmark, к которому относится пожелание или прощание. Конструкция имеет устойчивый, этикетный характер и не является полноценным предложением.
+examples:
+  - |
+       До [побачення]Landmark, хай вам щастить завжди і всюди.
+  - |
+       Він рукою махнув: — До [побачення]Landmark!
+  - |
+       Велике спасибі і до [зустрічі]Landmark, - сказав мій друг.
+  - |
+       Спасибі, рідна, до [зустрічі]Landmark!
+  - |
+       До [зустрічі]Landmark! — ще раз потиснув руку Андрій.
+morphology:
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       till X (eq. See you later)
+  - russian: |
+       до NP-Gen! До свидания!
+common_fillers:
+  - побачення
+  - зустрічі
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Parting
+  - type: Volition
+    subtypes:
+      - type: Volition

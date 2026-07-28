@@ -1,0 +1,54 @@
+---
+record: 112
+name: "жоден із NP-Gen.Pl не Verb"
+illustration: "Жоден із них про це ще не знав."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення відсутності дії, ознаки або ситуації у кожного елемента з певної [множини осіб або предметів]Set..
+  - english: |
+       The construction is used to denote the absence of an action, property, or situation for every element of a certain [set of persons or objects]Set.
+  - russian: |
+       Конструкция используется для обозначения отсутствия действия, признака или ситуации у каждого элемента определённого [множества лиц или предметов]Set.
+examples:
+  - |
+       Зараз жоден із [тих заводів]Set не працює.
+  - |
+       Жоден із [пацієнтів]Set не був щеплений проти грипу.
+  - |
+       Жоден із  [фільмів Тарантіно]Set не знятий за готовим романом. ЖОДНА ІЗ
+  - |
+       Жоден із [присутніх]Set у ресторані не заступився за дівчину.
+  - |
+       Жоден із [кандидатів]Set не набрав більшості голосів.
+morphology:
+  - NP-Gen.Pl
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Negation
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       none of X
+  - russian: |
+       ни один из NP-Gen.Pl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal

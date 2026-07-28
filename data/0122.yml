@@ -1,0 +1,53 @@
+---
+record: 122
+name: "без п'яти хвилин NP"
+illustration: "Я без п’яти хвилин випускник університету."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [особа]Participant перебуває на завершальному етапі становлення чи набуття певного [статусу]Status, майже досягнувши його, але формально ще не набувши. Зазвичай ідеться про здобуття професії, просування кар’єрними сходами або підвищення статусу в особистих чи родинних стосунках.
+  - english: |
+       The construction indicates that a [person]Participant is at the final stage of becoming or acquiring a certain [status]Status, having almost reached it but not yet having formally attained it. It usually refers to obtaining a profession, advancing in one’s career, or gaining a higher status in personal or family relationships.
+  - russian: |
+       Конструкция обозначает, что [лицо]Participant находится на завершающем этапе становления или приобретения определённого [статуса]Status, почти достигнув его, но формально ещё не приобретя. Обычно речь идёт о получении профессии, продвижении по карьерной лестнице или повышении статуса в личных или семейных отношениях.
+examples:
+  - |
+       [Я]Participant був без п'яти хвилин [лікарем]Status.
+  - |
+       [Bін]Participant - без п'яти хвилин [викладач]Status історії вищого навчального закладу!
+  - |
+       У коментарі до фото актор зазначив, що [він]Participant без п'яти хвилин [наречений]Status.
+  - |
+       [Вони]Participant, без п'яти хвилин [лауреати]Status, вже святкують.
+  - |
+       [Ти]Participant без п'яти хвилин – [дружина]Status, тому турбуватися потрібно за свого чоловіка.
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloqual
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       near-X, almost X, X-to-be
+  - russian: |
+       без пяти минут NP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status

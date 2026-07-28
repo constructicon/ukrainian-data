@@ -1,0 +1,53 @@
+---
+record: 126
+name: "VP від імені NP-Gen"
+illustration: "Вона подякувала вчителю від імені класу."
+cefr_level: А2
+definitions:
+  - ukrainian: |
+       Конструкція означає, що [учасник]Agent [говорить або діє]Action від імені [людини, групи людей або організації]Counteragent, за їхнім дорученням або за їхньою згодою.
+  - english: |
+       The construction indicates that the [participant]Agent [speaks or acts]Action on behalf of a [person, group of people or an organization]Counteragent, by their authorization or with their consent.
+  - russian: |
+       Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [человека, группы людей или организации]Counteragent, по их поручению или с их согласия.
+examples:
+  - |
+       Сьогодні [я]Agent [хотів би зачитати]Action заяву від імені [Екологічної партії]Counteragent.
+  - |
+       Його документ підписаний [особою]Agent, яка [може діяти]Action від імені [посольства]Counteragent.
+  - |
+       Від імені [уряду]Counteragent [я]Agent [дякую]Action всім громадянам за підтримку.
+  - |
+       [Він]Agent [виступив]Action від імені [компанії]Counteragent на міжнародній конференції.
+  - |
+       [Автор]Agent [пише]Action від імені [вигаданого персонажа]Counteragent.
+morphology:
+  - VP
+  - NP-Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       On behalf of X
+  - russian: |
+       VP от имени NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Subject Substitution

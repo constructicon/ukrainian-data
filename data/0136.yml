@@ -1,0 +1,53 @@
+---
+record: 136
+name: "(не) VP з/зі собою NP-Acc (NP-Gen)"
+illustration: "Ліки він привіз із собою з Берліна."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що деякий [учасник]Possessor має при собі [предмет]Theme і, переміщаючись, тримає його в зоні безпосереднього доступу. Зазвичай це вказує на те, що учасник бере предмет із собою в подорож, на прогулянку тощо. За наявності заперечення іноді форма NP-Acc замінюється на NP-Gen.
+  - english: |
+       The construction indicates that a [participant]Possessor has an [item]Theme on their person and, while moving, keeps it within immediate reach. It typically implies that the participant takes the item along on a trip, a walk, etc. In the presence of negation, the NP-Nom form is sometimes replaced by NP-Gen.
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor имеет при себе [предмет]Theme и, перемещаясь, держит его в зоне непосредственного доступа. Обычно это указывает на то, что участник берет предмет с собой в поездку, на прогулку и т.п. При наличии отрицания форма NP-Nom иногда заменяеться на NP-Gen.
+examples:
+  - |
+       Із собою в клас дозволено брати тільки [паспорт і ручку]Theme.
+  - |
+       [Тато]Possessor, візьми [нас]Theme із собою на вокзал!
+  - |
+       [Я]Possessor тоді взяла із собою [фотоапарат]Theme, але дістати не наважилася.
+  - |
+       [Усі вони]Possessor матимуть із собою необхідні для ночівлі [речі]Theme.
+  - |
+       [Я]Possessor не брала з собою взагалі [іграшок]Theme.
+morphology:
+  - VP
+  - NP-Acc (NP-Gen)
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       (take/bring/have) with
+  - russian: |
+       VP с собой NP-Acc
+common_fillers:
+  - ~
+semantic_types:
+  - type: Possession
+    subtypes:
+      - type: Comitative

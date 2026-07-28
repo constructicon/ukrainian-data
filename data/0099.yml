@@ -1,0 +1,54 @@
+---
+record: 99
+name: "майже XP"
+illustration: "Минулої ночі я майже не спав."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення наближеності до завершення певної [дії]Action, [стану]State або [кількості]Quantity, тобто коли щось відбувається майже повністю, але не до кінця.
+  - english: |
+       The construction is used to indicate the proximity to the completion of a certain [action]Action, [state]State, or [quantity]Quantity, that is, when something occurs almost completely but not entirely.
+  - russian: |
+       Конструкция используется для обозначения близости к завершению определённого [действия]Action, [состояния]State или [количества]Quantity, то есть когда что-то происходит почти полностью, но не до конца.
+examples:
+  - |
+       Випуск поштової марки анонсували майже [рік]Quantity тому.
+  - |
+       На лікування цієї жінки ми витратили майже [200 тисяч гривень]Quantity.
+  - |
+       Викладачі майже [не задають ]Action домашніх завдань.
+  - |
+       Майже всі діти [заразилися]Action невідомою інфекцією.
+  - |
+       У 2000-х роках майже [всі траси «Формули-1»]Property проектував німецький архітектор.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       almost
+  - russian: |
+       почти/практически XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Result
+    subtypes:
+      - type: Achieved Result

@@ -1,0 +1,53 @@
+---
+record: 110
+name: "у (NP-Gen) бути NP-Nom"
+illustration: "У мене є книга казок."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження володіння, наявності або доступності певного [об’єкта, ресурсу або властивості]Theme у [особи]Possessor. Конструкція показує, що певний елемент існує у розпорядженні особи.
+  - english: |
+       The construction is used to express possession, availability, or the presence of a certain [object, resource, or property]Theme with a [person]Possessor. The construction indicates that a certain element is at the disposal of the person.
+  - russian: |
+       Конструкция используется для выражения обладания, наличия или доступности определённого [объекта, ресурса или свойства]Theme у [лица]Possessor.
+examples:
+  - |
+       У [мене]Possessor є [питання]Theme до міністра.
+  - |
+       У [батька]Possessor було [п'ятеро дітей: четверо синів і донька]Theme.
+  - |
+       У [нього]Possessor є [добрі новини]Theme.
+  - |
+       У [нас]Possessor є [реальні шанси]Theme це зробити.
+  - |
+       У [Оксани]Possessor було [досить часу]Theme щоб прочитати книжку.
+morphology:
+  - NP-Gen
+  - NP-Nom
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       I have X
+  - russian: |
+       у NP-Gen быть NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Possession
+    subtypes:
+      - type: Possession

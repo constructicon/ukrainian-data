@@ -1,0 +1,51 @@
+---
+record: 104
+name: "Cl, оскільки Cl"
+illustration: "B цеху нікого не було, оскільки він перебуває на ремонті."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення того, що одне [діяння або ситуація]Cause є причиною іншого [діяння]Action, [ситуації]Situation або [оцінки]Evaluation. Вона вводить пояснювальне підрядне речення, яке пояснює, чому відбувається головна дія. Bикористовується у формальній або письмовій мові.
+  - english: |
+       The construction is used to indicate that one [action or situation]Cause is the cause of another [action]Action, [situation]Situation, or [evaluation]Evaluation. It introduces an explanatory subordinate clause that explains why the main action occurs. It is used in formal or written language.
+  - russian: |
+       Конструкция используется для обозначения того, что одно [действие или ситуация]Cause является причиной другого [действия]Action, [ситуации]Situation или [оценки]Evaluation. Она вводит пояснительное придаточное предложение, которое объясняет, почему происходит главное действие. Используется в формальной или письменной речи.
+examples:
+  - |
+       [Йому потрібна додаткова операція]Situation, оскільки [раніше він переніс дві операції]Cause.
+  - |
+       [Погода ускладнює операцію]Situation, оскільки [в місті дощить]Cause.
+  - |
+       [Більшість кімнат потребують ремонту]Situation, оскільки [вони старі]Cause.
+  - |
+       [Mожна використовувати слово іспит]Situation, оскільки [це синонім до слова екзамен]Cause.
+  - |
+       [Культура національних меншин інтегрована в життя країни]Situation, оскільки [є три офіційні мови]Cause.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       since, because
+  - russian: |
+       Cl, поскольку Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Cause
+    subtypes:
+      - type: Cause

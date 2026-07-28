@@ -48,7 +48,7 @@ equivalents:
   - russian: |
        как та/той/те NP
 common_fillers:
-  - ~
+  - NA
 semantic_types:
   - type: Comparison
     subtypes:

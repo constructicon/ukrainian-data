@@ -1,0 +1,53 @@
+---
+record: 91
+name: "(у NP-Gen/з(зі) NP-Ins) (NP-Nom Cop гаразд"
+illustration: "У тебе все гаразд?"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція позначає оцінку стану, порядку або задовільності [певного предмета або явища]Theme. Об’єкт або явище зазвичай перебуває під контролем або у володінні [особи/об’єкта]Possessor. Дієслово «бути» у теперішньому часі зазвичай опускається. Використовується для перевірки або підтвердження стану у нейтральному або розмовному стилі.
+  - english: |
+       The construction indicates an evaluation of the state, order, or satisfactory condition of [a certain object or phenomenon]Theme. The object or phenomenon is usually under the control or possession of [a person/object]Possessor. The verb “to be” in the present tense is typically omitted. It is used to check or confirm the state in a neutral or conversational style.
+  - russian: |
+       Конструкция обозначает оценку состояния, порядка или удовлетворительности [определённого предмета или явления]Theme. Объект или явление обычно находится под контролем или во владении [лица/объекта]Possessor. Глагол «быть» в настоящем времени обычно опускается. Используется для проверки или подтверждения состояния в нейтральном или разговорном стиле.
+examples:
+  - |
+       Зі [мною]Theme все гаразд — мені просто потрібен хороший сон.
+  - |
+       За кілька хвилин Людмила повернулася до студії і сказала, що із [нею]Theme усе гаразд.
+  - |
+       Було очевидно, що вона не жартує, що з [її самопочуттям]Theme усе гаразд.
+  - |
+       Дитину розшукали. З [хлопцем]Theme все гаразд. Example with u
+  - |
+       Якщо зі [здоров'ям]Theme все гаразд, можна їсти сухофрукти досхочу? — Не варто з'їдати більше п'яти різних сухофруктів на день одночасно.
+morphology:
+  - NP-Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       іs Х ok
+  - russian: |
+       (у NP-Gen) NP-Nom Cop в порядке
+common_fillers:
+  - ~
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm

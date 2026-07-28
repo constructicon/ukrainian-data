@@ -1,0 +1,55 @@
+---
+record: 143
+name: "усе/все життя VP"
+illustration: "Вони усе життя жили в одному місті."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція передає, що певна [ситуація]Situation триває надзвичайно довго і залишається актуальною донині - ніби її тривалість можна порівняти з усім людським життям.
+  - english: |
+       This construction indicates that [a situation]Situation has been going on for a very long time and is still relevant today - as if its duration were comparable to an entire human lifetime. Note that the use of the present temse of a verb includes the reference to the past, as if it is equivalent to X has been Ving.
+  - russian: |
+       Конструкция передаёт, что определённая [ситуация]Situation продолжается очень долго и остаётся актуальной по сей день - как если бы её длительность можно было сравнить с целой человеческой жизнью.
+examples:
+  - |
+       Він народився і все життя [прожив у Маріуполі]Situation.
+  - |
+       Усе життя [я думав, що мій брат не любить музику]Situation.
+  - |
+       Усе життя [він працював булочником]Situation й усе життя [мріяв виступати в римській опері]Situation.
+  - |
+       Моя бабуся все життя [готувала для великої родини]Situation.
+  - |
+       Вона усе життя [працює в лікарні]Situation.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       all (one’s) life, throughout one’s life
+  - russian: |
+       всю жизнь VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Timeline
+    subtypes:
+      - type: Time period

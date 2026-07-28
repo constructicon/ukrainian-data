@@ -1,0 +1,58 @@
+---
+record: 154
+name: "NP-Nom Cop не проти VP-Inf"
+illustration: "Ми не проти допомогти вам із проєктом."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає ставлення [учасника]Participant до здійснення ним певної [дії]Action. Учасник підтримує дію, погоджується її виконати, його ставлення є позитивним, але досить поміркованим.
+  - english: |
+       The construction expresses the [participant]Participant’s attitude toward performing a certain [action]Action. The participant supports the action, agrees to carry it out, and their attitude is positive but rather moderate.
+  - russian: |
+       Конструкция выражает отношение [участника]Participant к совершению им некоторого [действия]Action. Участник поддерживает действие, согласен его выполнить, его отношение положительное, но достаточно умеренное.
+examples:
+  - |
+       [Марія]Participant не проти [поїхати до Львова на вихідні]Action.
+  - |
+       [Гості]Participant були не проти [залишитися довше]Action.
+  - |
+       [Я]Participant зовсім не проти [спробувати ще раз]Action.
+  - |
+       [Колеги]Participant були не проти [працювати дистанційно]Action.
+  - |
+       [Сусіди]Participant були не проти [встановити спільну систему охорони]Action, оскільки в районі останнім часом почастішали крадіжки.
+morphology:
+  - NP-Nom
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not against
+  - russian: |
+       NP-Nom Cop не против VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Support
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement

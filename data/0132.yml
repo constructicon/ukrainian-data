@@ -1,0 +1,48 @@
+---
+record: 132
+name: "ніяк не VP-Fut"
+illustration: "Він ніяк не звикне до цієї думки."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає значення тривалої безуспішності або неможливості досягти результату [дії]Action: дія не відбувається попри спроби, очікування чи сприятливі умови. Часто передає відтінок роздратування, здивування або нетерпіння.
+  - english: |
+       The construction expresses prolonged unsuccessfulness or the inability to achieve a result: the action does not occur despite attempts, expectations, or favorable conditions. It often conveys a оттенок of irritation, surprise, or impatience.
+  - russian: |
+       Конструкция выражает значение длительной безуспешности или невозможности достичь результата [действия]Action: действие не происходит, несмотря на попытки, ожидания или благоприятные условия. Часто передаёт оттенок раздражения, удивления или нетерпения.
+examples:
+  - |
+       Вона ніяк не [напише]Action фінальну версію дисертації, попри чітко визначені дедлайни.
+  - |
+       Він ніяк не [подасть]Action заявку на грант, хоча всі необхідні документи вже давно підготовлені.
+  - |
+       Вони ніяк не [запустять проєкт]Action, попри те що фінансування було затверджено ще минулого року.
+  - |
+       Чому ти ніяк не [навчишся готувати цей рецепт]Action, хоча вже кілька разів дивився інструкцію?
+morphology:
+  - VP-Fut
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negative Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - russian: |
+       никак не VP-Fut
+common_fillers:
+  - ~
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Conative

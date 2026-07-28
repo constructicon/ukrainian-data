@@ -1,0 +1,56 @@
+---
+record: 73
+name: "(а) як же NP-Nom?"
+illustration: "А як же мама?"
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція призначена для нагадування адресатові про [конкретний факт]Theme, який уже відомий усім учасникам діалогу та є важливим для подальшого розуміння.
+  - english: |
+       The construction is intended to remind the addressee of a [specific fact]Theme that is already known to all participants in the dialogue and is important for further understanding.
+  - russian: |
+       Конструкция предназначена для напоминания адресату о [конкретном факте]Theme, который уже известен всем участникам диалога и важен для дальнейшего понимания.
+examples:
+  - |
+       Як же [інші маршрути]Theme?
+  - |
+       А як же [президентські вибори]Theme? ― спитає читач. (LB.ua, 2012)
+  - |
+       А як же [професійна етика]Theme, [взагалі професіоналізм]Theme у нашій професії, шановні колеги? (ПРОЧЕРК.інфо, 2011)
+  - |
+       А як же [Артем]Theme? ― запитав приятель. (Дорошенко, «Спогади», 1967)
+  - |
+       Державною може бути лише одна мова. ― А як же [мови меншин]Theme?  Їх потрібно підтримувати. (Кононенко, 2021)
+morphology:
+  - NP-Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       What about X?
+  - russian: |
+       (а) как же NP-Nom?
+common_fillers:
+  - ~
+semantic_types:
+  - type: Mirative
+    subtypes:
+      - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise

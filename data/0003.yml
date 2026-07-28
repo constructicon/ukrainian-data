@@ -47,7 +47,7 @@ equivalents:
   - russian: |
        неужели (не) VP?
 common_fillers:
-  - ~
+  - NA
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

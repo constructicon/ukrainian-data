@@ -1,0 +1,52 @@
+---
+record: 102
+name: "не дуже XP"
+illustration: "Зазвичай я не дуже рано прокидаюсь."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для пониження ступеня прояву [ознаки]Property або [дії]Action у розмовній або нейтрально-емоційній мові. Вона показує, що ознака або дія виявляється слабкіше, менш інтенсивно або менш виразно, ніж можна було б очікувати, часто з легким суб’єктивним чи емоційним відтінком.
+  - english: |
+       The construction is used to reduce the degree of manifestation of a [property]Property or [action]Action in conversational or neutrally emotional language. It indicates that a property or action appears weaker, less intense, or less pronounced than might be expected, often with a slight subjective or emotional nuance.
+  - russian: |
+       Конструкция используется для понижения степени проявления [признака]Property или [действия]Action в разговорной или нейтрально-эмоциональной речи. Она показывает, что признак или действие проявляется слабее, менее интенсивно или менее выразительно, чем можно было бы ожидать, часто с лёгким субъективным или эмоциональным оттенком.
+examples:
+  - |
+       Все це звучить якось не дуже [переконливо]Property.
+  - |
+       Мені здається, що вибір університету не дуже [важливий]Property.
+  - |
+       Що було потім — я вже не дуже [пам'ятаю]Action.
+  - |
+       Про його життя відомо не дуже [багато]Property.
+  - |
+       Щиро кажучи, я не дуже [вірила]Action, що він стане льотчиком.
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not so
+  - russian: |
+       не очень(-то)/не слишком(-то) XP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher

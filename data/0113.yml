@@ -1,0 +1,54 @@
+---
+record: 113
+name: "завжди VP"
+illustration: "Він завжди нам допомогав."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення постійності або регулярності певної [дії або стану]Situation у часі.
+  - english: |
+       The construction is used to denote the permanence or regularity of a certain [action or state]Situation over time.
+  - russian: |
+       Конструкция используется для обозначения постоянства или регулярности определённого [действия или состояния]Situation во времени.
+examples:
+  - |
+       Мама завжди [готує щось смачне на вихідних]Activity.
+  - |
+       Бібліотека завжди [зачиняється о дев’ятій вечора]State.
+  - |
+       Ми завжди [обговорювали плани на вихідні за вечерею]Action.
+  - |
+       Цей ресторан завжди [пропонує свіжу випічку зранку]Action.
+  - |
+       Друзі завжди [збираються разом у п’ятницю ввечері]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       always
+  - russian: |
+       всегда VP
+common_fillers:
+  - ~
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+  - type: Quantification
+    subtypes:
+      - type: Universal

@@ -1,0 +1,53 @@
+---
+record: 72
+name: "NP-Nom Cop схожий-Short на NP-Acc"
+illustration: "він схожий на батька"
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція виражає порівняння та маркує подібність [об’єкта]Theme, [учасника]Participant або [ситуації]Situation з [певним прототипом]Standard на підставі визначеної [ознаки]Property, не передбачаючи їх повного збігу.
+  - english: |
+       The construction expresses comparison and marks the similarity of an [object]Theme, [participant]Participant, or [situation]Situation to a [certain prototype]Standard on the basis of a particular [attribute]Property, without implying their complete identity.
+  - russian: |
+       Конструкция выражает сравнение и маркирует сходство [объекта]Theme, [участника]Participant или [ситуации]Situation с [некоторым прототипом]Standard на основании определённого [признака]Property, не подразумевая их полного совпадения.
+examples:
+  - |
+       Цей [прилад]Theme схожий на [фен]Standard. (Новини Хмельницького «Є», 2010)
+  - |
+       Тетяна додає, що [хлопець]Participant схожий на [свого діда]Standard.( Табло ID, 2008)
+  - |
+       Як повідомляється, деякі з них мали при собі [палиці]Theme, схожі на [бейсбольні біти]Standard. (UNIAN.NET, 2015)
+  - |
+       [Це]Situation було схоже на [зойк великого пораненого звіра]Standard. (Гаврош, 2013)
+  - |
+       Святому дали прізвисько Серповидець, бо побачив він уві сні [свиток]Theme, схожий [своєю формою]Property на [серп]Standard. (Новини Хмельницького «Є», 2022)
+morphology:
+  - NP-Nom
+  - NP-Acc
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X looks like Y / X resembles Y
+  - russian: |
+       NP-Nom Cop похожий-Short на NP-Acc
+common_fillers:
+  - Not applicable
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity

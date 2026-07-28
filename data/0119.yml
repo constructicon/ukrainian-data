@@ -1,0 +1,52 @@
+---
+record: 119
+name: "NumCrd-Nom мінус NumCrd-Nom – (дорівнює VP, це) NumCrd-Nom"
+illustration: "Десять мінус шість - чотирі."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція означає операцію над двома числами, у якій від одного [числа]Quantity віднімають інше [число]Quantity і отримують [результат]Result. Результат завжди виражається у називному відмінку.
+  - english: |
+       The construction represents an operation on two numbers, in which one [number]Quantity is subtracted from another [number]Quantity, resulting in [result] Result. The result is always expressed in the nominative case.
+  - russian: |
+       Конструкция представляет собой операцию над двумя числами, при которой от одного [числа]Quantity вычитается другое [число]Quantity, и получают резулятат[Result]. Результат всегда выражается в именительном падеже.
+examples:
+  - |
+       [П’ять]Quantity мінус [два]Quantity – це [три]Result.
+  - |
+       [Вісім]Quantity мінус [три]Quantity – дорівнює [п’ять]Result.
+  - |
+       [Сто]Quantity мінус [п'ятдесят]Quantity дорівнює [п'ятдесят]Result.
+  - |
+       [Десять]Quantity мінус [шість]Quantity — [чотирі]Result. До зарплати — рівно чотирі дні.
+  - |
+       [П'ять тисяч]Quantity мінус [три двісті]Quantity – [тисячу вісімсот]Result кілометрів проїхала машина.
+morphology:
+  - NumCrd-Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X minus Y is Z
+  - russian: |
+       NumCrd-Nom минус NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat -
+common_fillers:
+  - ~
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Substraction

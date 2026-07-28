@@ -1,0 +1,52 @@
+---
+record: 118
+name: "NumCrd-Nom плюс NumCrd-Nom – (дорівнює VP, це) NumCrd-Nom"
+illustration: "Шість плюс чотири - десять."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція означає операцію над двома числами, у якій до одного [числа]Quantity додають інше [число]Quantity і отримують [результат]Result. Результат завжди виражається у називному відмінку.
+  - english: |
+       The construction denotes an operation on two numbers, in which one [number]Quantity is added to another [number]Quantity to obtain [result]Result. The result is always expressed in the nominative case.
+  - russian: |
+       Конструкция обозначает операцию над двумя числами, в которой к одному [числу]Quantity прибавляют другое [число]Quantity, и получают [результат]Result. Результат всегда выражается в именительном падеже.
+examples:
+  - |
+       [Вісім]Quantity плюс [один]Quantity – дорівнює [дев’ять]Result.
+  - |
+       [Три]Quantity плюс [сім]Quantity – дорівнює [десять]Result.
+  - |
+       Вчителька пояснила, що [п’ять]Quantity плюс ]п’ять]Quantity – дорівнює [десять]Result, щоб учні зрозуміли, як швидко додавати парні числа.
+  - |
+       Коли [один]Quantity плюс [один]Quantity – це [два]Result, і там ніяк три не може бути.
+  - |
+       Під час гри в шахи він помітив, що [сім]Quantity плюс [вісім]Qquantity – це [п’ятнадцять]Result, рахуючи фігури на дошці.
+morphology:
+  - NumCrd-Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X plus Y is Z
+  - russian: |
+       NumCrd-Nom плюс/и NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat -
+common_fillers:
+  - ~
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Addition

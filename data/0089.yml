@@ -1,0 +1,53 @@
+---
+record: 89
+name: "VP-Fut/imp іншим разом"
+illustration: "Приходьте іншим разом, скажімо, завтра."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для того, щоб відкласти здійснення [дії]Action на майбутнє, не вказуючи точного часу, з акцентом на перенесення або повторну можливість виконання дії.
+  - english: |
+       This construction is used to postpone the performance of an [action]Action, without specifying an exact time, with emphasis on deferring or allowing the action to occur at another opportunity.
+  - russian: |
+       Эта конструкция используется, чтобы отложить выполнение [действия]Action на будущее, не указывая точного времени, с акцентом на перенос или повторную возможность выполнения действия.
+examples:
+  - |
+       Сьогодні в неї вечір у сім'ї.  [У кіно з Павлом вона піде]Action іншим разом.
+  - |
+       При цьому він додав: «[Але про це поговоримо]Action іншим разом». Should be imperative
+  - |
+       [Про це розповім]Action іншим разом, бо тим часом сталися події, які не можна оминути.
+  - |
+       [Спробую]Action іншим разом, сьогодні в мене це не виходить.
+  - |
+       Я перериваю нашу конференцію, [вона буде скликана]Action іншим разом.
+morphology:
+  - VP-Fut
+  - Imp
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       some other time
+  - russian: |
+       VP-Fut в другой раз
+common_fillers:
+  - ~
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Distant future

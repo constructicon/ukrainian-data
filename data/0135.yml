@@ -1,0 +1,55 @@
+---
+record: 135
+name: "(NP-Nom) (вітати) (NP-Acc) з NP-Ins"
+illustration: "Колеги вітали директора з ювілеєм компанії."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція виражає значення соціально ритуалізованого привітання, у якій [мовець]Agent адресує іншій [особі або групі осіб]Counteragent позитивну оцінку чи побажання у зв’язку з певною [подією або досягненням]Event.
+  - english: |
+       The construction expresses the meaning of a socially ritualized act of congratulation, in which the [speaker]Agent addresses another [person or group of people]Counteragent) with a positive evaluation or well-wishes in connection with [a particular event or achievement]Event.
+  - russian: |
+       Конструкция выражает значение социально ритуализированного поздравления, в которой [говорящий]Agent адресует другому [лицу или группе лиц] Counteragent положительную оценку или пожелания в связи с [определённым событием или достижением]Event.
+examples:
+  - |
+       [Друзі]Agent вітали [Марію]Counteragent з [успішним захистом дисертації]Event.
+  - |
+       [Ми]Agent щиро вітаємо [вас]Counteragent з [новим проєктом]Event.
+  - |
+       У коментарях під фото [друзі]Agent вітали [дівчину]Counteragent з [днем народження дочки]Event.
+  - |
+       Щиро вітаю з [Новим роком]Event та бажаю всіх земних благ!
+  - |
+       [Усі]Agent вітали [команду]Counteragent з [перемогою в чемпіонаті]Event.
+morphology:
+  - NP-Nom
+  - NP-Ins
+  - NP-Acc
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       congratulate X on Y
+  - russian: |
+       (NP-Nom поздравлять) c NP-Ins (NP-Acc)
+common_fillers:
+  - ~
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Kind wishes

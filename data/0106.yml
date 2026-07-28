@@ -1,0 +1,53 @@
+---
+record: 106
+name: "NP-Dat (не) подобатися VP-Inf/ NP-Nom"
+illustration: "Мені подобається ця книга."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для вираження позитивної оцінки або емоційної реакції з боку [мовця]Experiencer на [певний об’єкт або ситуацію]Theme. Конструкція показує, що певний елемент викликає у мовця почуття симпатії, задоволення, привабливості.
+  - english: |
+       The construction is used to express a positive evaluation or an emotional reaction on the part of the [speaker]Experiencer toward a [particular object or situation]Theme. The construction indicates that a certain element evokes in the speaker feelings of liking, satisfaction, or attractiveness.
+  - russian: |
+       Конструкция используется для выражения положительной оценки или эмоциональной реакции со стороны [говорящего]Experiencer на [определённый объект или ситуацию]Theme. Конструкция показывает, что определённый элемент вызывает у говорящего чувство симпатии, удовлетворения или привлекательности.
+examples:
+  - |
+       [Мені]Experiencer подобається [цей проєкт]Theme.
+  - |
+       Вона знає, що [їй]Experiencer  дуже подобається [робота в кафе]Theme.
+  - |
+       [Мені]Experiencer  подобається [дивитися на тренування паралімпійців]Theme.
+  - |
+       [Йому]Experiencer дуже подобається [їздити на електромобілі]Theme, який не забруднює повітря.
+  - |
+       [Газета]Theme подобається [мені]Experiencer, тому що вона соціально-політична.
+morphology:
+  - NP-Dat
+  - VP-Inf
+  - NP-Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X likes Y
+  - russian: |
+       NP-Dat (не) нравиться VP-Inf/ NP-Nom
+common_fillers:
+  - ~
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude

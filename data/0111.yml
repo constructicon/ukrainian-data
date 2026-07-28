@@ -1,0 +1,53 @@
+---
+record: 111
+name: "кожен із NP-Gen.Pl"
+illustration: "Кожен із нас отримав роботу."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення усі окремі елементи з певної [множини осіб або предметів]Set. Конструкція показує, що ознака, дія або ситуація поширюється на усі елементи цієї множини окремо.
+  - english: |
+       The construction is used to denote each individual element of a certain [set of persons or objects]Set. The construction shows that a property, action, or situation applies to every element of this set individually, rather than to the group as a whole.
+  - russian: |
+       Конструкция используется для обозначения каждого отдельного элемента из определённого [множества лиц или предметов]Set. Конструкция показывает, что признак, действие или ситуация распространяется на каждый элемент этого множества по отдельности, а не на группу в целом.
+examples:
+  - |
+       Кожен із [котеджів]Set мав свій окремий вихід на приватний пляж.
+  - |
+       Кожен із [60 художників]Set обирав, що саме показати на виставці.
+  - |
+       Я впевнений, що кожен із [нас]Set переможе.
+  - |
+       За ці послуги кожен із [туристів]Set заплатив по 10 тисяч доларів.
+  - |
+       Кожен із [банків]Set уже зараз має певну стратегію розвитку. КОЖНА ІЗ!!!!
+morphology:
+  - NP-Gen.Pl
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       each (and every one) of X
+  - russian: |
+       каждый из NP-Gen.Pl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal

@@ -1,0 +1,54 @@
+---
+record: 96
+name: "NP-Nom належати до числа NP-Gen"
+illustration: "Ця компанія належить до числа лідерів ринку."
+cefr_level: А1
+definitions:
+  - ukrainian: |
+       Конструкція  використовується для позначення того, що певний [учасник]Theme є [членом, представником або частиною групи]Property. Вона вказує на належність або приналежність до певного колективу або класу.
+  - english: |
+       The construction  is used to indicate that a certain [participant]Theme is a member, representative, or part of a [group, category, or set]Property. It denotes belonging or affiliation to a particular collective or class.
+  - russian: |
+       Конструкция  используется для обозначения того, что определённый [участник]Theme является членом, представителем или частью [группы, категории или множества]Property. Она указывает на принадлежность к определённому коллективу или классу.
+examples:
+  - |
+       [Ця книга]Theme належить до числа [найкращих видань з історії українського мистецтва]Property.
+  - |
+       [Особи, які не мають достатніх документів]Theme, не можуть належати до числа [претендентів]Property.
+  - |
+       [Руанський готичний собор]Theme належить до числа [пам'яток національної спадщини Франції]Property.
+  - |
+       [Маск]Theme належить до числа [тих, хто побоюється ери розумних роботів]Property.
+  - |
+       [Італія]Theme належить до числа [провідних країн ЄС]Property, з якими активно співпрацює Українa.
+morphology:
+  - NP-Nom
+  - NP-Gen
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is among Y, X is one of the Y
+  - russian: |
+       NP-Nom относиться к числу NP-Gen
+common_fillers:
+  - ~
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class

@@ -1,0 +1,56 @@
+---
+record: 115
+name: "NP-Nom могти VP-Pfv.Inf"
+illustration: "Я можу відкрити вікно."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція позначає, що [певний учасник]Agent має можливість здійснити [певну дію]Action, тобто довести її до результату. Ця можливість може бути зумовлена як внутрішніми властивостями учасника, його здібностями, так і зовнішніми обставинами.
+  - english: |
+       The construction denotes that a given [participant]Agent has the ability to carry out [a certain action]Action, i.e., to bring it to completion/result. This possibility may be determined both by the participant’s internal properties and abilities, as well as by external circumstances.
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Agent имеет возможность осуществить [некоторое действие]Action, то есть довести его до результата. Эта возможность может быть обусловлена как внутренними свойствами участника, его способностями, так и внешними обстоятельствами.
+examples:
+  - |
+       [Він]Agent не міг [знайти]Action потрібну статтю в бібліотеці.
+  - |
+       [Водій]Agent не міг [уникнути]Action аварії через ожеледь.
+  - |
+       [Підприємці]Agent могли [запустити]Action стартап за короткий час.
+  - |
+       [Молода людина]Agent не може [працевлаштуватися]Action, бо вона не має досвіду.
+  - |
+       [Ніхто]Agent не може [покидати]Action свій будинок, тільки якщо немає дуже нагальної потреби.
+morphology:
+  - NP-Nom
+  - VP-Pfv.Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       can, have the ability
+  - russian: |
+       NP-Nom мочь VP-Pfv.Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+      - type: Permission

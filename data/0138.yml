@@ -1,0 +1,53 @@
+---
+record: 138
+name: "згідно з/зі NP-Inst/згідно NP-Gen Cl"
+illustration: "Згідно зі звітом, ситуація на ринку стабілізується."
+cefr_level: A2
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення того, що певна [ситуація]Situation ґрунтується на певному [джерелі]Source або відповідає йому, наприклад закону, документу, плану чи інструкції.
+  - english: |
+       The construction is used to indicate that a ceratain [situation]Situation is based on or corresponds to a particular [source]Source, such as a law, document, plan, or instruction.
+  - russian: |
+       Конструкция используется для обозначения того, что определённая [ситуация]Situation основана на определённом [источнике]Source или соответствует ему, например закону, документу, плану или инструкции.
+examples:
+  - |
+       Згідно з [вчорашнім опитуванням громадської думки]Source, [полякам це рішення сподобалося]Situation.
+  - |
+       Згідно з [норвезьким законодавством]Source, [ув'язнені мають право отримувати вищу освіту]Situation.
+  - |
+       Згідно з [попереднім дослідженням вчених]Source, [гробниці датуються кінцем IV — II століттям до нашої ери]Situation.
+  - |
+       Згідно з [дослідженням]Source, [такі цінності, як свобода, гідність, справедливість і рівність для українців важливі]Situation.
+  - |
+       [Всі виконують умови карантину]Situation згідно [існуючих рекомендацій]Source.
+morphology:
+  - NP-Inst
+  - Cl
+  - NP-Gen
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Complex preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       according to X
+  - russian: |
+       согласно NP-Dat, Cl
+common_fillers:
+  - ~
+semantic_types:
+  - type: Source of information
+    subtypes:
+      - type: Sourse of information

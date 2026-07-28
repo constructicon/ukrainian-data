@@ -1,0 +1,52 @@
+---
+record: 97
+name: "(NP-Dat) Cop треба VP-Inf"
+illustration: "Нам треба йти додому до темряви."
+cefr_level: A1
+definitions:
+  - ukrainian: |
+       Конструкція використовується для позначення того, що певному [учаснику]Recipient необхідно або слід виконати певну [дію]Action. Вона виражає потребу або обов’язок, часто сприймається як більш особисте або ситуативне вживання. більш розмовне.
+  - english: |
+       The construction  is used to indicate that a certain [participant]Recipient needs or should perform a particular [action]Action. It expresses need or obligation and is often perceived as more personal, situational, and conversational.
+  - russian: |
+       Конструкция используется для обозначения того, что определённому [участнику]Recipient необходимо или следует выполнить определённое [действие]Action. Она выражает потребность или обязанность и часто воспринимается как более личная, ситуативная и разговорная.
+examples:
+  - |
+       [Нам]Participant треба [берегти]Action природу, це важливо, бо мало хто задумується про екологічні проблеми.
+  - |
+       [Мені]Participant [треба зробити]Action два термінові дзвінки, — сказала жінка.
+  - |
+       Він зазначив, що йому треба працювати і допомагати дочці.
+morphology:
+  - NP-Dat
+  - Cop
+  - VP-Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       need, should
+  - russian: |
+       (NP-Dat) Cop надо/нужно VP-Inf
+common_fillers:
+  - ~
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity
